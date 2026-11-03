@@ -1,0 +1,45 @@
+{
+  "created_utc": "2026-11-03T18:11:14.715040+00:00",
+  "application_version": "0.5.1",
+  "python": "3.14 x64",
+  "application_tests": 63,
+  "protocol_tests": 22,
+  "hdl_suites": 9,
+  "python_install": "Fresh isolated venv from requirements-vector60.txt; pip check passed",
+  "relocation": "install.ps1 in a separate path containing spaces; base requirements only; Run.cmd --demo --close-after 3 exited 0",
+  "quartus": "25.1std.0 Build 1129 SC Lite Edition",
+  "device": "EP4CE6E22C8",
+  "logic_elements": {
+    "used": 6162,
+    "total": 6272
+  },
+  "m9k": {
+    "used": 23,
+    "total": 30
+  },
+  "dsp_18bit_equivalent": {
+    "used": 5,
+    "total": 15
+  },
+  "pll": {
+    "used": 1,
+    "total": 2
+  },
+  "timing_checks": 66,
+  "minimum_slack_ns": 0.137,
+  "unconstrained_paths": 0,
+  "firmware_pof_sha256": "7e652373ae74ca5d1734248706c16cae9fdaf9ef25b28a321869271220e0212d",
+  "rebuild_matches_measured_pof": true,
+  "public_rtl_identical_to_working": true,
+  "working_sources_unchanged": 49,
+  "original_archive_unchanged": 131,
+  "pin_locations_unchanged": 88,
+  "bench_files_identical": 59,
+  "hardware_programmed": false,
+  "live_devices_accessed": false,
+  "limitations": [
+    "Windows/Python 3.14 tested; other environments untested",
+    "No live recheck of the configurable WinUSB adapter in this stage",
+    "Quartus synthesis warnings retained in quartus-build.txt; no errors or critical warnings"
+  ]
+}

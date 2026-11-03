@@ -1,0 +1,269 @@
+{
+  "point": 7,
+  "attempt": 1,
+  "utc": "2026-11-03T17:05:31.198859+00:00",
+  "start_s": 14728.108875,
+  "end_s": 14757.1603681,
+  "distance_mm": 3425.0,
+  "vector_values": [
+    {
+      "utc": "2026-11-03T17:05:04.094637+00:00",
+      "monotonic_s": 14730.0568685,
+      "distance_mm": 3425.0
+    },
+    {
+      "utc": "2026-11-03T17:05:06.569363+00:00",
+      "monotonic_s": 14732.531594,
+      "distance_mm": 3425.0
+    },
+    {
+      "utc": "2026-11-03T17:05:09.044275+00:00",
+      "monotonic_s": 14735.0065054,
+      "distance_mm": 3425.0
+    },
+    {
+      "utc": "2026-11-03T17:05:11.544274+00:00",
+      "monotonic_s": 14737.5065044,
+      "distance_mm": 3425.0
+    },
+    {
+      "utc": "2026-11-03T17:05:14.019210+00:00",
+      "monotonic_s": 14739.9814403,
+      "distance_mm": 3425.0
+    },
+    {
+      "utc": "2026-11-03T17:05:16.494156+00:00",
+      "monotonic_s": 14742.4563933,
+      "distance_mm": 3425.0
+    },
+    {
+      "utc": "2026-11-03T17:05:31.198133+00:00",
+      "monotonic_s": 14757.1603663,
+      "distance_mm": 3425.0
+    }
+  ],
+  "distance_span_mm": 0.0,
+  "uart_packets": 1181,
+  "valid_packets": 1181,
+  "phases": {
+    "analog_high_deg": {
+      "mean_deg": 104.71458502886769,
+      "sd_deg": 0.15540344423781025,
+      "span_deg": 0.6862118281424046,
+      "count": 1181
+    },
+    "analog_low_deg": {
+      "mean_deg": 13.423333281958682,
+      "sd_deg": 0.03865937098165001,
+      "span_deg": 0.2003839798271656,
+      "count": 1181
+    },
+    "digital_high_deg": {
+      "mean_deg": 105.90146535308494,
+      "sd_deg": 0.27152984144071934,
+      "span_deg": 1.783604621887207,
+      "count": 1181
+    },
+    "digital_low_deg": {
+      "mean_deg": 12.238206907636469,
+      "sd_deg": 0.04034835565620316,
+      "span_deg": 0.21489858627319336,
+      "count": 1181
+    }
+  },
+  "amplitudes_v": {
+    "ch1": 1.3125782320954962,
+    "ch2": 1.9677879597148369,
+    "ch3": 4.3071289236957515,
+    "ch4": 7.364844457609399
+  },
+  "detectors_v": {
+    "adc5": 2.6933582768839965,
+    "adc6": 2.9604979889923793,
+    "adc7": 6.822030800169348,
+    "adc8": 5.956226926333616
+  },
+  "config": {
+    "protocol_version": 3,
+    "type": 130,
+    "status": 0,
+    "status_name": "OK",
+    "request_id": 1,
+    "measurement": false,
+    "configuration": true,
+    "channels": [
+      {
+        "ftw": 12845056,
+        "phase_word": 0,
+        "amplitude": 200
+      },
+      {
+        "ftw": 635888254,
+        "phase_word": 0,
+        "amplitude": 1000
+      },
+      {
+        "ftw": 12879416,
+        "phase_word": 0,
+        "amplitude": 1000
+      },
+      {
+        "ftw": 635830272,
+        "phase_word": 0,
+        "amplitude": 450
+      }
+    ],
+    "generation": 0,
+    "configuring": false
+  },
+  "photos": [
+    {
+      "utc": "2026-11-03T17:05:25.243157+00:00",
+      "monotonic_s": 14747.5338767,
+      "pair": [
+        1,
+        3
+      ],
+      "distance_mm": 3425.0,
+      "settings": {
+        "1": {
+          "display": "1",
+          "scale": "1.000000e+00",
+          "offset": "2.000000e+00",
+          "probe": "1.000000e+01",
+          "coupling": "DC"
+        },
+        "2": {
+          "display": "0",
+          "scale": "2.000000e+00",
+          "offset": "2.000000e+00",
+          "probe": "1.000000e+01",
+          "coupling": "DC"
+        },
+        "3": {
+          "display": "1",
+          "scale": "5.000000e+00",
+          "offset": "-1.000000e+01",
+          "probe": "1.000000e+01",
+          "coupling": "DC"
+        },
+        "4": {
+          "display": "0",
+          "scale": "1.000000e+01",
+          "offset": "-3.000000e+01",
+          "probe": "1.000000e+01",
+          "coupling": "DC"
+        }
+      },
+      "time_scale": "5.0000000e-05",
+      "size": [
+        800,
+        480
+      ],
+      "crc_repairs": [
+        {
+          "chunk": "tEXt",
+          "offset": 53,
+          "old": 3529875106,
+          "new": 3884485833
+        },
+        {
+          "chunk": "tEXt",
+          "offset": 82,
+          "old": 3529875106,
+          "new": 1062870423
+        },
+        {
+          "chunk": "tEXt",
+          "offset": 135,
+          "old": 3529875106,
+          "new": 3248829889
+        },
+        {
+          "chunk": "tEXt",
+          "offset": 175,
+          "old": 3529875106,
+          "new": 3809763759
+        }
+      ],
+      "pixel_payload_unchanged": true,
+      "native_sha256": "05d723a53765aa6ff4cd7155acbde4a18370456834dcf9e28eaaee3cdc3f5aa7",
+      "screen_sha256": "b5edfd57524c1c6b23280341cb2e551641cf4d2d17a4a2aa0ac41e162527187e"
+    },
+    {
+      "utc": "2026-11-03T17:05:29.593562+00:00",
+      "monotonic_s": 14752.610835,
+      "pair": [
+        2,
+        4
+      ],
+      "distance_mm": 3425.0,
+      "settings": {
+        "1": {
+          "display": "0",
+          "scale": "1.000000e+00",
+          "offset": "2.000000e+00",
+          "probe": "1.000000e+01",
+          "coupling": "DC"
+        },
+        "2": {
+          "display": "1",
+          "scale": "2.000000e+00",
+          "offset": "4.000000e+00",
+          "probe": "1.000000e+01",
+          "coupling": "DC"
+        },
+        "3": {
+          "display": "0",
+          "scale": "5.000000e+00",
+          "offset": "-1.000000e+01",
+          "probe": "1.000000e+01",
+          "coupling": "DC"
+        },
+        "4": {
+          "display": "1",
+          "scale": "1.000000e+01",
+          "offset": "-2.000000e+01",
+          "probe": "1.000000e+01",
+          "coupling": "DC"
+        }
+      },
+      "time_scale": "5.0000000e-05",
+      "size": [
+        800,
+        480
+      ],
+      "crc_repairs": [
+        {
+          "chunk": "tEXt",
+          "offset": 53,
+          "old": 3529875106,
+          "new": 3884485833
+        },
+        {
+          "chunk": "tEXt",
+          "offset": 82,
+          "old": 3529875106,
+          "new": 1062870423
+        },
+        {
+          "chunk": "tEXt",
+          "offset": 135,
+          "old": 3529875106,
+          "new": 3248829889
+        },
+        {
+          "chunk": "tEXt",
+          "offset": 175,
+          "old": 3529875106,
+          "new": 3809763759
+        }
+      ],
+      "pixel_payload_unchanged": true,
+      "native_sha256": "de468f16652af55c81b9975d268b6095296941691f81762fd5e9112d7597b299",
+      "screen_sha256": "b75c69be12e5cfc02aab9db1018a8a16a786b647ada85c7cfc2fcb0307db2c43"
+    }
+  ],
+  "calibration_id": "6c959d57db56d0397e0618d8026c43604e38874606a59c39262eb9daf9059de6",
+  "selection": "Operator-confirmed stationary; settle 3s; >=15s/6 Vector readings; span<=3mm; >=98% valid UART; no fit-error selection"
+}

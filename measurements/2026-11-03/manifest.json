@@ -1,0 +1,1454 @@
+{
+  "session": "20261103T165315Z-paired-scope",
+  "publication_files": [
+    {
+      "path": "calibration.json",
+      "sha256": "bb944833ca4da81da664df7bcd712ed03042256857af7ffe410b94714fd216d7",
+      "bytes": 2299
+    },
+    {
+      "path": "formula-verification.json",
+      "sha256": "e827336badf8a2c6ba07d288e379ec6351903d20656cb204f3cc812984fa8c11",
+      "bytes": 2107
+    },
+    {
+      "path": "measurements.json",
+      "sha256": "01d3d43bcf89df8577bfef754c1aac943bbd628fadc332d3b1de4a84dcbd2d29",
+      "bytes": 105222
+    },
+    {
+      "path": "metrics.json",
+      "sha256": "73f481ee4fd4e8a82552babb5ca43cf719c42a28fc642958dc8a4f9da0c3ff71",
+      "bytes": 296
+    },
+    {
+      "path": "photo-index.json",
+      "sha256": "1f84175a42731bfb65383bc3a5f944fd29aa96b4db70a9e6efc1d748439a97e2",
+      "bytes": 10663
+    },
+    {
+      "path": "README.md",
+      "sha256": "9820a0e0874e21d0d554b47a7044e084957c4d3ea818e4a9ce959beaa16fae9f",
+      "bytes": 11815
+    },
+    {
+      "path": "Данные/point-01.json",
+      "sha256": "988f787741d5b11413708bde2734a3c81a8f253643fb37cc5027d3c85dbfd663",
+      "bytes": 6834
+    },
+    {
+      "path": "Данные/point-02.json",
+      "sha256": "d50ec4d03a7ba1744ec5aff65134cb84c420283947a1859561eee6f018ef4fb5",
+      "bytes": 6838
+    },
+    {
+      "path": "Данные/point-03.json",
+      "sha256": "3be05b7b27b6929740fa81c695743dd09506c3361c82c21af3ebdbcb764d28ce",
+      "bytes": 6837
+    },
+    {
+      "path": "Данные/point-04.json",
+      "sha256": "5d56ed2403af4feea0e6a6f9595fe49369834086098c5f13e743fafd5cedb3f0",
+      "bytes": 6836
+    },
+    {
+      "path": "Данные/point-05.json",
+      "sha256": "1287917b7f00db4aee189f2783c4055d870361f0df2472779691a713d1eada64",
+      "bytes": 6839
+    },
+    {
+      "path": "Данные/point-06.json",
+      "sha256": "1c24f3924353a9d54cfc30dc374bc8e5ecc2d81daf53b01970ce3ca9af25892b",
+      "bytes": 6841
+    },
+    {
+      "path": "Данные/point-07.json",
+      "sha256": "7dc323696e10040c5123c4a800800c1eb3a7f49e8dd8500478cfe23862ceb6fd",
+      "bytes": 6840
+    },
+    {
+      "path": "Данные/point-08.json",
+      "sha256": "8c6f34d137de70bb21ba79c7ab7b807da8555d6c043bab69c784d1227a885d83",
+      "bytes": 6886
+    },
+    {
+      "path": "Данные/point-09.json",
+      "sha256": "414616805c01d94c7fb3694e5c43dc9d34bb50d5f46d5637aa1997c7fd7480cc",
+      "bytes": 7016
+    },
+    {
+      "path": "Данные/point-10.json",
+      "sha256": "3b883bc8e74e81b38008c44bb40565ed4a948daad8d09f7067ad8eae02ae7098",
+      "bytes": 6952
+    },
+    {
+      "path": "Осциллограммы/point-01_00762.0mm_ch1-ch3.png",
+      "sha256": "120537268f3f2b23eb06e39c6e0c88ab096f1f6d0414e618bff380981c4c1032",
+      "bytes": 49505
+    },
+    {
+      "path": "Осциллограммы/point-01_00762.0mm_ch1-ch3.svg",
+      "sha256": "5581c35e186ba0cc69326dfadd61442f74d2c698c49b6d1acb53e38e67d5fb86",
+      "bytes": 66559
+    },
+    {
+      "path": "Осциллограммы/point-01_00762.0mm_ch2-ch4.png",
+      "sha256": "0bbe4af44f0bf959564aa5ccc9e1040bfcf49cfd3eee0e94aafed328e3b1e519",
+      "bytes": 46746
+    },
+    {
+      "path": "Осциллограммы/point-01_00762.0mm_ch2-ch4.svg",
+      "sha256": "2c78facb65b5505cd1e6eba3fbd47abee9d183ef1154d20ba82822b561085ef7",
+      "bytes": 62879
+    },
+    {
+      "path": "Осциллограммы/point-02_01091.0mm_ch1-ch3.png",
+      "sha256": "d987dacce7ed40d00a8485ea2c288f7c935cbda48d0fbd11801e289d751a0055",
+      "bytes": 49046
+    },
+    {
+      "path": "Осциллограммы/point-02_01091.0mm_ch1-ch3.svg",
+      "sha256": "f54940d3f2da9c1da83a7193485c623dfa3f19df0998512c185db0def6f1221c",
+      "bytes": 65948
+    },
+    {
+      "path": "Осциллограммы/point-02_01091.0mm_ch2-ch4.png",
+      "sha256": "889dd9b52c130793ec8415195140592f0103faf741b33afbaa7fb70151350c25",
+      "bytes": 46631
+    },
+    {
+      "path": "Осциллограммы/point-02_01091.0mm_ch2-ch4.svg",
+      "sha256": "93daf16961516e889057179469cea718a3507805137c70999a482bd7feee8987",
+      "bytes": 62728
+    },
+    {
+      "path": "Осциллограммы/point-03_01480.0mm_ch1-ch3.png",
+      "sha256": "d37facf2c11486c7b482ad7c38f63bc8c979f4736f5bdcc405df331a83610eae",
+      "bytes": 49411
+    },
+    {
+      "path": "Осциллограммы/point-03_01480.0mm_ch1-ch3.svg",
+      "sha256": "85ed95e177b97ca6c04db7f5ec516bcb5a930d4b65922d47d8e6aaafd333384b",
+      "bytes": 66436
+    },
+    {
+      "path": "Осциллограммы/point-03_01480.0mm_ch2-ch4.png",
+      "sha256": "5b84e13d50b0294c384fde15b633b62a7c402a994f7df15135fcc9c51eaa3ef7",
+      "bytes": 47055
+    },
+    {
+      "path": "Осциллограммы/point-03_01480.0mm_ch2-ch4.svg",
+      "sha256": "8ca13b62efdd11df133b38022161ec839206bd1d039d3fbdd597ccd373899088",
+      "bytes": 63292
+    },
+    {
+      "path": "Осциллограммы/point-04_01958.0mm_ch1-ch3.png",
+      "sha256": "c6ecb77d59027505a2836b53c20164dcc87855731e897ea7881e30fc38bfd6d8",
+      "bytes": 49364
+    },
+    {
+      "path": "Осциллограммы/point-04_01958.0mm_ch1-ch3.svg",
+      "sha256": "41da1c5736cf0fce47a07883563f314cd735118ba7374f8eba923238b12bbbf1",
+      "bytes": 66372
+    },
+    {
+      "path": "Осциллограммы/point-04_01958.0mm_ch2-ch4.png",
+      "sha256": "ae38caff57d6387b86a6975f535c53f5fe86b664bd148a58fae8f40347d9c94c",
+      "bytes": 47176
+    },
+    {
+      "path": "Осциллограммы/point-04_01958.0mm_ch2-ch4.svg",
+      "sha256": "10cb7c59e24026f60c3fcd5241770003e6873255ad2522bec95c869d895d03f7",
+      "bytes": 63456
+    },
+    {
+      "path": "Осциллограммы/point-05_02398.0mm_ch1-ch3.png",
+      "sha256": "fbf2a92c0c887051df847b7d3ec1b8c4761787ac743880d81ac7a55d9b4c413b",
+      "bytes": 49545
+    },
+    {
+      "path": "Осциллограммы/point-05_02398.0mm_ch1-ch3.svg",
+      "sha256": "5140e3e72cf51ff9f431b01493f247b809a71674af2a2ee18e518cb65999c96d",
+      "bytes": 66612
+    },
+    {
+      "path": "Осциллограммы/point-05_02398.0mm_ch2-ch4.png",
+      "sha256": "dc56d6682a50c2d55144386e86389379fccea08947a9bc638206e1053a45f608",
+      "bytes": 48319
+    },
+    {
+      "path": "Осциллограммы/point-05_02398.0mm_ch2-ch4.svg",
+      "sha256": "f6625438a1d3901f89b64b09a916087531e387f09f135da2898bd28a6a9e4599",
+      "bytes": 64980
+    },
+    {
+      "path": "Осциллограммы/point-06_02876.0mm_ch1-ch3.png",
+      "sha256": "7c9e3b15553476c8fe2946944d8076eef9ceffdbc7a12727f7ea7eb7d1a386b3",
+      "bytes": 49096
+    },
+    {
+      "path": "Осциллограммы/point-06_02876.0mm_ch1-ch3.svg",
+      "sha256": "70d131329ac1b1abbc53988490f551018c1489ab6a185d7cb5d81a81c0035250",
+      "bytes": 66016
+    },
+    {
+      "path": "Осциллограммы/point-06_02876.0mm_ch2-ch4.png",
+      "sha256": "72901dc5441c6e82d1e9b73782731976020c89ba6e24e4850f7ab23e73b71484",
+      "bytes": 46708
+    },
+    {
+      "path": "Осциллограммы/point-06_02876.0mm_ch2-ch4.svg",
+      "sha256": "2a4e9c31fbf92d9cbce076e91b70a7c5195d798de0657c26371bd89b8ef0a3df",
+      "bytes": 62832
+    },
+    {
+      "path": "Осциллограммы/point-07_03425.0mm_ch1-ch3.png",
+      "sha256": "b5edfd57524c1c6b23280341cb2e551641cf4d2d17a4a2aa0ac41e162527187e",
+      "bytes": 49360
+    },
+    {
+      "path": "Осциллограммы/point-07_03425.0mm_ch1-ch3.svg",
+      "sha256": "4805acecdb66fc0002e6c6ef4f3c0d0c972111ba32829304fb0e9f5f9f2622de",
+      "bytes": 66368
+    },
+    {
+      "path": "Осциллограммы/point-07_03425.0mm_ch2-ch4.png",
+      "sha256": "b75c69be12e5cfc02aab9db1018a8a16a786b647ada85c7cfc2fcb0307db2c43",
+      "bytes": 44509
+    },
+    {
+      "path": "Осциллограммы/point-07_03425.0mm_ch2-ch4.svg",
+      "sha256": "d29b8735c4da8c91b935c367e793bc263c71e7e6e795b12087c8037e5b940a15",
+      "bytes": 59900
+    },
+    {
+      "path": "Осциллограммы/point-08_04198.0mm_ch1-ch3.png",
+      "sha256": "2d10e90a393aa05dd48f4ac6fb00206be97cfba9cb871d38113ec0a9005a78bf",
+      "bytes": 50237
+    },
+    {
+      "path": "Осциллограммы/point-08_04198.0mm_ch1-ch3.svg",
+      "sha256": "3c506060ac9c95bd697ee2b88468a2f6f87102972370f78351cfdf52a8be14ad",
+      "bytes": 67536
+    },
+    {
+      "path": "Осциллограммы/point-08_04198.0mm_ch2-ch4.png",
+      "sha256": "54b56a7ac9ec36d4a52af323077acd441e22f2280f93e3034fdd723966b4c37e",
+      "bytes": 44226
+    },
+    {
+      "path": "Осциллограммы/point-08_04198.0mm_ch2-ch4.svg",
+      "sha256": "bf775f4c18a36ce81b61571c5709b994ffde2cf5ff6f1a346da4691515167256",
+      "bytes": 59520
+    },
+    {
+      "path": "Осциллограммы/point-09_04814.0mm_ch1-ch3.png",
+      "sha256": "485608badfeace366c1f0dec7bbd011e6d048db19af00deeb7b9862fd817bc59",
+      "bytes": 49674
+    },
+    {
+      "path": "Осциллограммы/point-09_04814.0mm_ch1-ch3.svg",
+      "sha256": "58077730a76e4f673673908c9ff4bcf84451b4e4be9e0d96356e384fd491fbe4",
+      "bytes": 66784
+    },
+    {
+      "path": "Осциллограммы/point-09_04814.0mm_ch2-ch4.png",
+      "sha256": "53bde64db2e7b9de4f9a6c71ed0854985ac057c0a536bb3020451f6e65091c73",
+      "bytes": 44476
+    },
+    {
+      "path": "Осциллограммы/point-09_04814.0mm_ch2-ch4.svg",
+      "sha256": "a5ab02eb64c753b0f5e88fa2fe2d18c68beb186b3f47c38bf8c2fd0b4b413864",
+      "bytes": 59856
+    },
+    {
+      "path": "Осциллограммы/point-10_05635.0mm_ch1-ch3.png",
+      "sha256": "06a309f2aa2bcd84473061126bbed760bbb948fecaa0b9d2ab26b5aaab4dab00",
+      "bytes": 48816
+    },
+    {
+      "path": "Осциллограммы/point-10_05635.0mm_ch1-ch3.svg",
+      "sha256": "a4ecc53ecefd7934de0090930a86ae83664d84d52efe671fd7bfb6a8f631095c",
+      "bytes": 65640
+    },
+    {
+      "path": "Осциллограммы/point-10_05635.0mm_ch2-ch4.png",
+      "sha256": "a78fe19a57ccf4958877de12f296b408e388ee6509cc3882ac483f6b7ff5cc41",
+      "bytes": 47957
+    },
+    {
+      "path": "Осциллограммы/point-10_05635.0mm_ch2-ch4.svg",
+      "sha256": "9d3ca4e87ae25f283352ee581ae98433b74e3402324fd611425851d038552220",
+      "bytes": 64496
+    },
+    {
+      "path": "Осциллограммы/README.md",
+      "sha256": "735bcd824b7541b47a888cfcc6dcbea4072ca2b46b55579464f405eba8d0763d",
+      "bytes": 2943
+    },
+    {
+      "path": "Стендовые измерения.xlsx",
+      "sha256": "4cf68147f070e3dd4469b9ac547039f69f066ee8fb6f6bc27ed2daa12bcb89c0",
+      "bytes": 23789
+    }
+  ],
+  "raw_session_files": [
+    {
+      "path": "analysis/bench_pair_photos.py",
+      "sha256": "cba48562833ba6b560a1bfd68dea2782289a509ac300e6c81eb2990e4ff1e871",
+      "bytes": 3302
+    },
+    {
+      "path": "analysis/bench_pair_point.py",
+      "sha256": "989f1a5046d4500a6641682f96fd51997bb0fa13d2b425a055fb2d54327986e5",
+      "bytes": 12009
+    },
+    {
+      "path": "analysis/bench_pair_report.py",
+      "sha256": "ad55e9dbb0d6e48a3d3ff6dbeb927710295ecdb7f0131c9ba62dc5182167d6c7",
+      "bytes": 16229
+    },
+    {
+      "path": "analysis/bench_pair_summary.py",
+      "sha256": "520f2f0f1e9a808a9d9df3994d7a3f46b164896c346fc7feb5a121b8c54e6cdd",
+      "bytes": 4676
+    },
+    {
+      "path": "analysis/build.log",
+      "sha256": "d0a1a1251d739b380e8adc33334651a7586d7cd049cee64481030205de7cc13f",
+      "bytes": 632
+    },
+    {
+      "path": "analysis/build_workbook.mjs",
+      "sha256": "5d28a07d42edd18983c98419e156e8108353cef25f85ed410662fa2d439b3092",
+      "bytes": 15872
+    },
+    {
+      "path": "analysis/xlsx-structure-verification.json",
+      "sha256": "3f84687c3d12760645e4c6b3495530f3c788c287d19ea10815fc0067eb34e987",
+      "bytes": 260
+    },
+    {
+      "path": "analysis/Стендовые измерения.xlsx.inspect.ndjson",
+      "sha256": "4f217e9f6dda008c91caf4dee10845102b43be9ef40e81c07d9dd627948ac11a",
+      "bytes": 291672
+    },
+    {
+      "path": "calibration.json",
+      "sha256": "e671278809eb5a5ae285692a3ca0fdcbb0174abd7eb1cd91dc7dae0a173a8fa0",
+      "bytes": 2356
+    },
+    {
+      "path": "point-01-attempt-01/bluetooth.log",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "point-01-attempt-01/dds-readback.json",
+      "sha256": "37f0903632247de8ac995ad9c261067f9e16896f40d2144c85440515237a9215",
+      "bytes": 575
+    },
+    {
+      "path": "point-01-attempt-01/fpga.jsonl",
+      "sha256": "fa13a9b8a6873f81c8eab34a5d8ceaf108a795f403fb12b403484e680ae3d3c7",
+      "bytes": 3490764
+    },
+    {
+      "path": "point-01-attempt-01/point.json",
+      "sha256": "988f787741d5b11413708bde2734a3c81a8f253643fb37cc5027d3c85dbfd663",
+      "bytes": 6834
+    },
+    {
+      "path": "point-01-attempt-01/scope-1-3/metadata.json",
+      "sha256": "7baafec2c71c876c55b71913b9a0663970ec8385d2cf959151b0195dc1cbf6fb",
+      "bytes": 1576
+    },
+    {
+      "path": "point-01-attempt-01/scope-1-3/native.png",
+      "sha256": "bc6e77626ff0c1f3145762e05eba2598e1e5fa68f6d20c763d9154da280daacf",
+      "bytes": 49505
+    },
+    {
+      "path": "point-01-attempt-01/scope-1-3/screen.png",
+      "sha256": "120537268f3f2b23eb06e39c6e0c88ab096f1f6d0414e618bff380981c4c1032",
+      "bytes": 49505
+    },
+    {
+      "path": "point-01-attempt-01/scope-2-4/metadata.json",
+      "sha256": "6bc501e840042e7cf30d6c1e4e552fe36553080980635ff620f85e3a6e038665",
+      "bytes": 1576
+    },
+    {
+      "path": "point-01-attempt-01/scope-2-4/native.png",
+      "sha256": "bd68b7df4546d212ef413a3d7cbe3230a0a77d1becae05459ccd4cd25a501444",
+      "bytes": 46746
+    },
+    {
+      "path": "point-01-attempt-01/scope-2-4/screen.png",
+      "sha256": "0bbe4af44f0bf959564aa5ccc9e1040bfcf49cfd3eee0e94aafed328e3b1e519",
+      "bytes": 46746
+    },
+    {
+      "path": "point-01-attempt-01/scope-before.json",
+      "sha256": "c7eff9930d6f2888360311e7e708ec092b445d3cd383f7aa1816e3c626bc13fc",
+      "bytes": 911
+    },
+    {
+      "path": "point-01-attempt-01/transport.json",
+      "sha256": "68c5f6eec61d5b140d90a064c8a5dc6a45c3aa6432e11efac96409aeb6bf4655",
+      "bytes": 126
+    },
+    {
+      "path": "point-01-attempt-01/uart.bin",
+      "sha256": "95a2893c7d37c449350fe7d677acddb95c3aa35fdee5daabca91bd64e913b071",
+      "bytes": 154896
+    },
+    {
+      "path": "point-01-attempt-01/vector60/events.jsonl",
+      "sha256": "bd9c06a850c008b2c22e8e93dfee2b112c87c848c0e1a2e1eb6ef4c466a6518c",
+      "bytes": 7088
+    },
+    {
+      "path": "point-01-attempt-01/vector60/measurements.csv",
+      "sha256": "57706a47991fcfb39fa6f7751e2e4ca44f8e23e1b09921eea118feff3ecc454c",
+      "bytes": 665
+    },
+    {
+      "path": "point-01-console.log",
+      "sha256": "43025530c8c613a5906c289c107187b837e9eab072af43cbbacdbbd3d299c898",
+      "bytes": 12385
+    },
+    {
+      "path": "point-02-attempt-01/bluetooth.log",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "point-02-attempt-01/dds-readback.json",
+      "sha256": "37f0903632247de8ac995ad9c261067f9e16896f40d2144c85440515237a9215",
+      "bytes": 575
+    },
+    {
+      "path": "point-02-attempt-01/failure.json",
+      "sha256": "4eae19326420b1dccf9d3c5f7fce647cef84153c71442f5230adbc73b852a97c",
+      "bytes": 963
+    },
+    {
+      "path": "point-02-attempt-01/fpga.jsonl",
+      "sha256": "d6e790682d01b4ceccc731adeef3f1ee031a609caf50e706cbe00ae986d8dc01",
+      "bytes": 3407385
+    },
+    {
+      "path": "point-02-attempt-01/scope-before.json",
+      "sha256": "c7eff9930d6f2888360311e7e708ec092b445d3cd383f7aa1816e3c626bc13fc",
+      "bytes": 911
+    },
+    {
+      "path": "point-02-attempt-01/transport.json",
+      "sha256": "e15278aec18fa60f07178f9d5a07f1e5e1263bbb2fdc767a50c6d3d2ed3377eb",
+      "bytes": 126
+    },
+    {
+      "path": "point-02-attempt-01/uart.bin",
+      "sha256": "2b2fbfff6a3538c8360ec5f267f144dc53a2a8c5ee10e9aab56a5f55abba28fe",
+      "bytes": 151760
+    },
+    {
+      "path": "point-02-attempt-01/vector60/events.jsonl",
+      "sha256": "e9208cb06db27f74469d20925ac4c99039c5bb0aa6f1996b5f84e93bce141b97",
+      "bytes": 6236
+    },
+    {
+      "path": "point-02-attempt-01/vector60/measurements.csv",
+      "sha256": "53f97c72eb351a5975776153d9e41f2894210d0b1dbf2f30aad7cd973946404a",
+      "bytes": 579
+    },
+    {
+      "path": "point-02-attempt-02/bluetooth.log",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "point-02-attempt-02/dds-readback.json",
+      "sha256": "37f0903632247de8ac995ad9c261067f9e16896f40d2144c85440515237a9215",
+      "bytes": 575
+    },
+    {
+      "path": "point-02-attempt-02/fpga.jsonl",
+      "sha256": "e98f29b74b403fe02f891db4fc6f44ad846997cffdbe90b32288c64b02dfd00a",
+      "bytes": 5194306
+    },
+    {
+      "path": "point-02-attempt-02/point.json",
+      "sha256": "d50ec4d03a7ba1744ec5aff65134cb84c420283947a1859561eee6f018ef4fb5",
+      "bytes": 6838
+    },
+    {
+      "path": "point-02-attempt-02/scope-1-3/metadata.json",
+      "sha256": "81d2bba02ff12164bfef0efad4fdd224b880915f2dbdc11bcacd42a2397293f1",
+      "bytes": 1576
+    },
+    {
+      "path": "point-02-attempt-02/scope-1-3/native.png",
+      "sha256": "26043df3e1c8f92dfb956cbbdd27b35d9fe63fbaf21f784286eaa4b005c6cca5",
+      "bytes": 49046
+    },
+    {
+      "path": "point-02-attempt-02/scope-1-3/screen.png",
+      "sha256": "d987dacce7ed40d00a8485ea2c288f7c935cbda48d0fbd11801e289d751a0055",
+      "bytes": 49046
+    },
+    {
+      "path": "point-02-attempt-02/scope-2-4/metadata.json",
+      "sha256": "39d1f978331bd3a8f4de873a0e4df54ce8c6e61b77c0411b1107bcc440d4b2f2",
+      "bytes": 1577
+    },
+    {
+      "path": "point-02-attempt-02/scope-2-4/native.png",
+      "sha256": "10c8a9f79e78816fb7e0a646d968796791ef50f0abd9192fbe376f9ce2da7d24",
+      "bytes": 46631
+    },
+    {
+      "path": "point-02-attempt-02/scope-2-4/screen.png",
+      "sha256": "889dd9b52c130793ec8415195140592f0103faf741b33afbaa7fb70151350c25",
+      "bytes": 46631
+    },
+    {
+      "path": "point-02-attempt-02/scope-before.json",
+      "sha256": "c7eff9930d6f2888360311e7e708ec092b445d3cd383f7aa1816e3c626bc13fc",
+      "bytes": 911
+    },
+    {
+      "path": "point-02-attempt-02/transport.json",
+      "sha256": "60e72e64b3adc432e62f7e6d1a1017691121e1fa1d00fe341cff4aaed944d54b",
+      "bytes": 126
+    },
+    {
+      "path": "point-02-attempt-02/uart.bin",
+      "sha256": "29faddbc500689c81ffe9ad75bb88fcc84528bd1a0942c8104fe3335e7a2c5fc",
+      "bytes": 231280
+    },
+    {
+      "path": "point-02-attempt-02/vector60/events.jsonl",
+      "sha256": "bd6d121f80b0d7bd09765b217200fb7eb171d34fac5aa17e91751f317dc802f5",
+      "bytes": 7093
+    },
+    {
+      "path": "point-02-attempt-02/vector60/measurements.csv",
+      "sha256": "dcb4e1693794eac105b5dfef78e4f14c7d02458080399eb165f07f61a1272336",
+      "bytes": 664
+    },
+    {
+      "path": "point-02-attempt-02-console.log",
+      "sha256": "7c2701ce68b2a8c73cc9479e74b6937f68aa0dffa3abae59060caf3cc308ad2e",
+      "bytes": 12398
+    },
+    {
+      "path": "point-02-console.log",
+      "sha256": "209cfb92c49a1ad9b36afe130ed2a080edaa7c33eeafb5ef50417bc46279374c",
+      "bytes": 10133
+    },
+    {
+      "path": "point-03-attempt-01/bluetooth.log",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "point-03-attempt-01/dds-readback.json",
+      "sha256": "37f0903632247de8ac995ad9c261067f9e16896f40d2144c85440515237a9215",
+      "bytes": 575
+    },
+    {
+      "path": "point-03-attempt-01/fpga.jsonl",
+      "sha256": "177f6e572cc1e87961228da34b09df9a3e944d13a80b177a6eb81f58eda6d715",
+      "bytes": 135177
+    },
+    {
+      "path": "point-03-attempt-01/transport.json",
+      "sha256": "855a8f5b30987ca80628da84388297f1e0f6a3738d8c6ec44e6792888db82894",
+      "bytes": 124
+    },
+    {
+      "path": "point-03-attempt-01/uart.bin",
+      "sha256": "bbdda5f77de1a5e63fb285fbdac18d4c1bfe0e0002667368a2b89a4dcb2bfa7f",
+      "bytes": 6048
+    },
+    {
+      "path": "point-03-attempt-01/vector60/events.jsonl",
+      "sha256": "319e53214de2e68b49f08bc1502e17f9c96b8030003fbf6359f3efe645bb7379",
+      "bytes": 646
+    },
+    {
+      "path": "point-03-attempt-01/vector60/measurements.csv",
+      "sha256": "1a73ddc3d6712fe658aba2085bb818732d48e08fcf69e53c851cc93c88e54740",
+      "bytes": 71
+    },
+    {
+      "path": "point-03-attempt-02/bluetooth.log",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "point-03-attempt-02/dds-readback.json",
+      "sha256": "37f0903632247de8ac995ad9c261067f9e16896f40d2144c85440515237a9215",
+      "bytes": 575
+    },
+    {
+      "path": "point-03-attempt-02/fpga.jsonl",
+      "sha256": "4146ed1d6f82475c8b1fc3e2012eed21ae9f19300b2ccfef4a08c788780d8604",
+      "bytes": 3494145
+    },
+    {
+      "path": "point-03-attempt-02/point.json",
+      "sha256": "3be05b7b27b6929740fa81c695743dd09506c3361c82c21af3ebdbcb764d28ce",
+      "bytes": 6837
+    },
+    {
+      "path": "point-03-attempt-02/scope-1-3/metadata.json",
+      "sha256": "9711a1b8cc25264e0d04025094b49a679a0c6fb5a3970d3478c723dbf64c7340",
+      "bytes": 1577
+    },
+    {
+      "path": "point-03-attempt-02/scope-1-3/native.png",
+      "sha256": "8f28afc77750154f336459509f8906fb2e0d96f48a6231853c02f7fc0fffe1e3",
+      "bytes": 49411
+    },
+    {
+      "path": "point-03-attempt-02/scope-1-3/screen.png",
+      "sha256": "d37facf2c11486c7b482ad7c38f63bc8c979f4736f5bdcc405df331a83610eae",
+      "bytes": 49411
+    },
+    {
+      "path": "point-03-attempt-02/scope-2-4/metadata.json",
+      "sha256": "7543880832c05af5a49afc9218807dac4fb92a7389f086dcfb8268a4ed6d5f62",
+      "bytes": 1577
+    },
+    {
+      "path": "point-03-attempt-02/scope-2-4/native.png",
+      "sha256": "f0771c4336c9c33b60cdf0c53e9dfc4f810670ad7a6e4d2f086a26f5b5afb46f",
+      "bytes": 47055
+    },
+    {
+      "path": "point-03-attempt-02/scope-2-4/screen.png",
+      "sha256": "5b84e13d50b0294c384fde15b633b62a7c402a994f7df15135fcc9c51eaa3ef7",
+      "bytes": 47055
+    },
+    {
+      "path": "point-03-attempt-02/scope-before.json",
+      "sha256": "c7eff9930d6f2888360311e7e708ec092b445d3cd383f7aa1816e3c626bc13fc",
+      "bytes": 911
+    },
+    {
+      "path": "point-03-attempt-02/transport.json",
+      "sha256": "b650be72cc6b121777512c642cc4b1d210f52beb5178214f0dfbe48e01239b35",
+      "bytes": 126
+    },
+    {
+      "path": "point-03-attempt-02/uart.bin",
+      "sha256": "e4b33022f491d5d4d5e613fa3545e0d5e76822e1526d0eafe702563ea58fe53e",
+      "bytes": 156128
+    },
+    {
+      "path": "point-03-attempt-02/vector60/events.jsonl",
+      "sha256": "1af492d879ccbcc4198b551ae9e413ef1dab7434d3f701da2cea5859517811d4",
+      "bytes": 7090
+    },
+    {
+      "path": "point-03-attempt-02/vector60/measurements.csv",
+      "sha256": "7998e1bc194499a285203799c55605c1fa3df90479deb740e3e1c02fd45cd8f4",
+      "bytes": 658
+    },
+    {
+      "path": "point-03-attempt-02-console.log",
+      "sha256": "8a2596df296f749ff0be5b8c3196c5fd6b1f88f27145d553e4c849d8c6c8215a",
+      "bytes": 12394
+    },
+    {
+      "path": "point-03-console.log",
+      "sha256": "7813d0f001b09009e7609bdbe7be72ad31e370797d4822e41be4cdb8cc6fdc9d",
+      "bytes": 2796
+    },
+    {
+      "path": "point-04-attempt-01/bluetooth.log",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "point-04-attempt-01/dds-readback.json",
+      "sha256": "37f0903632247de8ac995ad9c261067f9e16896f40d2144c85440515237a9215",
+      "bytes": 575
+    },
+    {
+      "path": "point-04-attempt-01/fpga.jsonl",
+      "sha256": "7e242922c0de1f47917640cb0b5402dfdb195ecd46603379401fd4f4c73f33c7",
+      "bytes": 3974585
+    },
+    {
+      "path": "point-04-attempt-01/point.json",
+      "sha256": "5d56ed2403af4feea0e6a6f9595fe49369834086098c5f13e743fafd5cedb3f0",
+      "bytes": 6836
+    },
+    {
+      "path": "point-04-attempt-01/scope-1-3/metadata.json",
+      "sha256": "79137cb26b755d97eee331de2cf88b58b57010f7cec1c728149af45d834f1cdc",
+      "bytes": 1577
+    },
+    {
+      "path": "point-04-attempt-01/scope-1-3/native.png",
+      "sha256": "f3c9b96cb78d0e4794381b2731885e655c333952eb700ef9a4224ee6f7fcedcd",
+      "bytes": 49364
+    },
+    {
+      "path": "point-04-attempt-01/scope-1-3/screen.png",
+      "sha256": "c6ecb77d59027505a2836b53c20164dcc87855731e897ea7881e30fc38bfd6d8",
+      "bytes": 49364
+    },
+    {
+      "path": "point-04-attempt-01/scope-2-4/metadata.json",
+      "sha256": "8138e6059ff7854b766a9bf4590ad26474a953440e86be927127f2f8d1cc846a",
+      "bytes": 1576
+    },
+    {
+      "path": "point-04-attempt-01/scope-2-4/native.png",
+      "sha256": "92dbf896980ab83c52732f4abcf99223aa576571307578b4a4aa8674015b209f",
+      "bytes": 47176
+    },
+    {
+      "path": "point-04-attempt-01/scope-2-4/screen.png",
+      "sha256": "ae38caff57d6387b86a6975f535c53f5fe86b664bd148a58fae8f40347d9c94c",
+      "bytes": 47176
+    },
+    {
+      "path": "point-04-attempt-01/scope-before.json",
+      "sha256": "c7eff9930d6f2888360311e7e708ec092b445d3cd383f7aa1816e3c626bc13fc",
+      "bytes": 911
+    },
+    {
+      "path": "point-04-attempt-01/transport.json",
+      "sha256": "ff2c4f5da2ce233f1e3d46bcb1b84437e0b142bf262d0a98bd195403b094c727",
+      "bytes": 126
+    },
+    {
+      "path": "point-04-attempt-01/uart.bin",
+      "sha256": "a2ca2729e2e217869d6a6250ba834a4facacf90a514b2ad64aac5e5099103191",
+      "bytes": 177520
+    },
+    {
+      "path": "point-04-attempt-01/vector60/events.jsonl",
+      "sha256": "9ced9d027ec79a9fa0c8b694942fd8560b515ca29767bb7883e676a26ca02fd7",
+      "bytes": 7093
+    },
+    {
+      "path": "point-04-attempt-01/vector60/measurements.csv",
+      "sha256": "e0d465b343a78f52f4fb44ed5ddcfa0d2081e558916af4e23c38d084b4360e45",
+      "bytes": 666
+    },
+    {
+      "path": "point-04-console.log",
+      "sha256": "10b9e8c682665e0882f5ee0e459a5c583059f30ae4c09f17cc0454438e5d5ef2",
+      "bytes": 12397
+    },
+    {
+      "path": "point-05-attempt-01/bluetooth.log",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "point-05-attempt-01/dds-readback.json",
+      "sha256": "37f0903632247de8ac995ad9c261067f9e16896f40d2144c85440515237a9215",
+      "bytes": 575
+    },
+    {
+      "path": "point-05-attempt-01/fpga.jsonl",
+      "sha256": "4b5233f9abedac07163b142e289384067b2e5f74c2e32eee08678fbb811b3958",
+      "bytes": 3627381
+    },
+    {
+      "path": "point-05-attempt-01/point.json",
+      "sha256": "1287917b7f00db4aee189f2783c4055d870361f0df2472779691a713d1eada64",
+      "bytes": 6839
+    },
+    {
+      "path": "point-05-attempt-01/scope-1-3/metadata.json",
+      "sha256": "7b3e262966adc3b6b13233a12544d3d1ed76c2e698ec5e25b8b8009d3054b796",
+      "bytes": 1577
+    },
+    {
+      "path": "point-05-attempt-01/scope-1-3/native.png",
+      "sha256": "d5ba1d667c7f889db305cf8f60a86b5f327ff22971913266dd88e60ab3cc82e3",
+      "bytes": 49545
+    },
+    {
+      "path": "point-05-attempt-01/scope-1-3/screen.png",
+      "sha256": "fbf2a92c0c887051df847b7d3ec1b8c4761787ac743880d81ac7a55d9b4c413b",
+      "bytes": 49545
+    },
+    {
+      "path": "point-05-attempt-01/scope-2-4/metadata.json",
+      "sha256": "bb8b36c76e1798c0ff4ef3b005b6200dd7bb139a42b6cdc1ff32173403aadfcb",
+      "bytes": 1576
+    },
+    {
+      "path": "point-05-attempt-01/scope-2-4/native.png",
+      "sha256": "25677ba0b4696370382970233b50e2b736089a6f64abf8687fa239359d375a4a",
+      "bytes": 48319
+    },
+    {
+      "path": "point-05-attempt-01/scope-2-4/screen.png",
+      "sha256": "dc56d6682a50c2d55144386e86389379fccea08947a9bc638206e1053a45f608",
+      "bytes": 48319
+    },
+    {
+      "path": "point-05-attempt-01/scope-before.json",
+      "sha256": "c7eff9930d6f2888360311e7e708ec092b445d3cd383f7aa1816e3c626bc13fc",
+      "bytes": 911
+    },
+    {
+      "path": "point-05-attempt-01/transport.json",
+      "sha256": "ae08fce851627bdea51f083ed2fcc2f5c9305b1e63616436833234de021df6de",
+      "bytes": 126
+    },
+    {
+      "path": "point-05-attempt-01/uart.bin",
+      "sha256": "8a67c75d991e21fe9b0076577500060668902a588ee2db33c5b8bf4f8aad1eab",
+      "bytes": 161728
+    },
+    {
+      "path": "point-05-attempt-01/vector60/events.jsonl",
+      "sha256": "61b70fb9ed15bdfeb75fec3a4a4ee655e6fa55d594ebdbac42242f4afecd2f3b",
+      "bytes": 7093
+    },
+    {
+      "path": "point-05-attempt-01/vector60/measurements.csv",
+      "sha256": "94fc02b52936ccadd0a1622a32f0e4eadb92f7c9e4292b4e2384b90acf310baf",
+      "bytes": 665
+    },
+    {
+      "path": "point-05-console.log",
+      "sha256": "e94185b01028c465feb3533934039e74e67009f5043c12d2300bd1764efb7aa5",
+      "bytes": 12401
+    },
+    {
+      "path": "point-06-attempt-01/bluetooth.log",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "point-06-attempt-01/dds-readback.json",
+      "sha256": "37f0903632247de8ac995ad9c261067f9e16896f40d2144c85440515237a9215",
+      "bytes": 575
+    },
+    {
+      "path": "point-06-attempt-01/fpga.jsonl",
+      "sha256": "1eb29af140db9fc9f45e22ccfe4cde38926c15c0e0a80e5ce1260c8e8271f71b",
+      "bytes": 3803088
+    },
+    {
+      "path": "point-06-attempt-01/point.json",
+      "sha256": "1c24f3924353a9d54cfc30dc374bc8e5ecc2d81daf53b01970ce3ca9af25892b",
+      "bytes": 6841
+    },
+    {
+      "path": "point-06-attempt-01/scope-1-3/metadata.json",
+      "sha256": "511727770f6a622e6e10f60055e0b2db3c46d5ceb7ebaca67fc0131c804dd7f7",
+      "bytes": 1577
+    },
+    {
+      "path": "point-06-attempt-01/scope-1-3/native.png",
+      "sha256": "61ceba3e265eb592287d728a4c54edc1fb9c7148fdc79299c3ff002cc4c8e83f",
+      "bytes": 49096
+    },
+    {
+      "path": "point-06-attempt-01/scope-1-3/screen.png",
+      "sha256": "7c9e3b15553476c8fe2946944d8076eef9ceffdbc7a12727f7ea7eb7d1a386b3",
+      "bytes": 49096
+    },
+    {
+      "path": "point-06-attempt-01/scope-2-4/metadata.json",
+      "sha256": "930c9fc8c2356abb6abfdddad47f3fdc1fc496e99a51141371af4dfc19c37425",
+      "bytes": 1577
+    },
+    {
+      "path": "point-06-attempt-01/scope-2-4/native.png",
+      "sha256": "7e66e9b57de80dbafe509f1992bb0c851baf99feaca43c67f6f15e25fa1aab13",
+      "bytes": 46708
+    },
+    {
+      "path": "point-06-attempt-01/scope-2-4/screen.png",
+      "sha256": "72901dc5441c6e82d1e9b73782731976020c89ba6e24e4850f7ab23e73b71484",
+      "bytes": 46708
+    },
+    {
+      "path": "point-06-attempt-01/scope-before.json",
+      "sha256": "c7eff9930d6f2888360311e7e708ec092b445d3cd383f7aa1816e3c626bc13fc",
+      "bytes": 911
+    },
+    {
+      "path": "point-06-attempt-01/transport.json",
+      "sha256": "29c0bb3af2f7fe88434530b69d2d5afc70aa221b8364b48606932dc9e471462e",
+      "bytes": 126
+    },
+    {
+      "path": "point-06-attempt-01/uart.bin",
+      "sha256": "a0c11c9c30f121b78553bec4750dbc63f3e407141a7b8ba76d67d358239b4e6d",
+      "bytes": 168560
+    },
+    {
+      "path": "point-06-attempt-01/vector60/events.jsonl",
+      "sha256": "1e4a59dd6d3feb90f86d20b9af356c95b4cf59d5341358f1f21b24a0e59c905f",
+      "bytes": 7095
+    },
+    {
+      "path": "point-06-attempt-01/vector60/measurements.csv",
+      "sha256": "96e871987cfa8ffee9bbd2c093f0dd54cb3fa0dc1659caefe2f5c36364ee38aa",
+      "bytes": 666
+    },
+    {
+      "path": "point-06-console.log",
+      "sha256": "4003449986f976daa30af536ce9e336d66f5137f410eb3be80d96f2f7296c594",
+      "bytes": 12405
+    },
+    {
+      "path": "point-07-attempt-01/bluetooth.log",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "point-07-attempt-01/dds-readback.json",
+      "sha256": "37f0903632247de8ac995ad9c261067f9e16896f40d2144c85440515237a9215",
+      "bytes": 575
+    },
+    {
+      "path": "point-07-attempt-01/fpga.jsonl",
+      "sha256": "b55bcb65d360a80af810a5bfb6dad1640a6f6fbe71834ce05bdf69f1a6e34649",
+      "bytes": 3585815
+    },
+    {
+      "path": "point-07-attempt-01/point.json",
+      "sha256": "7dc323696e10040c5123c4a800800c1eb3a7f49e8dd8500478cfe23862ceb6fd",
+      "bytes": 6840
+    },
+    {
+      "path": "point-07-attempt-01/scope-1-3/metadata.json",
+      "sha256": "9549734115e07992a968ba4d8ea185f9a4e0ca5edb87da215e02c2f49ff8ebf7",
+      "bytes": 1577
+    },
+    {
+      "path": "point-07-attempt-01/scope-1-3/native.png",
+      "sha256": "05d723a53765aa6ff4cd7155acbde4a18370456834dcf9e28eaaee3cdc3f5aa7",
+      "bytes": 49360
+    },
+    {
+      "path": "point-07-attempt-01/scope-1-3/screen.png",
+      "sha256": "b5edfd57524c1c6b23280341cb2e551641cf4d2d17a4a2aa0ac41e162527187e",
+      "bytes": 49360
+    },
+    {
+      "path": "point-07-attempt-01/scope-2-4/metadata.json",
+      "sha256": "eb4c706ae5bdb1e45c36ec03624349bc0445e53ce89f47f4d5803893d8100aa5",
+      "bytes": 1576
+    },
+    {
+      "path": "point-07-attempt-01/scope-2-4/native.png",
+      "sha256": "de468f16652af55c81b9975d268b6095296941691f81762fd5e9112d7597b299",
+      "bytes": 44509
+    },
+    {
+      "path": "point-07-attempt-01/scope-2-4/screen.png",
+      "sha256": "b75c69be12e5cfc02aab9db1018a8a16a786b647ada85c7cfc2fcb0307db2c43",
+      "bytes": 44509
+    },
+    {
+      "path": "point-07-attempt-01/scope-before.json",
+      "sha256": "c7eff9930d6f2888360311e7e708ec092b445d3cd383f7aa1816e3c626bc13fc",
+      "bytes": 911
+    },
+    {
+      "path": "point-07-attempt-01/transport.json",
+      "sha256": "2f449996ffe34c1f68607b139eff01e0107511cfd6e9ae42e27d260a8b5085de",
+      "bytes": 126
+    },
+    {
+      "path": "point-07-attempt-01/uart.bin",
+      "sha256": "ab31c6cedc1f73e68f68db5745861aae4e9f05a1b43486c0a41ee6b5e65048fd",
+      "bytes": 159376
+    },
+    {
+      "path": "point-07-attempt-01/vector60/events.jsonl",
+      "sha256": "e76f0761e597039b9807540165c8f03eaa4e2921760c1ea2b6fb4d63943c033e",
+      "bytes": 7099
+    },
+    {
+      "path": "point-07-attempt-01/vector60/measurements.csv",
+      "sha256": "db114953d18a1e43031297afb75ea27f02a7456d2f27a980c25e8d1a521f345f",
+      "bytes": 666
+    },
+    {
+      "path": "point-07-console.log",
+      "sha256": "8850f4dd08c6d370a01fb1e82d56dca760cf1f0090fa48e16d5ad989eba67710",
+      "bytes": 12407
+    },
+    {
+      "path": "point-08-attempt-01/bluetooth.log",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "point-08-attempt-01/dds-readback.json",
+      "sha256": "37f0903632247de8ac995ad9c261067f9e16896f40d2144c85440515237a9215",
+      "bytes": 575
+    },
+    {
+      "path": "point-08-attempt-01/failure.json",
+      "sha256": "6394c96ee4d348a1839fada7ca78a25f182775a26a57108ba8e19c3c36636a9c",
+      "bytes": 105
+    },
+    {
+      "path": "point-08-attempt-01/fpga.jsonl",
+      "sha256": "730fdd0ce0eb99c8fe45261e81b63549c763597b94f5d1243f053203fabf5de4",
+      "bytes": 610868
+    },
+    {
+      "path": "point-08-attempt-01/transport.json",
+      "sha256": "b09b8b701004224a0ec54353bfda17aa761bfc197772af968816081e90497a4e",
+      "bytes": 125
+    },
+    {
+      "path": "point-08-attempt-01/uart.bin",
+      "sha256": "8c44529a7bcb61a769c4218317743e960a0dc629d5b29e66884f27f0843d1c4f",
+      "bytes": 27104
+    },
+    {
+      "path": "point-08-attempt-01/vector60/events.jsonl",
+      "sha256": "d1cb37eb1167023fc9d154adef817d5c4320abb9dafc926545597f7623c2eff4",
+      "bytes": 646
+    },
+    {
+      "path": "point-08-attempt-01/vector60/measurements.csv",
+      "sha256": "1a73ddc3d6712fe658aba2085bb818732d48e08fcf69e53c851cc93c88e54740",
+      "bytes": 71
+    },
+    {
+      "path": "point-08-attempt-02/bluetooth.log",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "point-08-attempt-02/dds-readback.json",
+      "sha256": "37f0903632247de8ac995ad9c261067f9e16896f40d2144c85440515237a9215",
+      "bytes": 575
+    },
+    {
+      "path": "point-08-attempt-02/fpga.jsonl",
+      "sha256": "7a5da44ab69d9ffd3a3d73e79f3c37719ea2351fcc18a8f4727b026efc7385e5",
+      "bytes": 3454510
+    },
+    {
+      "path": "point-08-attempt-02/point.json",
+      "sha256": "8c6f34d137de70bb21ba79c7ab7b807da8555d6c043bab69c784d1227a885d83",
+      "bytes": 6886
+    },
+    {
+      "path": "point-08-attempt-02/scope-1-3/metadata.json",
+      "sha256": "08697ce5e4151906255ebf9ec1a937d2b691e5daddd0d5a8a6da81e0f867cdd0",
+      "bytes": 1577
+    },
+    {
+      "path": "point-08-attempt-02/scope-1-3/native.png",
+      "sha256": "629abe7da53443a203fb37096df57fd235f83d50ab91469125a4a6de58de9b0e",
+      "bytes": 50237
+    },
+    {
+      "path": "point-08-attempt-02/scope-1-3/screen.png",
+      "sha256": "2d10e90a393aa05dd48f4ac6fb00206be97cfba9cb871d38113ec0a9005a78bf",
+      "bytes": 50237
+    },
+    {
+      "path": "point-08-attempt-02/scope-2-4/metadata.json",
+      "sha256": "9bd2348090c1c4ac63df7b331906e778b3496be50749a309b3c1ecebf5a0a310",
+      "bytes": 1577
+    },
+    {
+      "path": "point-08-attempt-02/scope-2-4/native.png",
+      "sha256": "aae6e862ef4302d1a2bffa2557d5b624a10812122ce11aa7a3bc56ab2ff478b7",
+      "bytes": 44226
+    },
+    {
+      "path": "point-08-attempt-02/scope-2-4/screen.png",
+      "sha256": "54b56a7ac9ec36d4a52af323077acd441e22f2280f93e3034fdd723966b4c37e",
+      "bytes": 44226
+    },
+    {
+      "path": "point-08-attempt-02/scope-before.json",
+      "sha256": "c7eff9930d6f2888360311e7e708ec092b445d3cd383f7aa1816e3c626bc13fc",
+      "bytes": 911
+    },
+    {
+      "path": "point-08-attempt-02/transport.json",
+      "sha256": "9d2159396474e479835de07e8cafaa4bc463879647e9206c9ef81c1752d3a228",
+      "bytes": 126
+    },
+    {
+      "path": "point-08-attempt-02/uart.bin",
+      "sha256": "d45952b738ba08383e8af9d01259b7377747dd85f6c8b437cdce9257f3ddd489",
+      "bytes": 153216
+    },
+    {
+      "path": "point-08-attempt-02/vector60/events.jsonl",
+      "sha256": "1660e1566edba1c43a2957cf714be57058a03d9629b40e2dec31c10245bf5487",
+      "bytes": 7097
+    },
+    {
+      "path": "point-08-attempt-02/vector60/measurements.csv",
+      "sha256": "02a002fe6a8d9790ee4d62b4966ee3137e5fe1c028ad3bf0cf5a334aabc4caa5",
+      "bytes": 666
+    },
+    {
+      "path": "point-08-attempt-02-console.log",
+      "sha256": "a12d9b08479b6da78df8de0c7ea3b60b43ec7c1a35bad2e413c1a89c7f0afabe",
+      "bytes": 12448
+    },
+    {
+      "path": "point-08-console.log",
+      "sha256": "7f159debe13b14432d0614c24c7b4ca66268debb304b22d1824d258ae002c543",
+      "bytes": 2796
+    },
+    {
+      "path": "point-09-attempt-01/bluetooth.log",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "point-09-attempt-01/dds-readback.json",
+      "sha256": "37f0903632247de8ac995ad9c261067f9e16896f40d2144c85440515237a9215",
+      "bytes": 575
+    },
+    {
+      "path": "point-09-attempt-01/fpga.jsonl",
+      "sha256": "5b6da96f3f17dd7593239dfde96712ebba46fc952c0bdec4b71001a8fef236a7",
+      "bytes": 3604907
+    },
+    {
+      "path": "point-09-attempt-01/point.json",
+      "sha256": "414616805c01d94c7fb3694e5c43dc9d34bb50d5f46d5637aa1997c7fd7480cc",
+      "bytes": 7016
+    },
+    {
+      "path": "point-09-attempt-01/scope-1-3/metadata.json",
+      "sha256": "cf24dbd7b6e0537fb758e08740257cae7a320235c4e7dee2f4824b2303b4a54f",
+      "bytes": 1577
+    },
+    {
+      "path": "point-09-attempt-01/scope-1-3/native.png",
+      "sha256": "0017b913e570058440b250bc6fb088256866f0e4157ef93bacfff2fbec3767e7",
+      "bytes": 49674
+    },
+    {
+      "path": "point-09-attempt-01/scope-1-3/screen.png",
+      "sha256": "485608badfeace366c1f0dec7bbd011e6d048db19af00deeb7b9862fd817bc59",
+      "bytes": 49674
+    },
+    {
+      "path": "point-09-attempt-01/scope-2-4/metadata.json",
+      "sha256": "b215370440bb317a439082bd38d55d368d999c67f96b2d5e87c9bf3e9034baef",
+      "bytes": 1576
+    },
+    {
+      "path": "point-09-attempt-01/scope-2-4/native.png",
+      "sha256": "95ae03e40131afaf5f07308dbe706e646e62bdb2afcc9e19cfc866be91d52c3e",
+      "bytes": 44476
+    },
+    {
+      "path": "point-09-attempt-01/scope-2-4/screen.png",
+      "sha256": "53bde64db2e7b9de4f9a6c71ed0854985ac057c0a536bb3020451f6e65091c73",
+      "bytes": 44476
+    },
+    {
+      "path": "point-09-attempt-01/scope-before.json",
+      "sha256": "c7eff9930d6f2888360311e7e708ec092b445d3cd383f7aa1816e3c626bc13fc",
+      "bytes": 911
+    },
+    {
+      "path": "point-09-attempt-01/transport.json",
+      "sha256": "5032158436a88633a541dad432c0effc32ddc6e608e8377a147556ba1ca8fca9",
+      "bytes": 126
+    },
+    {
+      "path": "point-09-attempt-01/uart.bin",
+      "sha256": "2329bf1253b7ae24a0cfd0128452aeff7d719f9b001a58d103a71eac1c93a010",
+      "bytes": 159936
+    },
+    {
+      "path": "point-09-attempt-01/vector60/events.jsonl",
+      "sha256": "0e0f28abea088924e51f3a0ff90ef648e52e37f51980b0ac05df3467ade72cec",
+      "bytes": 7950
+    },
+    {
+      "path": "point-09-attempt-01/vector60/measurements.csv",
+      "sha256": "bfe2aa3c29c1ba49f72cd7dd1a2c272bed940ad1b1e03768d1bf2b754d6c9f94",
+      "bytes": 748
+    },
+    {
+      "path": "point-09-console.log",
+      "sha256": "a60d3c080f9d3827ec0b7f2ca7f995bd6d8b144d66c91685e363d2c749881677",
+      "bytes": 13502
+    },
+    {
+      "path": "point-10-attempt-01/bluetooth.log",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "point-10-attempt-01/dds-readback.json",
+      "sha256": "37f0903632247de8ac995ad9c261067f9e16896f40d2144c85440515237a9215",
+      "bytes": 575
+    },
+    {
+      "path": "point-10-attempt-01/failure.json",
+      "sha256": "d89cebfeb53a16083fdcdb659bb3ed5a28c69720e865a06f6eed57cb3e88cc99",
+      "bytes": 1070
+    },
+    {
+      "path": "point-10-attempt-01/fpga.jsonl",
+      "sha256": "f6e3208d12c67ffa5677a26897032891036ab7fd9af0bace0ff9b4de7b0f3265",
+      "bytes": 3399754
+    },
+    {
+      "path": "point-10-attempt-01/scope-1-3/metadata.json",
+      "sha256": "63b14c8bd14c83c3b63b43ac31d835a4a2acb6b01b88653308bd8fc3fce06843",
+      "bytes": 1577
+    },
+    {
+      "path": "point-10-attempt-01/scope-1-3/native.png",
+      "sha256": "2a59b92db6ca15c465568e2103f29e6dc8c31666c62ab3ccb0e88053d2666b8f",
+      "bytes": 49223
+    },
+    {
+      "path": "point-10-attempt-01/scope-1-3/screen.png",
+      "sha256": "3d59de296328056b17ea069e0846598a8712102fdd9c3261156df3cd6e83688d",
+      "bytes": 49223
+    },
+    {
+      "path": "point-10-attempt-01/scope-2-4/metadata.json",
+      "sha256": "05d8e4117fbb18a628cc8c5626f69f77537ff1c7a7096f026918a0899eb53917",
+      "bytes": 1577
+    },
+    {
+      "path": "point-10-attempt-01/scope-2-4/native.png",
+      "sha256": "656d1169c392930371ddd65c021ae98ca423d1986ce0eeb37b56d82c9c4132a8",
+      "bytes": 47886
+    },
+    {
+      "path": "point-10-attempt-01/scope-2-4/screen.png",
+      "sha256": "64fd5961234fcc7c161eefff5372856bf3b2fa021da99b54a5684c1d759cd7d4",
+      "bytes": 47886
+    },
+    {
+      "path": "point-10-attempt-01/scope-before.json",
+      "sha256": "c7eff9930d6f2888360311e7e708ec092b445d3cd383f7aa1816e3c626bc13fc",
+      "bytes": 911
+    },
+    {
+      "path": "point-10-attempt-01/transport.json",
+      "sha256": "1afc5e13fe617310c417ff90ced06ba56ee5ef6cc748ab091234551fa7a23970",
+      "bytes": 126
+    },
+    {
+      "path": "point-10-attempt-01/uart.bin",
+      "sha256": "e9159ffe90827582918fe56dc145f742f0c94b9a1f0ed48afee322176aaf957a",
+      "bytes": 151648
+    },
+    {
+      "path": "point-10-attempt-01/vector60/events.jsonl",
+      "sha256": "21ef713b92926e32ea56288761e399a17dbc8b3359c58e8610783846073f88e1",
+      "bytes": 7097
+    },
+    {
+      "path": "point-10-attempt-01/vector60/measurements.csv",
+      "sha256": "fa46d505d339b85ca7996ce90e782301c755a45e6524de2ec67187057ed7d02d",
+      "bytes": 666
+    },
+    {
+      "path": "point-10-attempt-02/bluetooth.log",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "point-10-attempt-02/dds-readback.json",
+      "sha256": "37f0903632247de8ac995ad9c261067f9e16896f40d2144c85440515237a9215",
+      "bytes": 575
+    },
+    {
+      "path": "point-10-attempt-02/failure.json",
+      "sha256": "4f8d0343003dc7f4e93be03aa763fb0ef98309c81c7a1342d60d4c7a5b2a1408",
+      "bytes": 1048
+    },
+    {
+      "path": "point-10-attempt-02/fpga.jsonl",
+      "sha256": "81634ffe4debd5724a8394d0d1a73027556578830efee1a717013b0edf98f400",
+      "bytes": 4247119
+    },
+    {
+      "path": "point-10-attempt-02/scope-1-3/metadata.json",
+      "sha256": "4eaf255b743b25a733a43e4a5cb8eab16c89523922405ce3655fc7d4f487fb8a",
+      "bytes": 1577
+    },
+    {
+      "path": "point-10-attempt-02/scope-1-3/native.png",
+      "sha256": "e863c4695d81510457d04e35609b46b8963e682bf1a635d116c5344fe1422ea2",
+      "bytes": 49304
+    },
+    {
+      "path": "point-10-attempt-02/scope-1-3/screen.png",
+      "sha256": "604f6bed468fdea4dc3ac554ac849e9d6ce999d71c74c017e80e23ce877e1a0f",
+      "bytes": 49304
+    },
+    {
+      "path": "point-10-attempt-02/scope-2-4/metadata.json",
+      "sha256": "1f6f83c57f9f114c7391495ec4177f7c43e7590410c43149cebd1bb496c29ebe",
+      "bytes": 1577
+    },
+    {
+      "path": "point-10-attempt-02/scope-2-4/native.png",
+      "sha256": "0241c662b6bd07024903b37e299b8f94179634f2744aaaa1ae99f5ce11daaa94",
+      "bytes": 47945
+    },
+    {
+      "path": "point-10-attempt-02/scope-2-4/screen.png",
+      "sha256": "87e430b8dfbc92912620643d0f08787042ffc5c454ca0bd6ce0b3aa43c6937ca",
+      "bytes": 47945
+    },
+    {
+      "path": "point-10-attempt-02/scope-before.json",
+      "sha256": "c7eff9930d6f2888360311e7e708ec092b445d3cd383f7aa1816e3c626bc13fc",
+      "bytes": 911
+    },
+    {
+      "path": "point-10-attempt-02/transport.json",
+      "sha256": "9b2ac12f62a949eae2bd9495eb9a63f2df30ff773c2c3133653d8dea75ee71d7",
+      "bytes": 126
+    },
+    {
+      "path": "point-10-attempt-02/uart.bin",
+      "sha256": "d7968ac5a7d647a93bd9f6d908af45b8e73f3aeb36207d664a6d28e6d644f120",
+      "bytes": 189504
+    },
+    {
+      "path": "point-10-attempt-02/vector60/events.jsonl",
+      "sha256": "f9b68a5adcf48c05e73106b671e627479b1724656d5652acc153315bbd968263",
+      "bytes": 7099
+    },
+    {
+      "path": "point-10-attempt-02/vector60/measurements.csv",
+      "sha256": "e6017e5cb0c9d4e76fc7d4d4b2244cdc8e57aea9118b7f5f83b169d70da20100",
+      "bytes": 666
+    },
+    {
+      "path": "point-10-attempt-02-console.log",
+      "sha256": "166914c13a6f28df8f1a0cccb6ab205eea28cc5da1248ad04c20b4183246e6d1",
+      "bytes": 8772
+    },
+    {
+      "path": "point-10-attempt-03/bluetooth.log",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "point-10-attempt-03/dds-readback.json",
+      "sha256": "37f0903632247de8ac995ad9c261067f9e16896f40d2144c85440515237a9215",
+      "bytes": 575
+    },
+    {
+      "path": "point-10-attempt-03/fpga.jsonl",
+      "sha256": "34e645dde7142ad795951f7d19f2321a17953eb3d22c51705693b46788685f23",
+      "bytes": 3529478
+    },
+    {
+      "path": "point-10-attempt-03/point.json",
+      "sha256": "3b883bc8e74e81b38008c44bb40565ed4a948daad8d09f7067ad8eae02ae7098",
+      "bytes": 6952
+    },
+    {
+      "path": "point-10-attempt-03/scope-1-3/metadata.json",
+      "sha256": "6f2cbfeb73b59c79c3efadb3a3f70e8d0d8bfdf7b7b939d9f44ec1b5f9c2745c",
+      "bytes": 1577
+    },
+    {
+      "path": "point-10-attempt-03/scope-1-3/native.png",
+      "sha256": "c0a4d00c42d6c0e98dbf0a0af76a594a54ac2e5dacdb55b5a1da8b46133407b0",
+      "bytes": 48816
+    },
+    {
+      "path": "point-10-attempt-03/scope-1-3/screen.png",
+      "sha256": "06a309f2aa2bcd84473061126bbed760bbb948fecaa0b9d2ab26b5aaab4dab00",
+      "bytes": 48816
+    },
+    {
+      "path": "point-10-attempt-03/scope-2-4/metadata.json",
+      "sha256": "89f3b704458e9b89c5f8ffa933c706d9f42e976781de47322fb5805182791219",
+      "bytes": 1576
+    },
+    {
+      "path": "point-10-attempt-03/scope-2-4/native.png",
+      "sha256": "955bbe2e7eda8cd38e1f003ae2cc216284c0780907ae2fe95f8af5584c8f00e4",
+      "bytes": 47957
+    },
+    {
+      "path": "point-10-attempt-03/scope-2-4/screen.png",
+      "sha256": "a78fe19a57ccf4958877de12f296b408e388ee6509cc3882ac483f6b7ff5cc41",
+      "bytes": 47957
+    },
+    {
+      "path": "point-10-attempt-03/scope-before.json",
+      "sha256": "c7eff9930d6f2888360311e7e708ec092b445d3cd383f7aa1816e3c626bc13fc",
+      "bytes": 911
+    },
+    {
+      "path": "point-10-attempt-03/transport.json",
+      "sha256": "db600e2332160583cc9df14205d778265522b8b009d14d0a9ef229f23f84471d",
+      "bytes": 126
+    },
+    {
+      "path": "point-10-attempt-03/uart.bin",
+      "sha256": "c09413b08891ca00715609e931b2a4a833ae8f62e8d616b832545dbe9be14943",
+      "bytes": 157472
+    },
+    {
+      "path": "point-10-attempt-03/vector60/events.jsonl",
+      "sha256": "fb88fdfc89861990270c6f0dd0f557c59495e72b8c71c8a2d80ade60c9eb7cf5",
+      "bytes": 7094
+    },
+    {
+      "path": "point-10-attempt-03/vector60/measurements.csv",
+      "sha256": "bf9a5c7e2537e534fe9f0d838512342390115a48396f65a30d102966a6b7ca3e",
+      "bytes": 665
+    },
+    {
+      "path": "point-10-attempt-03-console.log",
+      "sha256": "1d75c689e7baad475b25da15336215d76bf99d314506230d309ac23d91c41a84",
+      "bytes": 12495
+    },
+    {
+      "path": "point-10-console.log",
+      "sha256": "b0310bbd87ebac785c5ae2485067d8b8a2c6543294a951d6033ebe64f2cfe519",
+      "bytes": 8701
+    },
+    {
+      "path": "scope-after.json",
+      "sha256": "7a3ade436ccc3a277fc444d32635de4afe3ce826979a64083cf08df7c864ea0e",
+      "bytes": 637
+    },
+    {
+      "path": "session-final.json",
+      "sha256": "2b084b548519c42c6f708aa7c188d3c247723d279bd0fc7e29a1519e3b1f3ea4",
+      "bytes": 1399
+    },
+    {
+      "path": "session.json",
+      "sha256": "e6852d0f4d84305bfe6b8e67e67a99252c2b2e87591476a883b592fdb75ef153",
+      "bytes": 720
+    }
+  ],
+  "source_calibration_sha256": "e671278809eb5a5ae285692a3ca0fdcbb0174abd7eb1cd91dc7dae0a173a8fa0",
+  "firmware_pof_sha256": "7e652373ae74ca5d1734248706c16cae9fdaf9ef25b28a321869271220e0212d"
+}

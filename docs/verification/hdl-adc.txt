@@ -1,0 +1,2 @@
+PASS ADC: 8 synchronous channels, mode 0, readback, stuck-low detection
+tb/tb_adc.sv:91: $finish called at 298220000 (1ps)

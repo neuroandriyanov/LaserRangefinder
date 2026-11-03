@@ -1,0 +1,2 @@
+PASS digital: 125MHz/16 periods, phase sign/wrap, both edges, loss/recovery, simultaneous edges, short pulse rejection
+tb/tb_digital.sv:56: $finish called at 24292253000 (1ps)

@@ -1,0 +1,18 @@
+PASS variable phase case=0 steps=206158000/206158000
+PASS variable phase case=1 steps=206158000/206158000
+PASS variable phase case=2 steps=131072000/81920000
+PASS variable phase case=3 steps=131072000/81920000
+PASS variable phase case=4 steps=17180000/343598000
+PASS variable phase case=5 steps=17180000/343598000
+PASS variable phase case=6 steps=343598000/17180000
+PASS variable phase case=7 steps=343598000/17180000
+PASS variable phase case=8 steps=19018000/65538000
+PASS variable phase case=9 steps=19018000/65538000
+PASS variable phase case=10 steps=314574000/17344000
+PASS variable phase case=11 steps=314574000/17344000
+PASS variable phase case=12 steps=77778000/222222000
+PASS variable phase case=13 steps=77778000/222222000
+PASS variable phase case=14 steps=123456000/234568000
+PASS variable phase case=15 steps=123456000/234568000
+PASS variable phase: 80 windows, max phase error=0.048479 deg, max amplitude error=1.080949 ADC counts
+tb/tb_variable_phase.sv:63: $finish called at 128495360000 (1ps)

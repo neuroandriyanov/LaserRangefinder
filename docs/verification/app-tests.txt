@@ -1,0 +1,6 @@
+...........Executing <Task pending name='Task-2' coro=<VectorTests.test_measurement_timeouts_restart_poll_without_reconnecting() running at <workspace>\LaseRangefinder_github\app\desktop_app\test_app.py:170> wait_for=<Future pending cb=[Task.task_wakeup()] created at <Python>\Lib\asyncio\base_events.py:460> cb=[_run_until_complete_cb() at <Python>\Lib\asyncio\base_events.py:181] created at <Python>\Lib\asyncio\runners.py:110> took 0.149 seconds
+....................................................
+----------------------------------------------------------------------
+Ran 63 tests in 3.942s
+
+OK

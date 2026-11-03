@@ -1,0 +1,5 @@
+PASS variable digital mode=0 periods=16384/26214
+PASS variable digital mode=1 periods=6250/124999
+PASS variable digital mode=2 periods=124999/6250
+PASS variable digital: 6 phase checks, 1..20kHz, unequal periods, loss/recovery
+tb/tb_variable_digital.sv:43: $finish called at 116292149000 (1ps)

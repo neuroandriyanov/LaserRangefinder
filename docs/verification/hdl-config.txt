@@ -1,0 +1,2 @@
+PASS configuration/UART/SPI: defaults, CRC, incomplete/staged/atomic commits, readback, limits 1..20kHz, phase/amp ranges, synchronous updates, no periodic writes
+tb/tb_config.sv:120: $finish called at 22063360000 (1ps)

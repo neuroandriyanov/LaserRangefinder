@@ -1,0 +1,2 @@
+PASS bridge: coherent epochs, backpressure, live fault, no stale recovery
+tb/tb_bridge.sv:32: $finish called at 1231000 (1ps)

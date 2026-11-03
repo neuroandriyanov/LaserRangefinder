@@ -1,0 +1,27 @@
++---------------------+
+; Unconstrained Paths ;
++---------------------+
++------------------------------------------------+
+; Unconstrained Paths Summary                    ;
++---------------------------------+-------+------+
+; Property                        ; Setup ; Hold ;
++---------------------------------+-------+------+
+; Illegal Clocks                  ; 0     ; 0    ;
+; Unconstrained Clocks            ; 0     ; 0    ;
+; Unconstrained Input Ports       ; 0     ; 0    ;
+; Unconstrained Input Port Paths  ; 0     ; 0    ;
+; Unconstrained Output Ports      ; 0     ; 0    ;
+; Unconstrained Output Port Paths ; 0     ; 0    ;
++---------------------------------+-------+------+
+
++---------------------------------------------------------------------------------------------------------------------+
+; Clock Status Summary                                                                                                ;
++---------------------------------------------+---------------------------------------------+-----------+-------------+
+; Target                                      ; Clock                                       ; Type      ; Status      ;
++---------------------------------------------+---------------------------------------------+-----------+-------------+
+; Clock_50Mhz                                 ; board50                                     ; Base      ; Constrained ;
+; ad9959_sync_clck_125Mhz                     ; dds125                                      ; Base      ; Constrained ;
+; sample_clock|pll|auto_generated|pll1|clk[0] ; sample_clock|pll|auto_generated|pll1|clk[0] ; Generated ; Constrained ;
+; sample_clock|pll|auto_generated|pll1|clk[1] ; sample_clock|pll|auto_generated|pll1|clk[1] ; Generated ; Constrained ;
++---------------------------------------------+---------------------------------------------+-----------+-------------+
+

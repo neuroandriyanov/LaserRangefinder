@@ -1,0 +1,3 @@
+PASS ADC5..8 detector gate: every channel +/-0.499875 V rejects, +/-0.500250 V accepts, mixed polarity, raw telemetry, immediate invalidation, 100 ms loss and automatic recovery
+PASS UART v3: request-only, CRC, coherent RAM snapshots, detector ADCs, reserved legacy ACK, queue, loss/recovery, parser recovery
+tb/tb_link.sv:118: $finish called at 594729170000 (1ps)
