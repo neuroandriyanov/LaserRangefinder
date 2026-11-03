@@ -1,0 +1,269 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'dds125'
+Slack : 0.294
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'n/a'
+Slack : 1.202
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'sample_clock|pll|auto_generated|pll1|clk[0]'
+Slack : 2.290
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'sample_clock|pll|auto_generated|pll1|clk[1]'
+Slack : 3.149
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'board50'
+Slack : 8.993
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'dds125'
+Slack : 0.399
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'sample_clock|pll|auto_generated|pll1|clk[0]'
+Slack : 0.405
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'board50'
+Slack : 0.453
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'sample_clock|pll|auto_generated|pll1|clk[1]'
+Slack : 0.454
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'n/a'
+Slack : 3.841
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'dds125'
+Slack : 0.266
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'sample_clock|pll|auto_generated|pll1|clk[1]'
+Slack : 4.664
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'board50'
+Slack : 13.822
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'sample_clock|pll|auto_generated|pll1|clk[0]'
+Slack : 14.089
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'board50'
+Slack : 1.100
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'dds125'
+Slack : 2.233
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'sample_clock|pll|auto_generated|pll1|clk[1]'
+Slack : 2.308
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'sample_clock|pll|auto_generated|pll1|clk[0]'
+Slack : 3.011
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'dds125'
+Slack : 3.595
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'sample_clock|pll|auto_generated|pll1|clk[1]'
+Slack : 3.719
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'sample_clock|pll|auto_generated|pll1|clk[0]'
+Slack : 9.531
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'board50'
+Slack : 9.724
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'dds125'
+Slack : 0.593
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'n/a'
+Slack : 2.293
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'sample_clock|pll|auto_generated|pll1|clk[1]'
+Slack : 3.447
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'sample_clock|pll|auto_generated|pll1|clk[0]'
+Slack : 3.800
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'board50'
+Slack : 9.368
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'dds125'
+Slack : 0.381
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'sample_clock|pll|auto_generated|pll1|clk[0]'
+Slack : 0.388
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'board50'
+Slack : 0.401
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'sample_clock|pll|auto_generated|pll1|clk[1]'
+Slack : 0.402
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'n/a'
+Slack : 3.518
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'dds125'
+Slack : 0.253
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'sample_clock|pll|auto_generated|pll1|clk[1]'
+Slack : 4.842
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'board50'
+Slack : 14.112
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'sample_clock|pll|auto_generated|pll1|clk[0]'
+Slack : 14.379
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'board50'
+Slack : 0.951
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'dds125'
+Slack : 2.076
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'sample_clock|pll|auto_generated|pll1|clk[1]'
+Slack : 2.096
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'sample_clock|pll|auto_generated|pll1|clk[0]'
+Slack : 2.684
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'dds125'
+Slack : 3.594
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'sample_clock|pll|auto_generated|pll1|clk[1]'
+Slack : 3.718
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'sample_clock|pll|auto_generated|pll1|clk[0]'
+Slack : 9.551
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'board50'
+Slack : 9.738
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'dds125'
+Slack : 2.180
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'n/a'
+Slack : 5.105
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'sample_clock|pll|auto_generated|pll1|clk[1]'
+Slack : 5.868
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'sample_clock|pll|auto_generated|pll1|clk[0]'
+Slack : 12.402
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'board50'
+Slack : 14.895
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'dds125'
+Slack : 0.137
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'sample_clock|pll|auto_generated|pll1|clk[0]'
+Slack : 0.137
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'board50'
+Slack : 0.186
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'sample_clock|pll|auto_generated|pll1|clk[1]'
+Slack : 0.187
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'n/a'
+Slack : 1.759
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'dds125'
+Slack : 2.349
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'sample_clock|pll|auto_generated|pll1|clk[1]'
+Slack : 6.448
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'board50'
+Slack : 17.050
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'sample_clock|pll|auto_generated|pll1|clk[0]'
+Slack : 17.288
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'board50'
+Slack : 0.461
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'dds125'
+Slack : 0.820
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'sample_clock|pll|auto_generated|pll1|clk[1]'
+Slack : 0.968
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'sample_clock|pll|auto_generated|pll1|clk[0]'
+Slack : 1.365
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'dds125'
+Slack : 3.198
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'sample_clock|pll|auto_generated|pll1|clk[1]'
+Slack : 3.796
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'board50'
+Slack : 9.239
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'sample_clock|pll|auto_generated|pll1|clk[0]'
+Slack : 9.732
+TNS   : 0.000
+
+------------------------------------------------------------

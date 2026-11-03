@@ -1,0 +1,106 @@
+{
+  "schema": 1,
+  "base": "repository root",
+  "items": [
+    {
+      "title": "Программа",
+      "path": "app/README.md",
+      "kind": "documentation"
+    },
+    {
+      "title": "Проект Quartus",
+      "path": "fpga/DistanceSensorFpga_v0.qpf",
+      "kind": "download"
+    },
+    {
+      "title": "Сборка FPGA",
+      "path": "fpga/README.md",
+      "kind": "documentation"
+    },
+    {
+      "title": "Основная схема",
+      "path": "hardware/schematics/main.pdf",
+      "kind": "pdf"
+    },
+    {
+      "title": "Питание",
+      "path": "hardware/schematics/power.pdf",
+      "kind": "pdf"
+    },
+    {
+      "title": "Спецификация",
+      "path": "hardware/schematics/bom.xlsx",
+      "kind": "spreadsheet"
+    },
+    {
+      "title": "Фото платы, оптики и питания",
+      "path": "hardware/photos/README.md",
+      "kind": "gallery"
+    },
+    {
+      "title": "Последняя серия",
+      "path": "measurements/2026-11-03/README.md",
+      "kind": "report"
+    },
+    {
+      "title": "Таблица измерений",
+      "path": "measurements/2026-11-03/Стендовые измерения.xlsx",
+      "kind": "spreadsheet"
+    },
+    {
+      "title": "Осциллограммы",
+      "path": "measurements/2026-11-03/Осциллограммы/README.md",
+      "kind": "gallery"
+    },
+    {
+      "title": "UART v3",
+      "path": "docs/protocol-v3.md",
+      "kind": "documentation"
+    },
+    {
+      "title": "Проверки",
+      "path": "docs/build-verification.md",
+      "kind": "report"
+    },
+    {
+      "title": "Обзор проекта",
+      "path": "README.md",
+      "kind": "overview"
+    },
+    {
+      "title": "История проекта",
+      "path": "docs/project-story.md",
+      "kind": "article"
+    },
+    {
+      "title": "Стенд",
+      "path": "docs/stand.md",
+      "kind": "documentation"
+    },
+    {
+      "title": "Эксперименты",
+      "path": "docs/experiments.md",
+      "kind": "report"
+    },
+    {
+      "title": "Начать работу с ИИ",
+      "path": "docs/START_WITH_AI.md",
+      "kind": "guide"
+    },
+    {
+      "title": "Памятка ИИ",
+      "path": "AGENTS.md",
+      "kind": "documentation"
+    },
+    {
+      "title": "Текущий статус",
+      "path": "docs/AI_HANDOFF.md",
+      "kind": "documentation"
+    },
+    {
+      "title": "Лицензии",
+      "path": "NOTICE.md",
+      "kind": "documentation"
+    }
+  ]
+}

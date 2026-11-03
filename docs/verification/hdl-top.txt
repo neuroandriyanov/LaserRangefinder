@@ -1,0 +1,2 @@
+PASS top: DDS/8 ADC, analog 120.000216 -29.999861, digital 119.999714 -29.999757, CDC and request-only UART idle
+tb/tb_top.sv:55: $finish called at 31071600000 (1ps)

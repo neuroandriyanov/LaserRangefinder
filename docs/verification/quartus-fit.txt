@@ -1,0 +1,16 @@
+Fitter Status : Successful - Tue Nov  3 22:03:19 2026
+Quartus Prime Version : 25.1std.0 Build 1129 10/21/2025 SC Lite Edition
+Revision Name : DistanceSensorFpga_v0
+Top-level Entity Name : DistanceSensorFpga_v0
+Family : Cyclone IV E
+Device : EP4CE6E22C8
+Timing Models : Final
+Total logic elements : 6,162 / 6,272 ( 98 % )
+    Total combinational functions : 5,569 / 6,272 ( 89 % )
+    Dedicated logic registers : 4,292 / 6,272 ( 68 % )
+Total registers : 4294
+Total pins : 88 / 92 ( 96 % )
+Total virtual pins : 0
+Total memory bits : 78,744 / 276,480 ( 28 % )
+Embedded Multiplier 9-bit elements : 10 / 30 ( 33 % )
+Total PLLs : 1 / 2 ( 50 % )

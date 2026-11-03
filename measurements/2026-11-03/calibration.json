@@ -1,0 +1,91 @@
+{
+  "schema": 1,
+  "method": "low_branch_high_quartic_v2",
+  "created_utc": "2026-11-03T16:05:08.908501+00:00",
+  "demo": false,
+  "point_count": 21,
+  "points_sha256": "52edde9ee8d9485ebdb41a03f78f5265596bfc753360d5943c7e02511cf4ccfe",
+  "source": "captures/calibration/20261103T154158_268551Z/points.json",
+  "dds_settings_not_readback": null,
+  "distance_range_mm": [
+    638.0,
+    5583.0
+  ],
+  "profiles": {
+    "analog": {
+      "high_forward_deg_per_m": [
+        -10.347222779154745,
+        -177.19407223291037
+      ],
+      "x_range_turns": [
+        0.360058412887156,
+        2.7853859490714967
+      ],
+      "min_branch_margin_deg": 90.0,
+      "fit_rms_mm": 6.798859152517986,
+      "fit_max_abs_mm": 18.84955577259825,
+      "low_linear_deg_per_m": [
+        1.0837363438103746,
+        3.590855951410976
+      ],
+      "fine_mm": [
+        3142.4677369111782,
+        2433.6631724882086,
+        19.117363997289647,
+        44.548749314837664,
+        -51.70575290952566
+      ],
+      "x_center_turns": 1.5727221809793264,
+      "x_scale_turns": 1.2126637680921704
+    },
+    "digital": {
+      "high_forward_deg_per_m": [
+        -9.323622136675935,
+        -177.14353178845738
+      ],
+      "x_range_turns": [
+        0.35707056522369385,
+        2.781236171722412
+      ],
+      "min_branch_margin_deg": 90.0,
+      "fit_rms_mm": 7.513619137273596,
+      "fit_max_abs_mm": 19.878295711744613,
+      "low_linear_deg_per_m": [
+        -0.08466419242769714,
+        3.5901877319972897
+      ],
+      "fine_mm": [
+        3141.8773682270366,
+        2433.114294448144,
+        19.576437264582104,
+        44.66390851804049,
+        -52.347003386309986
+      ],
+      "x_center_turns": 1.569153368473053,
+      "x_scale_turns": 1.2120828032493591
+    }
+  },
+  "dds_channels": [
+    {
+      "ftw": 12845056,
+      "phase_word": 0,
+      "amplitude": 200
+    },
+    {
+      "ftw": 635888254,
+      "phase_word": 0,
+      "amplitude": 1000
+    },
+    {
+      "ftw": 12879416,
+      "phase_word": 0,
+      "amplitude": 1000
+    },
+    {
+      "ftw": 635830272,
+      "phase_word": 0,
+      "amplitude": 450
+    }
+  ],
+  "id": "6c959d57db56d0397e0618d8026c43604e38874606a59c39262eb9daf9059de6"
+}

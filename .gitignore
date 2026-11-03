@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+.cache/
+captures/
+.pytest_cache/
+fpga/db/
+fpga/incremental_db/
+fpga/output_files/
+fpga/test-results/
+fpga/*.qws
+fpga/*.bak
+*.log
+Thumbs.db
+.DS_Store

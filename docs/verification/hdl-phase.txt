@@ -1,0 +1,11 @@
+PASS scenario 0
+PASS scenario 1
+PASS scenario 2
+PASS scenario 3
+PASS scenario 4
+PASS scenario 5
+PASS scenario 6
+PASS scenario 7
+PASS scenario 8
+PASS phase FILTER=0: 63 full windows, max error 0.026526 degrees
+tb/tb_phase.sv:71: $finish called at 90278640000 (1ps)

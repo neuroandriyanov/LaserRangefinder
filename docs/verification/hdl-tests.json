@@ -1,0 +1,14 @@
+{
+  "pin_locations_unchanged": 88,
+  "tests": {
+    "adc": "PASS",
+    "phase": "PASS",
+    "variable_phase": "PASS",
+    "variable_digital": "PASS",
+    "config": "PASS",
+    "digital": "PASS",
+    "bridge": "PASS",
+    "link": "PASS",
+    "top": "PASS"
+  }
+}

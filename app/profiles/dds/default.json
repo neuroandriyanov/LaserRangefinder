@@ -1,0 +1,30 @@
+{
+  "name": "Balanced bench profile, 2026-11-03",
+  "sysclk_hz": 500000000,
+  "channels": [
+    {
+      "ftw": 12845056,
+      "phase_word": 0,
+      "amplitude": 200
+    },
+    {
+      "ftw": 635888254,
+      "phase_word": 0,
+      "amplitude": 1000
+    },
+    {
+      "ftw": 12879416,
+      "phase_word": 0,
+      "amplitude": 1000
+    },
+    {
+      "ftw": 635830272,
+      "phase_word": 0,
+      "amplitude": 450
+    }
+  ],
+  "startup_generation": 0,
+  "configuration_persistence": "RAM until reset; PC settings saved separately",
+  "measured_firmware_pof_sha256": "7e652373ae74ca5d1734248706c16cae9fdaf9ef25b28a321869271220e0212d",
+  "note": "Selected on the author bench at 1642 mm; not universal optimal settings."
+}

@@ -1,0 +1,9 @@
+# Preserve exact bytes for the publication SHA256 manifest on every platform.
+# This disables EOL conversion, not text diffs.
+* -text
+*.pdf binary
+*.xlsx binary
+*.jpg binary
+*.png binary
+*.pof binary
+*.sof binary
