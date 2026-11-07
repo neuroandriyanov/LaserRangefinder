@@ -1,0 +1,1050 @@
+{
+  "version": 1,
+  "sourceLanguage": "ru",
+  "targetLanguage": "en",
+  "entries": [
+    {
+      "source": "AGENTS.md",
+      "target": "AGENTS.en.md",
+      "sourceSha256": "ff10ba1d9801810be9b792449fcb9718863225cd0499adea820ff4324d7541ce",
+      "targetSha256": "083906edb1e28d8da0d1c52843ade837a1fa2e0cac544687d19c7d2d65899763",
+      "status": "current"
+    },
+    {
+      "source": "CONTRIBUTING.md",
+      "target": "CONTRIBUTING.en.md",
+      "sourceSha256": "915cb7bf15ba0cb5cb0ffd6561f0b5f48a123a9a17dfc8892f0926e5a08c13bf",
+      "targetSha256": "ac2b5f1fa6b4e56e493e66fb5b2b10e34bdf8bd7ffbfb764cacab8d01bbe392d",
+      "status": "current"
+    },
+    {
+      "source": "LICENSE_STATUS.md",
+      "target": "LICENSE_STATUS.en.md",
+      "sourceSha256": "9d64f285b14f171d636d99c53696c83bfbc772234f974e32f49f262934d3a781",
+      "targetSha256": "5f97e8d3b54d69e93df1110a43d02e4ac111cf7ab5064319e4ec4e5a37e0c487",
+      "status": "current"
+    },
+    {
+      "source": "NOTICE.md",
+      "target": "NOTICE.en.md",
+      "sourceSha256": "efaf1a9d92d6d0309ac40ae2f1aa5a1d4c610e278e5d6a545d3a6ebe46710083",
+      "targetSha256": "29a738446a1d6210560aa529b19eb0bb0ca85f05dc6a7a346a81bffe5ab91842",
+      "status": "current"
+    },
+    {
+      "source": "README.md",
+      "target": "README.en.md",
+      "sourceSha256": "15936565eea4c7edaaa6390d33f6956f2f49180a752720b14e3d088fc454b5e2",
+      "targetSha256": "26265f80882c81a203358c412789cb87080488d75ca4fabb9ed3b5f00dae698e",
+      "status": "current"
+    },
+    {
+      "source": "app/README.md",
+      "target": "app/README.en.md",
+      "sourceSha256": "baf07a6978feae31ff1ae8f93b6e6b9d9ad66e740f65976356e7110b0fd63042",
+      "targetSha256": "c2c0a2cba0e284c03c2cb9622171d5cc97438d6e12b268c4aa713b1e7c80db84",
+      "status": "current"
+    },
+    {
+      "source": "docs/AI_HANDOFF.md",
+      "target": "docs/AI_HANDOFF.en.md",
+      "sourceSha256": "cebc573d9c89922b918364358e7b35b868ed94165f3c5207f6f1818b351e7f9c",
+      "targetSha256": "229ad50a1cb9e5d4b324f20a2a82ebbab48f6f12e33ee0cb8335aaf664319daf",
+      "status": "current"
+    },
+    {
+      "source": "docs/PROJECT_LOG.md",
+      "target": "docs/PROJECT_LOG.en.md",
+      "sourceSha256": "743e29e2789cf34a6c4e22aff8befad923d8161d026c53a17a7c4809ebe57f32",
+      "targetSha256": "bd1b9ea31c2f2044d270d134ad060bb61397038820c0daf17e895d965efeef16",
+      "status": "current"
+    },
+    {
+      "source": "docs/START_WITH_AI.md",
+      "target": "docs/START_WITH_AI.en.md",
+      "sourceSha256": "a425bfb699798db45c98f39e14ee809a791ebcb00c27cb0d8381ea9f7cc3adce",
+      "targetSha256": "3993bdaf7364b83275560e469b17e771cad501955c315d0798df1ed997c23f5f",
+      "status": "current"
+    },
+    {
+      "source": "docs/TRANSLATION.md",
+      "target": "docs/TRANSLATION.en.md",
+      "sourceSha256": "148981f6061f2e02ecbe61a43d8c5a0d0b76b4fbe76c7ee28524fa2d71d8473b",
+      "targetSha256": "f20e15ebe096e65c97f391fa0d36584f4c44c216cd3d0cc6d988f2b4fe34a189",
+      "status": "current"
+    },
+    {
+      "source": "docs/architecture.md",
+      "target": "docs/architecture.en.md",
+      "sourceSha256": "883261a7aa499fd0863e233785046e5520b0c29d9569d97a1ad253f940311493",
+      "targetSha256": "d18458f55f8e4fe8c9e68b3cf3662f0d96cc559d8b496c89f84f1085786a552e",
+      "status": "current"
+    },
+    {
+      "source": "docs/build-verification.md",
+      "target": "docs/build-verification.en.md",
+      "sourceSha256": "da142482fada4e222e2d2beb7c6c1b1fd115835645c8f984340837db9d3af3db",
+      "targetSha256": "b66cd5210fb9a357db773aa26653a57eb0177a10321c84b0284ffb521fff7fe0",
+      "status": "current"
+    },
+    {
+      "source": "docs/experiments.md",
+      "target": "docs/experiments.en.md",
+      "sourceSha256": "28ecc3f64181c78e3a5f8fa0003226de38b19697ca9bddd227a3c326f9dfb2fd",
+      "targetSha256": "f7809d38ec4e09a299e7eeeffb66c8873650cdd841cbfb4249b4a3bd5b760a03",
+      "status": "current"
+    },
+    {
+      "source": "docs/known-limitations.md",
+      "target": "docs/known-limitations.en.md",
+      "sourceSha256": "cd5d8b813abdfbaf4574fd89ef1259d68d39df1eecda47aa1e9229925ee1166f",
+      "targetSha256": "a12de0e6116103d43d87be96a0befab8fadcb967617b9e067a505f0350c51f58",
+      "status": "current"
+    },
+    {
+      "source": "docs/license-sources.md",
+      "target": "docs/license-sources.en.md",
+      "sourceSha256": "fdcde35856a0f16f65356ecb74e1574c4bff20fd3d43a3d258314128c0610642",
+      "targetSha256": "657825ab7d3b243f0d6c0e57a6c74c9d4fb194f07521ed890c989de1c8f2e0e1",
+      "status": "current"
+    },
+    {
+      "source": "docs/project-story.md",
+      "target": "docs/project-story.en.md",
+      "sourceSha256": "4aef4abc553f8a6eebf33fd6aa7066ac6119d2df0f462405c1fc3e9b7caa9639",
+      "targetSha256": "1e6491bba58810872fd1e2edf045a84886db0fb01cff349a09f2f0e14d951d58",
+      "status": "current"
+    },
+    {
+      "source": "docs/protocol-v2-fields.md",
+      "target": "docs/protocol-v2-fields.en.md",
+      "sourceSha256": "fe2c2f4998802ba3717bb5f7cbdb5c6bc9e0d6eb56e7b7d6b16a7003dab7da9f",
+      "targetSha256": "1b0507f9048ed1390dd41a1f360f0b684ffd77d5564ab3053bdadf427ce74cf1",
+      "status": "current"
+    },
+    {
+      "source": "docs/protocol-v3.md",
+      "target": "docs/protocol-v3.en.md",
+      "sourceSha256": "fca28a0aba165a3cf1bdeca12db7682eb18f154427d73d70f267fa75fdf889a2",
+      "targetSha256": "64f734b48ce5cba84d00718a313d3e5fb165b6d4a2259bf05a264420b37d90ce",
+      "status": "current"
+    },
+    {
+      "source": "docs/stand.md",
+      "target": "docs/stand.en.md",
+      "sourceSha256": "1d043941fd45ec06b3b6169fc8961272aba0d4dd3357f8960bd9d3f63533b902",
+      "targetSha256": "e2737a8942c5b5bce7f4f6c8670bc5625ca210f516c95ae370792b43e6cca8c2",
+      "status": "current"
+    },
+    {
+      "source": "docs/website-links.md",
+      "target": "docs/website-links.en.md",
+      "sourceSha256": "b888a3eb19d9befe845fd24c327a51570af963fed1f3b56ab67e0fe820cbaa3d",
+      "targetSha256": "35a1f256f08db5c519bd6347b2b63dd8747f75822b246d796d454c808408c1b1",
+      "status": "current"
+    },
+    {
+      "source": "fpga/README.md",
+      "target": "fpga/README.en.md",
+      "sourceSha256": "b6f06941f12bf6b63b5f7aa3249be8009bc6224b7276e878f93cd5c0953b4e7f",
+      "targetSha256": "edfbfec98f9586273d788464a70345d3218f05cb6923785c50a76ed2d24b9805",
+      "status": "current"
+    },
+    {
+      "source": "hardware/README.md",
+      "target": "hardware/README.en.md",
+      "sourceSha256": "a6db55c32a4d45a33c656f1cb3b2b115743520b3803cbdb332ccf2f6edc29048",
+      "targetSha256": "17097856fd5c0abea4b5a6871ed3712306b7d45e432d5ef89d109ab793d88920",
+      "status": "current"
+    },
+    {
+      "source": "hardware/photos/README.md",
+      "target": "hardware/photos/README.en.md",
+      "sourceSha256": "0d93b9de7eb243b7e7b776c3c28c3cae35009eff1f09277c01aa9195087104f1",
+      "targetSha256": "f86022b5667172b437a88b9e0286eed705757d6a8c0bebb689ac66e0c39100bd",
+      "status": "current"
+    },
+    {
+      "source": "measurements/2026-11-03/README.md",
+      "target": "measurements/2026-11-03/README.en.md",
+      "sourceSha256": "d24708d2b4ed622b9acdad34cd7ba3bf78adb9575c8e513c17412f62f8133c3a",
+      "targetSha256": "b8d9d5172ffa05a05d4434dce66de49485525c02a97e7adb7cb1e4b9cef96d1b",
+      "status": "current"
+    },
+    {
+      "source": "measurements/2026-11-03/Осциллограммы/README.md",
+      "target": "measurements/2026-11-03/Осциллограммы/README.en.md",
+      "sourceSha256": "3911b2411eb83492032d5a875e18e29c303307cf85c556ae19d8920c28d726c3",
+      "targetSha256": "40f64f81414d32b46755bf2aed016a41dd553605c422c5fa2030f28c922d410c",
+      "status": "current"
+    },
+    {
+      "source": "measurements/2026-11-03/Осциллограммы/point-01_00762.0mm_ch1-ch3.svg",
+      "target": "measurements/2026-11-03/Осциллограммы/point-01_00762.0mm_ch1-ch3.en.svg",
+      "sourceSha256": "5581c35e186ba0cc69326dfadd61442f74d2c698c49b6d1acb53e38e67d5fb86",
+      "targetSha256": "c6a665697c674124f0310cfc073fac4f45ae2c958b01ce46534291dc88b5ca5b",
+      "status": "current"
+    },
+    {
+      "source": "measurements/2026-11-03/Осциллограммы/point-01_00762.0mm_ch2-ch4.svg",
+      "target": "measurements/2026-11-03/Осциллограммы/point-01_00762.0mm_ch2-ch4.en.svg",
+      "sourceSha256": "2c78facb65b5505cd1e6eba3fbd47abee9d183ef1154d20ba82822b561085ef7",
+      "targetSha256": "cd16ff44b6a1b5726c8a4bc4eb7314c68fba0a8693f15cdbc5b368a528e05225",
+      "status": "current"
+    },
+    {
+      "source": "measurements/2026-11-03/Осциллограммы/point-02_01091.0mm_ch1-ch3.svg",
+      "target": "measurements/2026-11-03/Осциллограммы/point-02_01091.0mm_ch1-ch3.en.svg",
+      "sourceSha256": "f54940d3f2da9c1da83a7193485c623dfa3f19df0998512c185db0def6f1221c",
+      "targetSha256": "33862594bcf91b2d21a49e664d46087395f38b990aa37f7c1b04d543d799f405",
+      "status": "current"
+    },
+    {
+      "source": "measurements/2026-11-03/Осциллограммы/point-02_01091.0mm_ch2-ch4.svg",
+      "target": "measurements/2026-11-03/Осциллограммы/point-02_01091.0mm_ch2-ch4.en.svg",
+      "sourceSha256": "93daf16961516e889057179469cea718a3507805137c70999a482bd7feee8987",
+      "targetSha256": "1d443f04c4e3d619abe88e58be75fd20db901fba88cca588acb2bef12232e6e4",
+      "status": "current"
+    },
+    {
+      "source": "measurements/2026-11-03/Осциллограммы/point-03_01480.0mm_ch1-ch3.svg",
+      "target": "measurements/2026-11-03/Осциллограммы/point-03_01480.0mm_ch1-ch3.en.svg",
+      "sourceSha256": "85ed95e177b97ca6c04db7f5ec516bcb5a930d4b65922d47d8e6aaafd333384b",
+      "targetSha256": "d7e5f6161956147b267978f3d1d39c7ddc7a797119a48cd5d273c76a7dcf4bb4",
+      "status": "current"
+    },
+    {
+      "source": "measurements/2026-11-03/Осциллограммы/point-03_01480.0mm_ch2-ch4.svg",
+      "target": "measurements/2026-11-03/Осциллограммы/point-03_01480.0mm_ch2-ch4.en.svg",
+      "sourceSha256": "8ca13b62efdd11df133b38022161ec839206bd1d039d3fbdd597ccd373899088",
+      "targetSha256": "41da91132d179d09e2b5912790cd4571096f6ae8f00d1bd1eb715da961ba807e",
+      "status": "current"
+    },
+    {
+      "source": "measurements/2026-11-03/Осциллограммы/point-04_01958.0mm_ch1-ch3.svg",
+      "target": "measurements/2026-11-03/Осциллограммы/point-04_01958.0mm_ch1-ch3.en.svg",
+      "sourceSha256": "41da1c5736cf0fce47a07883563f314cd735118ba7374f8eba923238b12bbbf1",
+      "targetSha256": "35fcedf75b747249f5b247c530381a0d9f81a103d0d3a83a2a812f812a89bf3f",
+      "status": "current"
+    },
+    {
+      "source": "measurements/2026-11-03/Осциллограммы/point-04_01958.0mm_ch2-ch4.svg",
+      "target": "measurements/2026-11-03/Осциллограммы/point-04_01958.0mm_ch2-ch4.en.svg",
+      "sourceSha256": "10cb7c59e24026f60c3fcd5241770003e6873255ad2522bec95c869d895d03f7",
+      "targetSha256": "663d106b5f847dca127535ce9c7ea8bebeefdfde1bff7e0aa4a8d86f401aa869",
+      "status": "current"
+    },
+    {
+      "source": "measurements/2026-11-03/Осциллограммы/point-05_02398.0mm_ch1-ch3.svg",
+      "target": "measurements/2026-11-03/Осциллограммы/point-05_02398.0mm_ch1-ch3.en.svg",
+      "sourceSha256": "5140e3e72cf51ff9f431b01493f247b809a71674af2a2ee18e518cb65999c96d",
+      "targetSha256": "1240356fdda7fa7c335d03b78e4080819948fe49fd8e363994ccfe4050da633a",
+      "status": "current"
+    },
+    {
+      "source": "measurements/2026-11-03/Осциллограммы/point-05_02398.0mm_ch2-ch4.svg",
+      "target": "measurements/2026-11-03/Осциллограммы/point-05_02398.0mm_ch2-ch4.en.svg",
+      "sourceSha256": "f6625438a1d3901f89b64b09a916087531e387f09f135da2898bd28a6a9e4599",
+      "targetSha256": "4c37cd9a19320f37033c4c084c337734c697284f5af7be7d720a0bed59a47a49",
+      "status": "current"
+    },
+    {
+      "source": "measurements/2026-11-03/Осциллограммы/point-06_02876.0mm_ch1-ch3.svg",
+      "target": "measurements/2026-11-03/Осциллограммы/point-06_02876.0mm_ch1-ch3.en.svg",
+      "sourceSha256": "70d131329ac1b1abbc53988490f551018c1489ab6a185d7cb5d81a81c0035250",
+      "targetSha256": "93cb7b252471b3a1b7c55bd3c39a4a6af6e609de86abd3377acfc132aa30e5c7",
+      "status": "current"
+    },
+    {
+      "source": "measurements/2026-11-03/Осциллограммы/point-06_02876.0mm_ch2-ch4.svg",
+      "target": "measurements/2026-11-03/Осциллограммы/point-06_02876.0mm_ch2-ch4.en.svg",
+      "sourceSha256": "2a4e9c31fbf92d9cbce076e91b70a7c5195d798de0657c26371bd89b8ef0a3df",
+      "targetSha256": "fa665c29dc42735ae0f146c98225e17d9be5ab996054ea5647efef0669929499",
+      "status": "current"
+    },
+    {
+      "source": "measurements/2026-11-03/Осциллограммы/point-07_03425.0mm_ch1-ch3.svg",
+      "target": "measurements/2026-11-03/Осциллограммы/point-07_03425.0mm_ch1-ch3.en.svg",
+      "sourceSha256": "4805acecdb66fc0002e6c6ef4f3c0d0c972111ba32829304fb0e9f5f9f2622de",
+      "targetSha256": "8292a35bfa2e2e20dae4ad318fa840692489cb055f83cead730280903574b101",
+      "status": "current"
+    },
+    {
+      "source": "measurements/2026-11-03/Осциллограммы/point-07_03425.0mm_ch2-ch4.svg",
+      "target": "measurements/2026-11-03/Осциллограммы/point-07_03425.0mm_ch2-ch4.en.svg",
+      "sourceSha256": "d29b8735c4da8c91b935c367e793bc263c71e7e6e795b12087c8037e5b940a15",
+      "targetSha256": "6d511758d00b6f3a669342642f6d91046774a0b278d70fb06ea0a4ffff0e6b41",
+      "status": "current"
+    },
+    {
+      "source": "measurements/2026-11-03/Осциллограммы/point-08_04198.0mm_ch1-ch3.svg",
+      "target": "measurements/2026-11-03/Осциллограммы/point-08_04198.0mm_ch1-ch3.en.svg",
+      "sourceSha256": "3c506060ac9c95bd697ee2b88468a2f6f87102972370f78351cfdf52a8be14ad",
+      "targetSha256": "d790d6cc68b566e907338c98263ebcf7b6a4025001944bae65502b037ea2dc0d",
+      "status": "current"
+    },
+    {
+      "source": "measurements/2026-11-03/Осциллограммы/point-08_04198.0mm_ch2-ch4.svg",
+      "target": "measurements/2026-11-03/Осциллограммы/point-08_04198.0mm_ch2-ch4.en.svg",
+      "sourceSha256": "bf775f4c18a36ce81b61571c5709b994ffde2cf5ff6f1a346da4691515167256",
+      "targetSha256": "24876d7b5b79039fee278aeaf84608bf8ca0258f02b3fd9afe21fc11d812be88",
+      "status": "current"
+    },
+    {
+      "source": "measurements/2026-11-03/Осциллограммы/point-09_04814.0mm_ch1-ch3.svg",
+      "target": "measurements/2026-11-03/Осциллограммы/point-09_04814.0mm_ch1-ch3.en.svg",
+      "sourceSha256": "58077730a76e4f673673908c9ff4bcf84451b4e4be9e0d96356e384fd491fbe4",
+      "targetSha256": "b6667a42a8802e76284ec1b6c59b96e7b01b89131b603f4e8f562b34c2d9a915",
+      "status": "current"
+    },
+    {
+      "source": "measurements/2026-11-03/Осциллограммы/point-09_04814.0mm_ch2-ch4.svg",
+      "target": "measurements/2026-11-03/Осциллограммы/point-09_04814.0mm_ch2-ch4.en.svg",
+      "sourceSha256": "a5ab02eb64c753b0f5e88fa2fe2d18c68beb186b3f47c38bf8c2fd0b4b413864",
+      "targetSha256": "ef1771c1ab689bf0ae8e477a8db8323d53d0b09d61d1a48631e9a6ab43ddbaeb",
+      "status": "current"
+    },
+    {
+      "source": "measurements/2026-11-03/Осциллограммы/point-10_05635.0mm_ch1-ch3.svg",
+      "target": "measurements/2026-11-03/Осциллограммы/point-10_05635.0mm_ch1-ch3.en.svg",
+      "sourceSha256": "a4ecc53ecefd7934de0090930a86ae83664d84d52efe671fd7bfb6a8f631095c",
+      "targetSha256": "73ac551f798626f02cb17a48fda9b26713f789de46e7bc4ac6ef48258c77b14b",
+      "status": "current"
+    },
+    {
+      "source": "measurements/2026-11-03/Осциллограммы/point-10_05635.0mm_ch2-ch4.svg",
+      "target": "measurements/2026-11-03/Осциллограммы/point-10_05635.0mm_ch2-ch4.en.svg",
+      "sourceSha256": "9d3ca4e87ae25f283352ee581ae98433b74e3402324fd611425851d038552220",
+      "targetSha256": "7ecefc014440c0772a44cc660e07aba6574fc910f62ca83d6d2c88519751cb3e",
+      "status": "current"
+    },
+    {
+      "source": "measurements/2026-11-03/Стендовые измерения.xlsx",
+      "target": "measurements/2026-11-03/Стендовые измерения.en.xlsx",
+      "sourceSha256": "4cf68147f070e3dd4469b9ac547039f69f066ee8fb6f6bc27ed2daa12bcb89c0",
+      "targetSha256": "56406cc3f62c0de581dc74818c67a856f8072c8bdec10f249b9900c291d1099f",
+      "status": "current"
+    },
+    {
+      "source": "measurements/README.md",
+      "target": "measurements/README.en.md",
+      "sourceSha256": "1d595b7ace33dd545c9c14a50396e1dc496ca81f526a9d44ad2ea385a04b7e69",
+      "targetSha256": "67aff38c9cd63d1880a8178f6e25b4bd2fc6a2103c97273d7be5c2a69ec63126",
+      "status": "current"
+    },
+    {
+      "source": "site-links.json",
+      "target": "site-links.en.json",
+      "sourceSha256": "fc489bb5b43fde543a149cf4ca5419727852cc52a76e24ff2fed491e1c6adff4",
+      "targetSha256": "24db8f749fd00d04385fac8db7e06d5c6e100ea579cd58934490ee027936b3f6",
+      "status": "current"
+    }
+  ],
+  "shared": [
+    {
+      "path": ".gitattributes",
+      "reason": "Shared source code, configuration, firmware or dependency file; executable identifiers and original technical content are preserved. Desktop UI remains Russian.",
+      "sha256": "4fd3545d15362fe8e2041078bec863f3e4d5e8d2e54dd26e60de98ecf258ad05"
+    },
+    {
+      "path": ".gitignore",
+      "reason": "Shared source code, configuration, firmware or dependency file; executable identifiers and original technical content are preserved. Desktop UI remains Russian.",
+      "sha256": "9575403749aecd007d46ee99949692cb8cdb26232c15771e4527321ce2a6dd2f"
+    },
+    {
+      "path": "LICENSE",
+      "reason": "Original English licence text, preserved verbatim.",
+      "sha256": "43fbc31070e309dc9022a49fcfba775cc4d8728b5eea971a6a451cc954ae84bc"
+    },
+    {
+      "path": "LICENSES/CERN-OHL-P-2.0.txt",
+      "reason": "Original English licence text, preserved verbatim.",
+      "sha256": "eeecc593866fa1c3b80189c7e3dc0ceb77740557fa92f81771f891cc54c579cb"
+    },
+    {
+      "path": "app/Run.cmd",
+      "reason": "Shared source code, configuration, firmware or dependency file; executable identifiers and original technical content are preserved. Desktop UI remains Russian.",
+      "sha256": "6465b1f9e286130b5f712f0f07e743a33551b6b2601eaf97b35915e9e6b30232"
+    },
+    {
+      "path": "app/desktop_app/__init__.py",
+      "reason": "Shared source code, configuration, firmware or dependency file; executable identifiers and original technical content are preserved. Desktop UI remains Russian.",
+      "sha256": "3562d0098b8fa2660e8dd658ee0a042fb7b095fc38cf4f1d6f4e64f7e6b58882"
+    },
+    {
+      "path": "app/desktop_app/__main__.py",
+      "reason": "Shared source code, configuration, firmware or dependency file; executable identifiers and original technical content are preserved. Desktop UI remains Russian.",
+      "sha256": "ae6ef540a1f04ca00d554b78c2a3f660c759ccd115aead5772d25681788796c0"
+    },
+    {
+      "path": "app/desktop_app/cal1.csv",
+      "reason": "Shared source code, configuration, firmware or dependency file; executable identifiers and original technical content are preserved. Desktop UI remains Russian.",
+      "sha256": "1f5a6527671be7f3c5b29ebf84bebc10da9678f8ced9aa68579e2c0f81f3b8a4"
+    },
+    {
+      "path": "app/desktop_app/cal2.csv",
+      "reason": "Shared source code, configuration, firmware or dependency file; executable identifiers and original technical content are preserved. Desktop UI remains Russian.",
+      "sha256": "1760544e65cc604eff2f1f0a8bf81fef839eeda9236cebfa9b607d34a540a1f4"
+    },
+    {
+      "path": "app/desktop_app/calibration.py",
+      "reason": "Shared source code, configuration, firmware or dependency file; executable identifiers and original technical content are preserved. Desktop UI remains Russian.",
+      "sha256": "7d245f30c2cbad85b25a10445dd1e450ddc704c47a19e5fa1c72d0200cd3dd9e"
+    },
+    {
+      "path": "app/desktop_app/calibration_view.py",
+      "reason": "Shared source code, configuration, firmware or dependency file; executable identifiers and original technical content are preserved. Desktop UI remains Russian.",
+      "sha256": "45d21b70ad2f730144ed45ac11904cbf3d3280bb0d7ab148ecc870cdf291c869"
+    },
+    {
+      "path": "app/desktop_app/distance.py",
+      "reason": "Shared source code, configuration, firmware or dependency file; executable identifiers and original technical content are preserved. Desktop UI remains Russian.",
+      "sha256": "4bef39a7f738283c911aaa783ea3b7d5d910623c41ab40b1b38fa9b5e5ef1dab"
+    },
+    {
+      "path": "app/desktop_app/model.py",
+      "reason": "Shared source code, configuration, firmware or dependency file; executable identifiers and original technical content are preserved. Desktop UI remains Russian.",
+      "sha256": "a61d96b5962b9970072a913f7363b91eab68131445c4609d0770d07575ceba4a"
+    },
+    {
+      "path": "app/desktop_app/test_app.py",
+      "reason": "Shared source code, configuration, firmware or dependency file; executable identifiers and original technical content are preserved. Desktop UI remains Russian.",
+      "sha256": "d709a11d1e2e9db727124431c476935695f1185bd86b935489c48475c8445f7b"
+    },
+    {
+      "path": "app/desktop_app/test_cal2.py",
+      "reason": "Shared source code, configuration, firmware or dependency file; executable identifiers and original technical content are preserved. Desktop UI remains Russian.",
+      "sha256": "c8734f31ae6a160b5d55e043f369f67c4cf7945c593993e3002ff26a804c7d7b"
+    },
+    {
+      "path": "app/desktop_app/test_calibration.py",
+      "reason": "Shared source code, configuration, firmware or dependency file; executable identifiers and original technical content are preserved. Desktop UI remains Russian.",
+      "sha256": "6b9c1742d673fb853856a3ea64befa5aa85c09807c16b0436508891b410eb1bf"
+    },
+    {
+      "path": "app/desktop_app/test_distance.py",
+      "reason": "Shared source code, configuration, firmware or dependency file; executable identifiers and original technical content are preserved. Desktop UI remains Russian.",
+      "sha256": "b6c50272f87ad7a1d67a994a4aa898827f707ecc8551f87ac4fec51cea5efb4e"
+    },
+    {
+      "path": "app/desktop_app/test_distance_ui.py",
+      "reason": "Shared source code, configuration, firmware or dependency file; executable identifiers and original technical content are preserved. Desktop UI remains Russian.",
+      "sha256": "af0023cd697d7c9aef0264d74248b020dc136a8316e351ebb7eeeba08097e0a2"
+    },
+    {
+      "path": "app/desktop_app/test_portability.py",
+      "reason": "Shared source code, configuration, firmware or dependency file; executable identifiers and original technical content are preserved. Desktop UI remains Russian.",
+      "sha256": "606dafb16cd000b0bc2f833c87727a2ecab012eb2ca25d94fe8b9dd315ad1b4c"
+    },
+    {
+      "path": "app/desktop_app/test_v3.py",
+      "reason": "Shared source code, configuration, firmware or dependency file; executable identifiers and original technical content are preserved. Desktop UI remains Russian.",
+      "sha256": "ffd635d8d941b904ad039de97c89164f7f755a505eb5b567a978e1cd81df5a46"
+    },
+    {
+      "path": "app/desktop_app/test_v3_ui.py",
+      "reason": "Shared source code, configuration, firmware or dependency file; executable identifiers and original technical content are preserved. Desktop UI remains Russian.",
+      "sha256": "0707429f78d580dcc74864d1c565652278b9017a095e43b7ef0f36163ffc7d0a"
+    },
+    {
+      "path": "app/desktop_app/ui.py",
+      "reason": "Shared source code, configuration, firmware or dependency file; executable identifiers and original technical content are preserved. Desktop UI remains Russian.",
+      "sha256": "4e2f000666e45d5d1fa15f6798d2ef81fee2218fdb06feb6ec3db046df0bbd6a"
+    },
+    {
+      "path": "app/desktop_app/workers.py",
+      "reason": "Shared source code, configuration, firmware or dependency file; executable identifiers and original technical content are preserved. Desktop UI remains Russian.",
+      "sha256": "c9ba033e4507a02bf44eff14f044596a03e9003ac782a34308aaba2898a982cf"
+    },
+    {
+      "path": "app/install.ps1",
+      "reason": "Shared source code, configuration, firmware or dependency file; executable identifiers and original technical content are preserved. Desktop UI remains Russian.",
+      "sha256": "933dff4a74909088aed11bef1ff9deacfbf594724d65595fd25df8ab12a1265c"
+    },
+    {
+      "path": "app/profiles/dds/default.json",
+      "reason": "Shared source code, configuration, firmware or dependency file; executable identifiers and original technical content are preserved. Desktop UI remains Russian.",
+      "sha256": "7f2c3fa391b50c0b58c3793e541578226dbf82424027009a56a09e6334b5f8d9"
+    },
+    {
+      "path": "app/requirements-vector60.txt",
+      "reason": "Shared source code, configuration, firmware or dependency file; executable identifiers and original technical content are preserved. Desktop UI remains Russian.",
+      "sha256": "a9ca6134cf332fa63c576b484efdcad8f5568e6a989ecd050e3b2086e96e6735"
+    },
+    {
+      "path": "app/requirements.txt",
+      "reason": "Shared source code, configuration, firmware or dependency file; executable identifiers and original technical content are preserved. Desktop UI remains Russian.",
+      "sha256": "fb3997b559d95bb23e143323f3b4863818ff40555f65063fbc6fef0886114bcc"
+    },
+    {
+      "path": "app/tests/fixtures/cal1/cal1.csv",
+      "reason": "Shared source code, configuration, firmware or dependency file; executable identifiers and original technical content are preserved. Desktop UI remains Russian.",
+      "sha256": "1f5a6527671be7f3c5b29ebf84bebc10da9678f8ced9aa68579e2c0f81f3b8a4"
+    },
+    {
+      "path": "app/tests/fixtures/cal1/coefficients.json",
+      "reason": "Shared source code, configuration, firmware or dependency file; executable identifiers and original technical content are preserved. Desktop UI remains Russian.",
+      "sha256": "a89ca9bac79443b19bf6608fac58c4b75b5554ac96b04e6882afb7890c28f921"
+    },
+    {
+      "path": "app/tools/fpga_config.py",
+      "reason": "Shared source code, configuration, firmware or dependency file; executable identifiers and original technical content are preserved. Desktop UI remains Russian.",
+      "sha256": "06008c4473ed4ac861b7087ed0e83e73fc71509239cde4055b296b1a72b47a65"
+    },
+    {
+      "path": "app/tools/fpga_measurements.py",
+      "reason": "Shared source code, configuration, firmware or dependency file; executable identifiers and original technical content are preserved. Desktop UI remains Russian.",
+      "sha256": "349cfe3a10580967372910166485f78a7280cbc2bcfaaf9562e320dd9487061d"
+    },
+    {
+      "path": "app/tools/fpga_phase.py",
+      "reason": "Shared source code, configuration, firmware or dependency file; executable identifiers and original technical content are preserved. Desktop UI remains Russian.",
+      "sha256": "f600d1c28785d73afa6fd92ac948e9eed870ecf08b4746ba114cfd2e2819b760"
+    },
+    {
+      "path": "app/tools/test_fpga_config.py",
+      "reason": "Shared source code, configuration, firmware or dependency file; executable identifiers and original technical content are preserved. Desktop UI remains Russian.",
+      "sha256": "67e03ea623418e2b7e20a444d76749edfab10de800ec361fd10004dcbf93e56e"
+    },
+    {
+      "path": "app/tools/test_fpga_measurements.py",
+      "reason": "Shared source code, configuration, firmware or dependency file; executable identifiers and original technical content are preserved. Desktop UI remains Russian.",
+      "sha256": "25eeecf9c3a0b79f256dbc25627fb89c82caedb6993d82a0c11d26312c13740c"
+    },
+    {
+      "path": "app/tools/test_fpga_phase.py",
+      "reason": "Shared source code, configuration, firmware or dependency file; executable identifiers and original technical content are preserved. Desktop UI remains Russian.",
+      "sha256": "ff5932a840af46fcbf57653a90166eacd76803141c912ec77f98f9af92bcc2ff"
+    },
+    {
+      "path": "app/tools/test_vector60.py",
+      "reason": "Shared source code, configuration, firmware or dependency file; executable identifiers and original technical content are preserved. Desktop UI remains Russian.",
+      "sha256": "482e2c5490e21ff4653eebdf477aa5aac90dec105b8a28fb49e4b23c5a90bc26"
+    },
+    {
+      "path": "app/tools/vector60.py",
+      "reason": "Shared source code, configuration, firmware or dependency file; executable identifiers and original technical content are preserved. Desktop UI remains Russian.",
+      "sha256": "592f0d87e3a24bb986c5d06da656d3db02df712bed52c55e92492b67e52196c6"
+    },
+    {
+      "path": "app/tools/vector60_usb.py",
+      "reason": "Shared source code, configuration, firmware or dependency file; executable identifiers and original technical content are preserved. Desktop UI remains Russian.",
+      "sha256": "8dfc4971f50755ef4f4aa72c4388053f786b79e786f32a6fa43ee2782da7749a"
+    },
+    {
+      "path": "app/tools/vector60_winusb.py",
+      "reason": "Shared source code, configuration, firmware or dependency file; executable identifiers and original technical content are preserved. Desktop UI remains Russian.",
+      "sha256": "82fb44503e7878125e8e5f68eff4b9394cce424fe7131719642e01da0ff98d07"
+    },
+    {
+      "path": "docs/verification/app-tests.txt",
+      "reason": "Historical measurement data, verification output or manifest; exact original evidence and identifiers are shared.",
+      "sha256": "c1faa06253eb69e1b2297f741f0474f0451ea3a8dc513dfcd5c5e7497e24961d"
+    },
+    {
+      "path": "docs/verification/hdl-adc.txt",
+      "reason": "Historical measurement data, verification output or manifest; exact original evidence and identifiers are shared.",
+      "sha256": "de9f51c9d018ba627083f2712367b962f77241beb49a140b934e7973ae904cbb"
+    },
+    {
+      "path": "docs/verification/hdl-bridge.txt",
+      "reason": "Historical measurement data, verification output or manifest; exact original evidence and identifiers are shared.",
+      "sha256": "54b441980b181df44fd9afb0d87a2708399f53213874f85bff7e164cc9dc94af"
+    },
+    {
+      "path": "docs/verification/hdl-config.txt",
+      "reason": "Historical measurement data, verification output or manifest; exact original evidence and identifiers are shared.",
+      "sha256": "413c877a68184957e71db0503d69d265aeb8d9549e7acd2c0d9ca9bd2e40dc20"
+    },
+    {
+      "path": "docs/verification/hdl-digital.txt",
+      "reason": "Historical measurement data, verification output or manifest; exact original evidence and identifiers are shared.",
+      "sha256": "3af8eec791f56188625235be0783544ff5b4ee21a7540c8113a12af078dd469b"
+    },
+    {
+      "path": "docs/verification/hdl-link.txt",
+      "reason": "Historical measurement data, verification output or manifest; exact original evidence and identifiers are shared.",
+      "sha256": "d1033279eeec4c00c973d951f79a2523f8d5b3fa56689521f014156ace65e940"
+    },
+    {
+      "path": "docs/verification/hdl-phase.txt",
+      "reason": "Historical measurement data, verification output or manifest; exact original evidence and identifiers are shared.",
+      "sha256": "ce74f7d21e494f9658b08325717c33ebd221df1012eccc1428f3122bd74e168c"
+    },
+    {
+      "path": "docs/verification/hdl-tests.json",
+      "reason": "Historical measurement data, verification output or manifest; exact original evidence and identifiers are shared.",
+      "sha256": "5b8c1d46e080655a30761a3345f2c47b2c12b23cf81c5f1461ee17eccd36f13e"
+    },
+    {
+      "path": "docs/verification/hdl-top.txt",
+      "reason": "Historical measurement data, verification output or manifest; exact original evidence and identifiers are shared.",
+      "sha256": "6bb4602c34bf4a2b2f22666f50c4c13b9a36386d1ad9e3cf219134106590dda6"
+    },
+    {
+      "path": "docs/verification/hdl-variable_digital.txt",
+      "reason": "Historical measurement data, verification output or manifest; exact original evidence and identifiers are shared.",
+      "sha256": "08ca74bd9009be3df811dce38f43dd8f919a368c33db948375ca82c1410bc091"
+    },
+    {
+      "path": "docs/verification/hdl-variable_phase.txt",
+      "reason": "Historical measurement data, verification output or manifest; exact original evidence and identifiers are shared.",
+      "sha256": "78b9420e4853ef3e17848b4822e7459684f5e552a94dca8cd91797e3a2b42800"
+    },
+    {
+      "path": "docs/verification/phase-reference.json",
+      "reason": "Historical measurement data, verification output or manifest; exact original evidence and identifiers are shared.",
+      "sha256": "3e7452456c05fb8ad07d80621c391b8cfacf0ee00bd66d2cf16e93a3fdd764a1"
+    },
+    {
+      "path": "docs/verification/protocol-tests.txt",
+      "reason": "Historical measurement data, verification output or manifest; exact original evidence and identifiers are shared.",
+      "sha256": "38b948106757c1d7e9d08eaaea9c284094e7c584742767f73b37a7b184d5cb1b"
+    },
+    {
+      "path": "docs/verification/python-packages.txt",
+      "reason": "Historical measurement data, verification output or manifest; exact original evidence and identifiers are shared.",
+      "sha256": "64f99720ca363803a031e6fcf79ced21bc63c8dc3e2f0188856eee00349fb01a"
+    },
+    {
+      "path": "docs/verification/quartus-build.txt",
+      "reason": "Historical measurement data, verification output or manifest; exact original evidence and identifiers are shared.",
+      "sha256": "f3d82f73e083dd30614afb94431df94daff4e5a372d312bc5707a3d7fba78be9"
+    },
+    {
+      "path": "docs/verification/quartus-fit.txt",
+      "reason": "Historical measurement data, verification output or manifest; exact original evidence and identifiers are shared.",
+      "sha256": "9060f6502719547db837c642717612f89059b53982c7d0053fe19f6f99949b3d"
+    },
+    {
+      "path": "docs/verification/quartus-timing.txt",
+      "reason": "Historical measurement data, verification output or manifest; exact original evidence and identifiers are shared.",
+      "sha256": "1ef22bd7032a5f718efa0715bf71f13c9eb011a003d66708c122cfd92e6015bc"
+    },
+    {
+      "path": "docs/verification/quartus-unconstrained.txt",
+      "reason": "Historical measurement data, verification output or manifest; exact original evidence and identifiers are shared.",
+      "sha256": "1017d21b0965298c0f707b6f5fb6a91a3fe9166ac1c60c356e86500e8e7d2d1f"
+    },
+    {
+      "path": "docs/verification/summary.json",
+      "reason": "Historical measurement data, verification output or manifest; exact original evidence and identifiers are shared.",
+      "sha256": "2251f9852d818787d8c1c20c973fc18ac0ad03c093e29e2568cefe2989a616fc"
+    },
+    {
+      "path": "fpga/DistanceSensorFpga_v0.qpf",
+      "reason": "Shared source code, configuration, firmware or dependency file; executable identifiers and original technical content are preserved. Desktop UI remains Russian.",
+      "sha256": "5767452588bd4e6fd6343388df0e1a6a2bc1b25fc5f5fc91a57f1ba5a091605e"
+    },
+    {
+      "path": "fpga/DistanceSensorFpga_v0.qsf",
+      "reason": "Shared source code, configuration, firmware or dependency file; executable identifiers and original technical content are preserved. Desktop UI remains Russian.",
+      "sha256": "19f6a91bc4b7a0b7f95a739aa33e7b8b07aa2ae4a1684708752c959d97cef354"
+    },
+    {
+      "path": "fpga/DistanceSensorFpga_v0.sv",
+      "reason": "Shared source code, configuration, firmware or dependency file; executable identifiers and original technical content are preserved. Desktop UI remains Russian.",
+      "sha256": "f4d46dcc0804d778c137012e24a8cbfce886036a28e58495d17c591ee83cb1ea"
+    },
+    {
+      "path": "fpga/DistanceSensorFpga_v0_assignment_defaults.qdf",
+      "reason": "Shared source code, configuration, firmware or dependency file; executable identifiers and original technical content are preserved. Desktop UI remains Russian.",
+      "sha256": "3aded44fea1da995c2ac6dce70e6254d539e8e9e867a494ad537802518f58679"
+    },
+    {
+      "path": "fpga/ads8681_bank.sv",
+      "reason": "Shared source code, configuration, firmware or dependency file; executable identifiers and original technical content are preserved. Desktop UI remains Russian.",
+      "sha256": "4cd4f016a25d6efe91e93cdf2ab12c59952a083e5227800fe0bdd578d3bf9487"
+    },
+    {
+      "path": "fpga/atan.hex",
+      "reason": "Shared source code, configuration, firmware or dependency file; executable identifiers and original technical content are preserved. Desktop UI remains Russian.",
+      "sha256": "0a31ac7085d2396d9e6131163d0792d5e2185975ee96936a3437ba7ad7a7cba4"
+    },
+    {
+      "path": "fpga/build.ps1",
+      "reason": "Shared source code, configuration, firmware or dependency file; executable identifiers and original technical content are preserved. Desktop UI remains Russian.",
+      "sha256": "e3afcf255cb390647016fe4df4db969fd11b8909a24c8dea3c7e1afd9862174b"
+    },
+    {
+      "path": "fpga/cordic_atan.sv",
+      "reason": "Shared source code, configuration, firmware or dependency file; executable identifiers and original technical content are preserved. Desktop UI remains Russian.",
+      "sha256": "894e01e9a52422d0c51381dec04b53b605f69cfad6fdae239773074c89cdf7c0"
+    },
+    {
+      "path": "fpga/dds_programmer.sv",
+      "reason": "Shared source code, configuration, firmware or dependency file; executable identifiers and original technical content are preserved. Desktop UI remains Russian.",
+      "sha256": "a6c23e317da3ca1f4428e45eb15659a6d6f07c268e01c8f69b4bd24bc5ab8b29"
+    },
+    {
+      "path": "fpga/dds_settings.sv",
+      "reason": "Shared source code, configuration, firmware or dependency file; executable identifiers and original technical content are preserved. Desktop UI remains Russian.",
+      "sha256": "5025296796fe09f44ca834b1f9063ff076bb707b489b9ab010e928aea23fd409"
+    },
+    {
+      "path": "fpga/digital_phase_bridge.sv",
+      "reason": "Shared source code, configuration, firmware or dependency file; executable identifiers and original technical content are preserved. Desktop UI remains Russian.",
+      "sha256": "6c3623c27c4a38b7efe0eb26fac93829ea47897fa934d26690ad27f776b07d65"
+    },
+    {
+      "path": "fpga/digital_phase_meter.sv",
+      "reason": "Shared source code, configuration, firmware or dependency file; executable identifiers and original technical content are preserved. Desktop UI remains Russian.",
+      "sha256": "b774f4ee118e3ffcd37663ab166f45c6855c50f8f6688a054f183e276fb7bab5"
+    },
+    {
+      "path": "fpga/phase.sdc",
+      "reason": "Shared source code, configuration, firmware or dependency file; executable identifiers and original technical content are preserved. Desktop UI remains Russian.",
+      "sha256": "ea6fc8201aa2ac3550bae50690b4d4b9ad94139135d4f9fae2fd874ff7a2dc21"
+    },
+    {
+      "path": "fpga/phase_clock.sv",
+      "reason": "Shared source code, configuration, firmware or dependency file; executable identifiers and original technical content are preserved. Desktop UI remains Russian.",
+      "sha256": "ff969575c78c0c33edef4ae1078e3a339ae03cc632612b865c1ce2765942ac5b"
+    },
+    {
+      "path": "fpga/phase_demod.sv",
+      "reason": "Shared source code, configuration, firmware or dependency file; executable identifiers and original technical content are preserved. Desktop UI remains Russian.",
+      "sha256": "4dda92f7152651386a7dd8ac5fbd5a903fb9e78eaf1caf0232fbdcafb272bdc1"
+    },
+    {
+      "path": "fpga/phase_link.sv",
+      "reason": "Shared source code, configuration, firmware or dependency file; executable identifiers and original technical content are preserved. Desktop UI remains Russian.",
+      "sha256": "3f0e7a1cf09ac03cb45fb48c46bde04aed2d0ab9a8383624e58565f6014890e7"
+    },
+    {
+      "path": "fpga/phase_lsq.sv",
+      "reason": "Shared source code, configuration, firmware or dependency file; executable identifiers and original technical content are preserved. Desktop UI remains Russian.",
+      "sha256": "2e16491c3e130eacb208506345721c99525178668f80ad0a05259c508e1d031b"
+    },
+    {
+      "path": "fpga/pin-lock.json",
+      "reason": "Shared source code, configuration, firmware or dependency file; executable identifiers and original technical content are preserved. Desktop UI remains Russian.",
+      "sha256": "19737a70af71abfd15c9f4858b3040b063b29fc3d87e1b88559f03c4984ab0ba"
+    },
+    {
+      "path": "fpga/releases/2026-11-03/DistanceSensorFpga_v0.pof",
+      "reason": "Shared source code, configuration, firmware or dependency file; executable identifiers and original technical content are preserved. Desktop UI remains Russian.",
+      "sha256": "7e652373ae74ca5d1734248706c16cae9fdaf9ef25b28a321869271220e0212d"
+    },
+    {
+      "path": "fpga/releases/2026-11-03/DistanceSensorFpga_v0.sof",
+      "reason": "Shared source code, configuration, firmware or dependency file; executable identifiers and original technical content are preserved. Desktop UI remains Russian.",
+      "sha256": "a19623cfb452e7dc79d457c80d3c86fed184b39c29fdf8993506cdedd3df48bd"
+    },
+    {
+      "path": "fpga/sin.hex",
+      "reason": "Shared source code, configuration, firmware or dependency file; executable identifiers and original technical content are preserved. Desktop UI remains Russian.",
+      "sha256": "d62e7528ad6c0400fab616087abbdaa7b7977fcd9adbce1b347e3a5743ea3d6e"
+    },
+    {
+      "path": "fpga/tb/tb_adc.sv",
+      "reason": "Shared source code, configuration, firmware or dependency file; executable identifiers and original technical content are preserved. Desktop UI remains Russian.",
+      "sha256": "e8e3beb8d82f4b8a7ce3aa387da989a40325f8a19b93249ad8e8de274f667798"
+    },
+    {
+      "path": "fpga/tb/tb_bridge.sv",
+      "reason": "Shared source code, configuration, firmware or dependency file; executable identifiers and original technical content are preserved. Desktop UI remains Russian.",
+      "sha256": "d5d8892d93348c96434686f4a6778c22c46b0256d57475f814c04864dcf3c830"
+    },
+    {
+      "path": "fpga/tb/tb_config.sv",
+      "reason": "Shared source code, configuration, firmware or dependency file; executable identifiers and original technical content are preserved. Desktop UI remains Russian.",
+      "sha256": "40d2c011196eaea31960f9b52ed1475e07e2ae532872cc13a9d0e4f79b3fd231"
+    },
+    {
+      "path": "fpga/tb/tb_digital.sv",
+      "reason": "Shared source code, configuration, firmware or dependency file; executable identifiers and original technical content are preserved. Desktop UI remains Russian.",
+      "sha256": "b04659e50d6ebc67ec2728c6190c47e8f4f6834688901e237ff9be5a2b8d0f64"
+    },
+    {
+      "path": "fpga/tb/tb_link.sv",
+      "reason": "Shared source code, configuration, firmware or dependency file; executable identifiers and original technical content are preserved. Desktop UI remains Russian.",
+      "sha256": "9a761e3b73bf69a49bce27bdc98ad63bc1b1a7bb5cc7b83e206674d7627dfd43"
+    },
+    {
+      "path": "fpga/tb/tb_phase.sv",
+      "reason": "Shared source code, configuration, firmware or dependency file; executable identifiers and original technical content are preserved. Desktop UI remains Russian.",
+      "sha256": "37b142a9bb010e1ae300c40b77dd8d157090ae417678ecee045aecdcc25b5d30"
+    },
+    {
+      "path": "fpga/tb/tb_top.sv",
+      "reason": "Shared source code, configuration, firmware or dependency file; executable identifiers and original technical content are preserved. Desktop UI remains Russian.",
+      "sha256": "413378118c0aa16b35e544279fe8342006f60715ed3cc1ae7108d0e25aff0ebb"
+    },
+    {
+      "path": "fpga/tb/tb_variable_digital.sv",
+      "reason": "Shared source code, configuration, firmware or dependency file; executable identifiers and original technical content are preserved. Desktop UI remains Russian.",
+      "sha256": "2d7f1060c9eafe5128cc49fc3bebbe962affb0b2643f42269f1e5725343dffe9"
+    },
+    {
+      "path": "fpga/tb/tb_variable_phase.sv",
+      "reason": "Shared source code, configuration, firmware or dependency file; executable identifiers and original technical content are preserved. Desktop UI remains Russian.",
+      "sha256": "0a61a4b6880b1c36e5a3fad3ae49b320c5aad1671ac8b18c16c809705766107b"
+    },
+    {
+      "path": "fpga/tools/check_variable_phase.py",
+      "reason": "Shared source code, configuration, firmware or dependency file; executable identifiers and original technical content are preserved. Desktop UI remains Russian.",
+      "sha256": "b3b6e0edeb7502d0d2c88cd77891b185adaf45659855eac0a62cfb5a5b60af27"
+    },
+    {
+      "path": "fpga/tools/report_config_timing.tcl",
+      "reason": "Shared source code, configuration, firmware or dependency file; executable identifiers and original technical content are preserved. Desktop UI remains Russian.",
+      "sha256": "a0e94d276455b049deba7c70e04bd7d5f62a21c2243c120f693ebfd2a113e88b"
+    },
+    {
+      "path": "fpga/tools/test_phase_hdl.py",
+      "reason": "Shared source code, configuration, firmware or dependency file; executable identifiers and original technical content are preserved. Desktop UI remains Russian.",
+      "sha256": "9b115e59d0d07d29542277b43ef5a1462be1bbdc260ad7b8e59aea86d04de4f1"
+    },
+    {
+      "path": "fpga/uart_phy.sv",
+      "reason": "Shared source code, configuration, firmware or dependency file; executable identifiers and original technical content are preserved. Desktop UI remains Russian.",
+      "sha256": "1f7d8b776918bbdbedef55444b44306bc4374e18137ad230c82c23686344a50d"
+    },
+    {
+      "path": "hardware/photos/power-supply-01.jpg",
+      "reason": "Unmodified original photograph or instrument capture; translated explanatory captions are separate.",
+      "sha256": "4fc0da8600a8166fd3baf6f5d34bfd02e693c893d7062be1798ff6e9ca7c36c6"
+    },
+    {
+      "path": "hardware/photos/power-supply-02.jpg",
+      "reason": "Unmodified original photograph or instrument capture; translated explanatory captions are separate.",
+      "sha256": "30109700032319bfd957d396851d8ba714273921d288c361749d2e3db25962ff"
+    },
+    {
+      "path": "hardware/photos/rangefinder-01.jpg",
+      "reason": "Unmodified original photograph or instrument capture; translated explanatory captions are separate.",
+      "sha256": "9ed31d30ef6e9ce90cb90d1da4dd7a16e9f5fad58d0a45670bc51d5cada3c8c0"
+    },
+    {
+      "path": "hardware/photos/rangefinder-02.jpg",
+      "reason": "Unmodified original photograph or instrument capture; translated explanatory captions are separate.",
+      "sha256": "9a0ce58d284e09caf40a92deb1d7e3a05c932489d4e5798cd7962e34ca92634d"
+    },
+    {
+      "path": "hardware/photos/rangefinder-03.jpg",
+      "reason": "Unmodified original photograph or instrument capture; translated explanatory captions are separate.",
+      "sha256": "efdce155069d809e2752b75750b1938be8bbdae9753d7b085762a7f36158afc9"
+    },
+    {
+      "path": "hardware/photos/rangefinder-04.jpg",
+      "reason": "Unmodified original photograph or instrument capture; translated explanatory captions are separate.",
+      "sha256": "f1ecb442e4292b7e8f347cc0ae906019f1efe6eed5c60e450567cca7caa82dca"
+    },
+    {
+      "path": "hardware/photos/rangefinder-05.jpg",
+      "reason": "Unmodified original photograph or instrument capture; translated explanatory captions are separate.",
+      "sha256": "d4f4ce61cd4c1a5ac780f467bb66563556e38dd3cb5f995a026e29d8e75b7a11"
+    },
+    {
+      "path": "hardware/photos/rangefinder-06.jpg",
+      "reason": "Unmodified original photograph or instrument capture; translated explanatory captions are separate.",
+      "sha256": "de4449a8efac8b5b88c66679d430e6c19c517df955ebebe670e5f022c4f40c5f"
+    },
+    {
+      "path": "hardware/schematics/bom.xlsx",
+      "reason": "Already-English technical labels; PDF pages and BOM text inspected. Original shared unchanged.",
+      "sha256": "bde3f0ea0537c35f87a3b6902d1644711e160703303bbe5dc1cfa9729462e6f0"
+    },
+    {
+      "path": "hardware/schematics/main.pdf",
+      "reason": "Already-English technical labels; PDF pages and BOM text inspected. Original shared unchanged.",
+      "sha256": "40b6c197c88b6099804e45efda0e09d7111e3a0c7835286bbf94604058733ee8"
+    },
+    {
+      "path": "hardware/schematics/power.pdf",
+      "reason": "Already-English technical labels; PDF pages and BOM text inspected. Original shared unchanged.",
+      "sha256": "e05fe5c5070e3b4cd0e05d5912b68497456a2e92eea122d2fb7eaa954193035f"
+    },
+    {
+      "path": "manifest.json",
+      "reason": "Historical measurement data, verification output or manifest; exact original evidence and identifiers are shared.",
+      "sha256": "a71c552b40e1a5bb3b159ed23de5005b781a5a8f5c1bae148a7a498fcc3c709d"
+    },
+    {
+      "path": "measurements/2026-11-03/calibration.json",
+      "reason": "Historical measurement data, verification output or manifest; exact original evidence and identifiers are shared.",
+      "sha256": "bb944833ca4da81da664df7bcd712ed03042256857af7ffe410b94714fd216d7"
+    },
+    {
+      "path": "measurements/2026-11-03/formula-verification.json",
+      "reason": "Historical measurement data, verification output or manifest; exact original evidence and identifiers are shared.",
+      "sha256": "e827336badf8a2c6ba07d288e379ec6351903d20656cb204f3cc812984fa8c11"
+    },
+    {
+      "path": "measurements/2026-11-03/manifest.json",
+      "reason": "Historical measurement data, verification output or manifest; exact original evidence and identifiers are shared.",
+      "sha256": "36d57f4bce46738476c1400a29f5beebf0e5794ccf1502b8a3b23ad5704abdd2"
+    },
+    {
+      "path": "measurements/2026-11-03/measurements.json",
+      "reason": "Historical measurement data, verification output or manifest; exact original evidence and identifiers are shared.",
+      "sha256": "01d3d43bcf89df8577bfef754c1aac943bbd628fadc332d3b1de4a84dcbd2d29"
+    },
+    {
+      "path": "measurements/2026-11-03/metrics.json",
+      "reason": "Historical measurement data, verification output or manifest; exact original evidence and identifiers are shared.",
+      "sha256": "73f481ee4fd4e8a82552babb5ca43cf719c42a28fc642958dc8a4f9da0c3ff71"
+    },
+    {
+      "path": "measurements/2026-11-03/photo-index.json",
+      "reason": "Historical measurement data, verification output or manifest; exact original evidence and identifiers are shared.",
+      "sha256": "1f84175a42731bfb65383bc3a5f944fd29aa96b4db70a9e6efc1d748439a97e2"
+    },
+    {
+      "path": "measurements/2026-11-03/Данные/point-01.json",
+      "reason": "Historical measurement data, verification output or manifest; exact original evidence and identifiers are shared.",
+      "sha256": "988f787741d5b11413708bde2734a3c81a8f253643fb37cc5027d3c85dbfd663"
+    },
+    {
+      "path": "measurements/2026-11-03/Данные/point-02.json",
+      "reason": "Historical measurement data, verification output or manifest; exact original evidence and identifiers are shared.",
+      "sha256": "d50ec4d03a7ba1744ec5aff65134cb84c420283947a1859561eee6f018ef4fb5"
+    },
+    {
+      "path": "measurements/2026-11-03/Данные/point-03.json",
+      "reason": "Historical measurement data, verification output or manifest; exact original evidence and identifiers are shared.",
+      "sha256": "3be05b7b27b6929740fa81c695743dd09506c3361c82c21af3ebdbcb764d28ce"
+    },
+    {
+      "path": "measurements/2026-11-03/Данные/point-04.json",
+      "reason": "Historical measurement data, verification output or manifest; exact original evidence and identifiers are shared.",
+      "sha256": "5d56ed2403af4feea0e6a6f9595fe49369834086098c5f13e743fafd5cedb3f0"
+    },
+    {
+      "path": "measurements/2026-11-03/Данные/point-05.json",
+      "reason": "Historical measurement data, verification output or manifest; exact original evidence and identifiers are shared.",
+      "sha256": "1287917b7f00db4aee189f2783c4055d870361f0df2472779691a713d1eada64"
+    },
+    {
+      "path": "measurements/2026-11-03/Данные/point-06.json",
+      "reason": "Historical measurement data, verification output or manifest; exact original evidence and identifiers are shared.",
+      "sha256": "1c24f3924353a9d54cfc30dc374bc8e5ecc2d81daf53b01970ce3ca9af25892b"
+    },
+    {
+      "path": "measurements/2026-11-03/Данные/point-07.json",
+      "reason": "Historical measurement data, verification output or manifest; exact original evidence and identifiers are shared.",
+      "sha256": "7dc323696e10040c5123c4a800800c1eb3a7f49e8dd8500478cfe23862ceb6fd"
+    },
+    {
+      "path": "measurements/2026-11-03/Данные/point-08.json",
+      "reason": "Historical measurement data, verification output or manifest; exact original evidence and identifiers are shared.",
+      "sha256": "8c6f34d137de70bb21ba79c7ab7b807da8555d6c043bab69c784d1227a885d83"
+    },
+    {
+      "path": "measurements/2026-11-03/Данные/point-09.json",
+      "reason": "Historical measurement data, verification output or manifest; exact original evidence and identifiers are shared.",
+      "sha256": "414616805c01d94c7fb3694e5c43dc9d34bb50d5f46d5637aa1997c7fd7480cc"
+    },
+    {
+      "path": "measurements/2026-11-03/Данные/point-10.json",
+      "reason": "Historical measurement data, verification output or manifest; exact original evidence and identifiers are shared.",
+      "sha256": "3b883bc8e74e81b38008c44bb40565ed4a948daad8d09f7067ad8eae02ae7098"
+    },
+    {
+      "path": "measurements/2026-11-03/Осциллограммы/point-01_00762.0mm_ch1-ch3.png",
+      "reason": "Unmodified original photograph or instrument capture; translated explanatory captions are separate.",
+      "sha256": "120537268f3f2b23eb06e39c6e0c88ab096f1f6d0414e618bff380981c4c1032"
+    },
+    {
+      "path": "measurements/2026-11-03/Осциллограммы/point-01_00762.0mm_ch2-ch4.png",
+      "reason": "Unmodified original photograph or instrument capture; translated explanatory captions are separate.",
+      "sha256": "0bbe4af44f0bf959564aa5ccc9e1040bfcf49cfd3eee0e94aafed328e3b1e519"
+    },
+    {
+      "path": "measurements/2026-11-03/Осциллограммы/point-02_01091.0mm_ch1-ch3.png",
+      "reason": "Unmodified original photograph or instrument capture; translated explanatory captions are separate.",
+      "sha256": "d987dacce7ed40d00a8485ea2c288f7c935cbda48d0fbd11801e289d751a0055"
+    },
+    {
+      "path": "measurements/2026-11-03/Осциллограммы/point-02_01091.0mm_ch2-ch4.png",
+      "reason": "Unmodified original photograph or instrument capture; translated explanatory captions are separate.",
+      "sha256": "889dd9b52c130793ec8415195140592f0103faf741b33afbaa7fb70151350c25"
+    },
+    {
+      "path": "measurements/2026-11-03/Осциллограммы/point-03_01480.0mm_ch1-ch3.png",
+      "reason": "Unmodified original photograph or instrument capture; translated explanatory captions are separate.",
+      "sha256": "d37facf2c11486c7b482ad7c38f63bc8c979f4736f5bdcc405df331a83610eae"
+    },
+    {
+      "path": "measurements/2026-11-03/Осциллограммы/point-03_01480.0mm_ch2-ch4.png",
+      "reason": "Unmodified original photograph or instrument capture; translated explanatory captions are separate.",
+      "sha256": "5b84e13d50b0294c384fde15b633b62a7c402a994f7df15135fcc9c51eaa3ef7"
+    },
+    {
+      "path": "measurements/2026-11-03/Осциллограммы/point-04_01958.0mm_ch1-ch3.png",
+      "reason": "Unmodified original photograph or instrument capture; translated explanatory captions are separate.",
+      "sha256": "c6ecb77d59027505a2836b53c20164dcc87855731e897ea7881e30fc38bfd6d8"
+    },
+    {
+      "path": "measurements/2026-11-03/Осциллограммы/point-04_01958.0mm_ch2-ch4.png",
+      "reason": "Unmodified original photograph or instrument capture; translated explanatory captions are separate.",
+      "sha256": "ae38caff57d6387b86a6975f535c53f5fe86b664bd148a58fae8f40347d9c94c"
+    },
+    {
+      "path": "measurements/2026-11-03/Осциллограммы/point-05_02398.0mm_ch1-ch3.png",
+      "reason": "Unmodified original photograph or instrument capture; translated explanatory captions are separate.",
+      "sha256": "fbf2a92c0c887051df847b7d3ec1b8c4761787ac743880d81ac7a55d9b4c413b"
+    },
+    {
+      "path": "measurements/2026-11-03/Осциллограммы/point-05_02398.0mm_ch2-ch4.png",
+      "reason": "Unmodified original photograph or instrument capture; translated explanatory captions are separate.",
+      "sha256": "dc56d6682a50c2d55144386e86389379fccea08947a9bc638206e1053a45f608"
+    },
+    {
+      "path": "measurements/2026-11-03/Осциллограммы/point-06_02876.0mm_ch1-ch3.png",
+      "reason": "Unmodified original photograph or instrument capture; translated explanatory captions are separate.",
+      "sha256": "7c9e3b15553476c8fe2946944d8076eef9ceffdbc7a12727f7ea7eb7d1a386b3"
+    },
+    {
+      "path": "measurements/2026-11-03/Осциллограммы/point-06_02876.0mm_ch2-ch4.png",
+      "reason": "Unmodified original photograph or instrument capture; translated explanatory captions are separate.",
+      "sha256": "72901dc5441c6e82d1e9b73782731976020c89ba6e24e4850f7ab23e73b71484"
+    },
+    {
+      "path": "measurements/2026-11-03/Осциллограммы/point-07_03425.0mm_ch1-ch3.png",
+      "reason": "Unmodified original photograph or instrument capture; translated explanatory captions are separate.",
+      "sha256": "b5edfd57524c1c6b23280341cb2e551641cf4d2d17a4a2aa0ac41e162527187e"
+    },
+    {
+      "path": "measurements/2026-11-03/Осциллограммы/point-07_03425.0mm_ch2-ch4.png",
+      "reason": "Unmodified original photograph or instrument capture; translated explanatory captions are separate.",
+      "sha256": "b75c69be12e5cfc02aab9db1018a8a16a786b647ada85c7cfc2fcb0307db2c43"
+    },
+    {
+      "path": "measurements/2026-11-03/Осциллограммы/point-08_04198.0mm_ch1-ch3.png",
+      "reason": "Unmodified original photograph or instrument capture; translated explanatory captions are separate.",
+      "sha256": "2d10e90a393aa05dd48f4ac6fb00206be97cfba9cb871d38113ec0a9005a78bf"
+    },
+    {
+      "path": "measurements/2026-11-03/Осциллограммы/point-08_04198.0mm_ch2-ch4.png",
+      "reason": "Unmodified original photograph or instrument capture; translated explanatory captions are separate.",
+      "sha256": "54b56a7ac9ec36d4a52af323077acd441e22f2280f93e3034fdd723966b4c37e"
+    },
+    {
+      "path": "measurements/2026-11-03/Осциллограммы/point-09_04814.0mm_ch1-ch3.png",
+      "reason": "Unmodified original photograph or instrument capture; translated explanatory captions are separate.",
+      "sha256": "485608badfeace366c1f0dec7bbd011e6d048db19af00deeb7b9862fd817bc59"
+    },
+    {
+      "path": "measurements/2026-11-03/Осциллограммы/point-09_04814.0mm_ch2-ch4.png",
+      "reason": "Unmodified original photograph or instrument capture; translated explanatory captions are separate.",
+      "sha256": "53bde64db2e7b9de4f9a6c71ed0854985ac057c0a536bb3020451f6e65091c73"
+    },
+    {
+      "path": "measurements/2026-11-03/Осциллограммы/point-10_05635.0mm_ch1-ch3.png",
+      "reason": "Unmodified original photograph or instrument capture; translated explanatory captions are separate.",
+      "sha256": "06a309f2aa2bcd84473061126bbed760bbb948fecaa0b9d2ab26b5aaab4dab00"
+    },
+    {
+      "path": "measurements/2026-11-03/Осциллограммы/point-10_05635.0mm_ch2-ch4.png",
+      "reason": "Unmodified original photograph or instrument capture; translated explanatory captions are separate.",
+      "sha256": "a78fe19a57ccf4958877de12f296b408e388ee6509cc3882ac483f6b7ff5cc41"
+    },
+    {
+      "path": "tools/verify_bundle.py",
+      "reason": "Shared source code, configuration, firmware or dependency file; executable identifiers and original technical content are preserved. Desktop UI remains Russian.",
+      "sha256": "384e41d0d13488893d7ffb7c7ad37be196529b229f6f727ac78c09880694b1df"
+    }
+  ]
+}
