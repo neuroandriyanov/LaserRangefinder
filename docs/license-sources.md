@@ -1,5 +1,7 @@
 # Откуда взяты лицензии
 
+**Русский** · [English](license-sources.en.md)
+
 3 ноября 2026 года владелец поручил использовать те же свободные лицензии,
 что уже применены в его GitHub-проектах. Проверены публичные
 [FerroDSP](https://github.com/neuroandriyanov/FerroDsp) и
