@@ -1,12 +1,14 @@
 # Схемы и фотографии аппаратуры
 
+**Русский** | [English](README.en.md)
+
 [Галерея с пояснениями](photos/README.md) · [История восстановления](../docs/project-story.md) ·
 [Состав стенда и подключения](../docs/stand.md)
 
 | Материал | Файл |
 |---|---|
-| Основная электрическая схема | [main.pdf](schematics/main.pdf) |
-| Схема питания | [power.pdf](schematics/power.pdf) |
+| Основная электрическая схема | [main.pdf](schematics/main.pdf) · [Пояснения к надписям](schematics/labels.md) |
+| Схема питания | [power.pdf](schematics/power.pdf) · [Пояснения к надписям](schematics/labels.md) |
 | Спецификация компонентов | [bom.xlsx](schematics/bom.xlsx) |
 | Фотографии дальномера | [01](photos/rangefinder-01.jpg), [02](photos/rangefinder-02.jpg), [03](photos/rangefinder-03.jpg), [04](photos/rangefinder-04.jpg), [05](photos/rangefinder-05.jpg), [06](photos/rangefinder-06.jpg) |
 | Фотографии питания | [01](photos/power-supply-01.jpg), [02](photos/power-supply-02.jpg) |

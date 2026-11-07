@@ -1,5 +1,7 @@
 # FPGA: текущий проект Quartus
 
+**Русский** | [English](README.en.md)
+
 Устройство **Cyclone IV E EP4CE6E22C8**. Верхний уровень и ревизия:
 `DistanceSensorFpga_v0`. Открываемый проект: [QPF](DistanceSensorFpga_v0.qpf).
 Исходники HDL, ROM, QSF и SDC совпадают с текущим рабочим проектом стенда.
