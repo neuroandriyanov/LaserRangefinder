@@ -1,5 +1,7 @@
 # LaserRangefinder — исследуем расстояние по фазе света
 
+**Русский** | [English](README.en.md)
+
 Репозиторий: [neuroandriyanov/LaserRangefinder](https://github.com/neuroandriyanov/LaserRangefinder).
 
 **Двухчастотный лазерный дальномер на FPGA и стенд, на котором мы учимся его измерять и настраивать.**
@@ -164,3 +166,6 @@ app/Run.cmd --demo
 
 Автор аппаратуры — Сергей Андриянов ([NeuroAndriyanov](https://github.com/neuroandriyanov)).
 Код, измерительные сценарии и описание развивались совместно с ИИ.
+
+Новые материалы можно публиковать сначала на русском, затем добавлять перевод.
+[Порядок перевода и проверка актуальности](docs/TRANSLATIONS.md).

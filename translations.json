@@ -1,0 +1,301 @@
+{
+  "version": 1,
+  "sourceLanguage": "ru",
+  "targetLanguage": "en",
+  "entries": [
+    {
+      "source": "AGENTS.md",
+      "target": "AGENTS.en.md",
+      "sourceSha256": "621509b8bead8a42608cb318f2124e7c877fc29167e9523791e5eedc94bf7fb7",
+      "targetSha256": "8a9982db72dd16842e8274affe9b4487c40d5c61c309a6b91f8f900f61ac0f08"
+    },
+    {
+      "source": "CONTRIBUTING.md",
+      "target": "CONTRIBUTING.en.md",
+      "sourceSha256": "3917c1a3c263e4ef101ba930dfd6e36cf7fed97be23c5d38a98616d4cbaab573",
+      "targetSha256": "002787fdbba8e2e4dec55666b37a2d7f23ea31e389596f9802e40e16b4954636"
+    },
+    {
+      "source": "LICENSE_STATUS.md",
+      "target": "LICENSE_STATUS.en.md",
+      "sourceSha256": "8f21262dc62eaaadb24b6fed3e0517c988afd8f62a417168af583e6e4d90846b",
+      "targetSha256": "7679c926353fbdd986f0b6821ce7270e1af09609e91cf3e982a4a2ffffb33765"
+    },
+    {
+      "source": "NOTICE.md",
+      "target": "NOTICE.en.md",
+      "sourceSha256": "66815874bceace6665ad05c1c0fdffeba81d912218ea77dd2ce8369e2628be6d",
+      "targetSha256": "dd0bc54fe432caafb5d4b580364b7d2197b1dc63d0630d0aea9c4fd438ae094e"
+    },
+    {
+      "source": "README.md",
+      "target": "README.en.md",
+      "sourceSha256": "bd148321525b479a868be57699b9b04ce600cd3517ab9851009cdb004135014e",
+      "targetSha256": "da9733fe9e2445cfdf9a9ba55cbd4021600eb084163aefa47b74ef32ed5671a8"
+    },
+    {
+      "source": "app/README.md",
+      "target": "app/README.en.md",
+      "sourceSha256": "13ed648267446279606c473892af116ef7d37340f3ac7098d0e8fc4126c4bbdb",
+      "targetSha256": "ed90396cfe5252a6b374354727ad651a9570bca551ae8aa03e469db746c358fb"
+    },
+    {
+      "source": "docs/AI_HANDOFF.md",
+      "target": "docs/AI_HANDOFF.en.md",
+      "sourceSha256": "3185d15f1ce814e50da5c87ded70e2338aa15b7ad48b3ed6b1e7fc0fb49dd4e4",
+      "targetSha256": "904f30fff795746890305f6f664d8a830d93e459d34fd7dbc07363b7161e22b3"
+    },
+    {
+      "source": "docs/PROJECT_LOG.md",
+      "target": "docs/PROJECT_LOG.en.md",
+      "sourceSha256": "912369931db25ec552c8ec80e35a6cbe5cc3987858d92dd11074ecda61a14c3d",
+      "targetSha256": "3c312cc2abaaaa9b91958691ece6e0b699522ba271a3e3a835c7449a4fef0ec4"
+    },
+    {
+      "source": "docs/START_WITH_AI.md",
+      "target": "docs/START_WITH_AI.en.md",
+      "sourceSha256": "79ff468d3eea1e5faf77e02546185f2dde08959e81c30935dbff329b14a65a50",
+      "targetSha256": "344052710fc8a68abe1363f37cdc5f9af2feaecb1733aa7ad7805101b079189d"
+    },
+    {
+      "source": "docs/TRANSLATIONS.md",
+      "target": "docs/TRANSLATIONS.en.md",
+      "sourceSha256": "772001fe5a17e25f41a2da1768dbfb378e65590fc14057cce9f5cc3af7261230",
+      "targetSha256": "cc2bf11ce40ae267d133d3ca5b8ce6085860ebc7cba5dc6792d20e467504fd97"
+    },
+    {
+      "source": "docs/architecture.md",
+      "target": "docs/architecture.en.md",
+      "sourceSha256": "7b4f1ecdb585d548c05971dbe2b14c6a00bf24c766b46d27ae94e35c8696875b",
+      "targetSha256": "1023182554b7f43aaa3d45f61330d01fc997414af0ef98e2b32282274298bbac"
+    },
+    {
+      "source": "docs/build-verification.md",
+      "target": "docs/build-verification.en.md",
+      "sourceSha256": "c3f03f22c3c996104e8f9e2f47a2ed0050b8c398882d928f1dc8fff20cdc8ab1",
+      "targetSha256": "c4f1ddaf3b505e5d4472a74d62c85bc272d375ac850b24b7969d41013d7c1be5"
+    },
+    {
+      "source": "docs/experiments.md",
+      "target": "docs/experiments.en.md",
+      "sourceSha256": "fa08acd27bb3a09a3db6971f7e305c493a0e823acda097aaa1d2cc254ab4e127",
+      "targetSha256": "00df05a42485cc29291e7f953212d22ed841b210441f2c10b62d9c1670e9e8fe"
+    },
+    {
+      "source": "docs/known-limitations.md",
+      "target": "docs/known-limitations.en.md",
+      "sourceSha256": "7e808f2a8377545ae36b7e2caf053d94083f7ba5a57e8c9f256fd4aed5e6fabc",
+      "targetSha256": "8430302ddd72b87cfdbcfc433605a3c2f8a6bd3ab8c4a14b6123d83bb70d607c"
+    },
+    {
+      "source": "docs/license-sources.md",
+      "target": "docs/license-sources.en.md",
+      "sourceSha256": "58080f6cca390b36362f9f68ff6050a984eb19d7382d5fd243543a207d2bc4d4",
+      "targetSha256": "f0a9c4de3067f6f4c009bad064882a7f484a7f6989d73a20f713ba580d8fdfc1"
+    },
+    {
+      "source": "docs/project-story.md",
+      "target": "docs/project-story.en.md",
+      "sourceSha256": "45aa717694f819b81981888eb982ec0ef67ce2a0b5fd1a7bb63810df1a34a268",
+      "targetSha256": "fb0b4a026de57afe5b4eb34dce999f53e3e86b45def4cb4dc98698e4e96464c2"
+    },
+    {
+      "source": "docs/protocol-v2-fields.md",
+      "target": "docs/protocol-v2-fields.en.md",
+      "sourceSha256": "4a4a45e099406ce57dabe952b5f5c631a654e0b841db2221e280ecf1c2fc70ee",
+      "targetSha256": "4070bcbb2b2f75c7e5c83f8d798ffbc6ccc3d2fb6669f976f0ff2031382a9ae3"
+    },
+    {
+      "source": "docs/protocol-v3.md",
+      "target": "docs/protocol-v3.en.md",
+      "sourceSha256": "1529d782be85d567ba4aa2722ad4532f84eb7aaf0d7c677cff29ac6f1a756e59",
+      "targetSha256": "4d40e56b5d766216c1a864d977cd034812db9ca3008fe2f144eae8a5f06a1b5b"
+    },
+    {
+      "source": "docs/stand.md",
+      "target": "docs/stand.en.md",
+      "sourceSha256": "5c1fd3d4e146d601316be3fab4a8290f6569253b4f80fe0856b3d419c2f42857",
+      "targetSha256": "5a5718c55d37d574c79f72f418fb863cf1e6662ddecda1db074b24cae1ee376e"
+    },
+    {
+      "source": "docs/website-links.md",
+      "target": "docs/website-links.en.md",
+      "sourceSha256": "9a6becf9a995c65250564acdab777d76050899039fc434a6e12909d20b9d3828",
+      "targetSha256": "d30ce66e4cd8d9906cad618bf1768ec00cea9bb960e4793c5a98b91cdd7f5463"
+    },
+    {
+      "source": "fpga/README.md",
+      "target": "fpga/README.en.md",
+      "sourceSha256": "2dc33d6e5d38dd85cdd7474d3d0c57ac41acfec7dec27547bd6f0ef705afe50f",
+      "targetSha256": "1e322d98d2248bcae6918007c4abfeb94b16a8fc355ce98d6171041df6af3cd4"
+    },
+    {
+      "source": "hardware/README.md",
+      "target": "hardware/README.en.md",
+      "sourceSha256": "02f62ef05ec1fe1820c5e3df599483ff1c549b50f3eb4c3c8ec87bb266dabad3",
+      "targetSha256": "09fc3ea562c48b60c253d368223607620f86297e51267f9d44b61f63a273388c"
+    },
+    {
+      "source": "hardware/photos/README.md",
+      "target": "hardware/photos/README.en.md",
+      "sourceSha256": "ad2889ac8118452a8566439be5bdd04320da042853e4fbb316d8277690ca50f5",
+      "targetSha256": "552f069dab0ae5f258f5d8375065909e0f366f8caf8a1878710225711a9c6108"
+    },
+    {
+      "source": "hardware/schematics/labels.md",
+      "target": "hardware/schematics/labels.en.md",
+      "sourceSha256": "7e8294efdd3c39850f75adb1c2e6431b81ddeef1d2acffdfe7af2b3bdec9e368",
+      "targetSha256": "f37234cd9603925c996f5f02a030a611f328bb00ea77c831d8f6141ae42ba02b"
+    },
+    {
+      "source": "measurements/2026-11-03/README.md",
+      "target": "measurements/2026-11-03/README.en.md",
+      "sourceSha256": "9820a0e0874e21d0d554b47a7044e084957c4d3ea818e4a9ce959beaa16fae9f",
+      "targetSha256": "fa5b037254025561d72c9a00a4fff5be8c265b6ab52759ab6e8eb9eee25c8c4b"
+    },
+    {
+      "source": "measurements/2026-11-03/Осциллограммы/README.md",
+      "target": "measurements/2026-11-03/Осциллограммы/README.en.md",
+      "sourceSha256": "735bcd824b7541b47a888cfcc6dcbea4072ca2b46b55579464f405eba8d0763d",
+      "targetSha256": "6d87558b7f0d45773413b39f1a16b7db02a9460ec38f6ff6c691bf2eb3fc1f65"
+    },
+    {
+      "source": "measurements/2026-11-03/Осциллограммы/point-01_00762.0mm_ch1-ch3.svg",
+      "target": "measurements/2026-11-03/Осциллограммы/point-01_00762.0mm_ch1-ch3.en.svg",
+      "sourceSha256": "5581c35e186ba0cc69326dfadd61442f74d2c698c49b6d1acb53e38e67d5fb86",
+      "targetSha256": "c6a665697c674124f0310cfc073fac4f45ae2c958b01ce46534291dc88b5ca5b"
+    },
+    {
+      "source": "measurements/2026-11-03/Осциллограммы/point-01_00762.0mm_ch2-ch4.svg",
+      "target": "measurements/2026-11-03/Осциллограммы/point-01_00762.0mm_ch2-ch4.en.svg",
+      "sourceSha256": "2c78facb65b5505cd1e6eba3fbd47abee9d183ef1154d20ba82822b561085ef7",
+      "targetSha256": "cd16ff44b6a1b5726c8a4bc4eb7314c68fba0a8693f15cdbc5b368a528e05225"
+    },
+    {
+      "source": "measurements/2026-11-03/Осциллограммы/point-02_01091.0mm_ch1-ch3.svg",
+      "target": "measurements/2026-11-03/Осциллограммы/point-02_01091.0mm_ch1-ch3.en.svg",
+      "sourceSha256": "f54940d3f2da9c1da83a7193485c623dfa3f19df0998512c185db0def6f1221c",
+      "targetSha256": "33862594bcf91b2d21a49e664d46087395f38b990aa37f7c1b04d543d799f405"
+    },
+    {
+      "source": "measurements/2026-11-03/Осциллограммы/point-02_01091.0mm_ch2-ch4.svg",
+      "target": "measurements/2026-11-03/Осциллограммы/point-02_01091.0mm_ch2-ch4.en.svg",
+      "sourceSha256": "93daf16961516e889057179469cea718a3507805137c70999a482bd7feee8987",
+      "targetSha256": "1d443f04c4e3d619abe88e58be75fd20db901fba88cca588acb2bef12232e6e4"
+    },
+    {
+      "source": "measurements/2026-11-03/Осциллограммы/point-03_01480.0mm_ch1-ch3.svg",
+      "target": "measurements/2026-11-03/Осциллограммы/point-03_01480.0mm_ch1-ch3.en.svg",
+      "sourceSha256": "85ed95e177b97ca6c04db7f5ec516bcb5a930d4b65922d47d8e6aaafd333384b",
+      "targetSha256": "d7e5f6161956147b267978f3d1d39c7ddc7a797119a48cd5d273c76a7dcf4bb4"
+    },
+    {
+      "source": "measurements/2026-11-03/Осциллограммы/point-03_01480.0mm_ch2-ch4.svg",
+      "target": "measurements/2026-11-03/Осциллограммы/point-03_01480.0mm_ch2-ch4.en.svg",
+      "sourceSha256": "8ca13b62efdd11df133b38022161ec839206bd1d039d3fbdd597ccd373899088",
+      "targetSha256": "41da91132d179d09e2b5912790cd4571096f6ae8f00d1bd1eb715da961ba807e"
+    },
+    {
+      "source": "measurements/2026-11-03/Осциллограммы/point-04_01958.0mm_ch1-ch3.svg",
+      "target": "measurements/2026-11-03/Осциллограммы/point-04_01958.0mm_ch1-ch3.en.svg",
+      "sourceSha256": "41da1c5736cf0fce47a07883563f314cd735118ba7374f8eba923238b12bbbf1",
+      "targetSha256": "35fcedf75b747249f5b247c530381a0d9f81a103d0d3a83a2a812f812a89bf3f"
+    },
+    {
+      "source": "measurements/2026-11-03/Осциллограммы/point-04_01958.0mm_ch2-ch4.svg",
+      "target": "measurements/2026-11-03/Осциллограммы/point-04_01958.0mm_ch2-ch4.en.svg",
+      "sourceSha256": "10cb7c59e24026f60c3fcd5241770003e6873255ad2522bec95c869d895d03f7",
+      "targetSha256": "663d106b5f847dca127535ce9c7ea8bebeefdfde1bff7e0aa4a8d86f401aa869"
+    },
+    {
+      "source": "measurements/2026-11-03/Осциллограммы/point-05_02398.0mm_ch1-ch3.svg",
+      "target": "measurements/2026-11-03/Осциллограммы/point-05_02398.0mm_ch1-ch3.en.svg",
+      "sourceSha256": "5140e3e72cf51ff9f431b01493f247b809a71674af2a2ee18e518cb65999c96d",
+      "targetSha256": "1240356fdda7fa7c335d03b78e4080819948fe49fd8e363994ccfe4050da633a"
+    },
+    {
+      "source": "measurements/2026-11-03/Осциллограммы/point-05_02398.0mm_ch2-ch4.svg",
+      "target": "measurements/2026-11-03/Осциллограммы/point-05_02398.0mm_ch2-ch4.en.svg",
+      "sourceSha256": "f6625438a1d3901f89b64b09a916087531e387f09f135da2898bd28a6a9e4599",
+      "targetSha256": "4c37cd9a19320f37033c4c084c337734c697284f5af7be7d720a0bed59a47a49"
+    },
+    {
+      "source": "measurements/2026-11-03/Осциллограммы/point-06_02876.0mm_ch1-ch3.svg",
+      "target": "measurements/2026-11-03/Осциллограммы/point-06_02876.0mm_ch1-ch3.en.svg",
+      "sourceSha256": "70d131329ac1b1abbc53988490f551018c1489ab6a185d7cb5d81a81c0035250",
+      "targetSha256": "93cb7b252471b3a1b7c55bd3c39a4a6af6e609de86abd3377acfc132aa30e5c7"
+    },
+    {
+      "source": "measurements/2026-11-03/Осциллограммы/point-06_02876.0mm_ch2-ch4.svg",
+      "target": "measurements/2026-11-03/Осциллограммы/point-06_02876.0mm_ch2-ch4.en.svg",
+      "sourceSha256": "2a4e9c31fbf92d9cbce076e91b70a7c5195d798de0657c26371bd89b8ef0a3df",
+      "targetSha256": "fa665c29dc42735ae0f146c98225e17d9be5ab996054ea5647efef0669929499"
+    },
+    {
+      "source": "measurements/2026-11-03/Осциллограммы/point-07_03425.0mm_ch1-ch3.svg",
+      "target": "measurements/2026-11-03/Осциллограммы/point-07_03425.0mm_ch1-ch3.en.svg",
+      "sourceSha256": "4805acecdb66fc0002e6c6ef4f3c0d0c972111ba32829304fb0e9f5f9f2622de",
+      "targetSha256": "8292a35bfa2e2e20dae4ad318fa840692489cb055f83cead730280903574b101"
+    },
+    {
+      "source": "measurements/2026-11-03/Осциллограммы/point-07_03425.0mm_ch2-ch4.svg",
+      "target": "measurements/2026-11-03/Осциллограммы/point-07_03425.0mm_ch2-ch4.en.svg",
+      "sourceSha256": "d29b8735c4da8c91b935c367e793bc263c71e7e6e795b12087c8037e5b940a15",
+      "targetSha256": "6d511758d00b6f3a669342642f6d91046774a0b278d70fb06ea0a4ffff0e6b41"
+    },
+    {
+      "source": "measurements/2026-11-03/Осциллограммы/point-08_04198.0mm_ch1-ch3.svg",
+      "target": "measurements/2026-11-03/Осциллограммы/point-08_04198.0mm_ch1-ch3.en.svg",
+      "sourceSha256": "3c506060ac9c95bd697ee2b88468a2f6f87102972370f78351cfdf52a8be14ad",
+      "targetSha256": "d790d6cc68b566e907338c98263ebcf7b6a4025001944bae65502b037ea2dc0d"
+    },
+    {
+      "source": "measurements/2026-11-03/Осциллограммы/point-08_04198.0mm_ch2-ch4.svg",
+      "target": "measurements/2026-11-03/Осциллограммы/point-08_04198.0mm_ch2-ch4.en.svg",
+      "sourceSha256": "bf775f4c18a36ce81b61571c5709b994ffde2cf5ff6f1a346da4691515167256",
+      "targetSha256": "24876d7b5b79039fee278aeaf84608bf8ca0258f02b3fd9afe21fc11d812be88"
+    },
+    {
+      "source": "measurements/2026-11-03/Осциллограммы/point-09_04814.0mm_ch1-ch3.svg",
+      "target": "measurements/2026-11-03/Осциллограммы/point-09_04814.0mm_ch1-ch3.en.svg",
+      "sourceSha256": "58077730a76e4f673673908c9ff4bcf84451b4e4be9e0d96356e384fd491fbe4",
+      "targetSha256": "b6667a42a8802e76284ec1b6c59b96e7b01b89131b603f4e8f562b34c2d9a915"
+    },
+    {
+      "source": "measurements/2026-11-03/Осциллограммы/point-09_04814.0mm_ch2-ch4.svg",
+      "target": "measurements/2026-11-03/Осциллограммы/point-09_04814.0mm_ch2-ch4.en.svg",
+      "sourceSha256": "a5ab02eb64c753b0f5e88fa2fe2d18c68beb186b3f47c38bf8c2fd0b4b413864",
+      "targetSha256": "ef1771c1ab689bf0ae8e477a8db8323d53d0b09d61d1a48631e9a6ab43ddbaeb"
+    },
+    {
+      "source": "measurements/2026-11-03/Осциллограммы/point-10_05635.0mm_ch1-ch3.svg",
+      "target": "measurements/2026-11-03/Осциллограммы/point-10_05635.0mm_ch1-ch3.en.svg",
+      "sourceSha256": "a4ecc53ecefd7934de0090930a86ae83664d84d52efe671fd7bfb6a8f631095c",
+      "targetSha256": "73ac551f798626f02cb17a48fda9b26713f789de46e7bc4ac6ef48258c77b14b"
+    },
+    {
+      "source": "measurements/2026-11-03/Осциллограммы/point-10_05635.0mm_ch2-ch4.svg",
+      "target": "measurements/2026-11-03/Осциллограммы/point-10_05635.0mm_ch2-ch4.en.svg",
+      "sourceSha256": "9d3ca4e87ae25f283352ee581ae98433b74e3402324fd611425851d038552220",
+      "targetSha256": "7ecefc014440c0772a44cc660e07aba6574fc910f62ca83d6d2c88519751cb3e"
+    },
+    {
+      "source": "measurements/2026-11-03/Стендовые измерения.xlsx",
+      "target": "measurements/2026-11-03/Bench measurements.en.xlsx",
+      "sourceSha256": "4cf68147f070e3dd4469b9ac547039f69f066ee8fb6f6bc27ed2daa12bcb89c0",
+      "targetSha256": "e3ea929171281c2d810c67009f29709cdd98603c6124bb0720e318f4d0b917fd"
+    },
+    {
+      "source": "measurements/README.md",
+      "target": "measurements/README.en.md",
+      "sourceSha256": "302104d32af917c74d867c4fae027801be8967cc95f58a18463a560481274e6b",
+      "targetSha256": "26a85a8025119741c73f67420a9860857886ae1565640f03ebacf60c8f32636d"
+    },
+    {
+      "source": "site-links.json",
+      "target": "site-links.en.json",
+      "sourceSha256": "fc489bb5b43fde543a149cf4ca5419727852cc52a76e24ff2fed491e1c6adff4",
+      "targetSha256": "b41e00147d07b505e3e58a59febebe41fac743066da2b8cb50c0e222b181a1f9"
+    }
+  ]
+}

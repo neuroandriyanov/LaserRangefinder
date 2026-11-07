@@ -1,0 +1,111 @@
+{
+  "schema": 1,
+  "base": "repository root",
+  "items": [
+    {
+      "title": "Desktop application",
+      "path": "app/README.en.md",
+      "kind": "documentation"
+    },
+    {
+      "title": "Quartus project",
+      "path": "fpga/DistanceSensorFpga_v0.qpf",
+      "kind": "download"
+    },
+    {
+      "title": "FPGA build",
+      "path": "fpga/README.en.md",
+      "kind": "documentation"
+    },
+    {
+      "title": "Main schematic",
+      "path": "hardware/schematics/main.pdf",
+      "kind": "pdf"
+    },
+    {
+      "title": "Power supply",
+      "path": "hardware/schematics/power.pdf",
+      "kind": "pdf"
+    },
+    {
+      "title": "Bill of materials",
+      "path": "hardware/schematics/bom.xlsx",
+      "kind": "spreadsheet"
+    },
+    {
+      "title": "Board, optics and power-supply photos",
+      "path": "hardware/photos/README.en.md",
+      "kind": "gallery"
+    },
+    {
+      "title": "Latest series",
+      "path": "measurements/2026-11-03/README.en.md",
+      "kind": "report"
+    },
+    {
+      "title": "Measurement workbook",
+      "path": "measurements/2026-11-03/Bench measurements.en.xlsx",
+      "kind": "spreadsheet"
+    },
+    {
+      "title": "Oscilloscope captures",
+      "path": "measurements/2026-11-03/Осциллограммы/README.en.md",
+      "kind": "gallery"
+    },
+    {
+      "title": "UART v3",
+      "path": "docs/protocol-v3.en.md",
+      "kind": "documentation"
+    },
+    {
+      "title": "Verification",
+      "path": "docs/build-verification.en.md",
+      "kind": "report"
+    },
+    {
+      "title": "Project overview",
+      "path": "README.en.md",
+      "kind": "overview"
+    },
+    {
+      "title": "Project history",
+      "path": "docs/project-story.en.md",
+      "kind": "article"
+    },
+    {
+      "title": "Test bench",
+      "path": "docs/stand.en.md",
+      "kind": "documentation"
+    },
+    {
+      "title": "Experiments",
+      "path": "docs/experiments.en.md",
+      "kind": "report"
+    },
+    {
+      "title": "Start working with AI",
+      "path": "docs/START_WITH_AI.en.md",
+      "kind": "guide"
+    },
+    {
+      "title": "AI instructions",
+      "path": "AGENTS.en.md",
+      "kind": "documentation"
+    },
+    {
+      "title": "Current status",
+      "path": "docs/AI_HANDOFF.en.md",
+      "kind": "documentation"
+    },
+    {
+      "title": "Licenses",
+      "path": "NOTICE.en.md",
+      "kind": "documentation"
+    },
+    {
+      "title": "Schematic and BOM reading guide",
+      "path": "hardware/schematics/labels.en.md",
+      "kind": "documentation"
+    }
+  ]
+}

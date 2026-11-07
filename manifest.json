@@ -1,13 +1,14 @@
 {
   "schema": 1,
-  "created_utc": "2026-11-03T18:39:17.995533+00:00",
+  "created_utc": "2026-11-07T16:20:45.007670+00:00",
   "scope": "Self-contained publication copy; no generated build/cache files. This manifest excludes itself.",
   "release": "2026-11-03; desktop 0.5.1; FPGA UART v3",
   "provenance": {
     "fpga": "Byte-identical current working RTL, QSF, QPF, SDC and ROM. See docs/verification/summary.json.",
     "application": "Working desktop 0.5.0 copied, then portable device selection and standalone tests added as 0.5.1.",
-    "measurements": "Byte-identical compact 20261103T165315Z-paired-scope session, including its original manifest.",
-    "hardware": "Owner schematics/BOM and eight original JPEG images; renamed, unchanged bytes."
+    "measurements": "All original compact 20261103T165315Z-paired-scope files and its historical manifest are byte-identical. Adjacent English documents, caption-only SVG derivatives and a translated workbook were added; numerical inputs and formula calculations are preserved.",
+    "hardware": "Owner schematics/BOM and eight original JPEG images; renamed, unchanged bytes.",
+    "translations": "Full adjacent English documents, language navigation in current Russian documents, English site-link catalogue, reading guide for already-English schematic/BOM labels, translations.json and the RU-first translation workflow. See docs/PROJECT_LOG.md; originals of historical READMEs were not edited."
   },
   "files": [
     {
@@ -22,8 +23,8 @@
     },
     {
       "path": "AGENTS.md",
-      "bytes": 9046,
-      "sha256": "3332adbcf4dbaff58a4aa2002a6e826deb49dcdc638f980422425911df517485"
+      "bytes": 9237,
+      "sha256": "621509b8bead8a42608cb318f2124e7c877fc29167e9523791e5eedc94bf7fb7"
     },
     {
       "path": "app/desktop_app/__init__.py",
@@ -127,8 +128,8 @@
     },
     {
       "path": "app/README.md",
-      "bytes": 8325,
-      "sha256": "d341a6c9596e686fdd20767236093d124f3df5cb2ae229c7642135daec2feff5"
+      "bytes": 8373,
+      "sha256": "13ed648267446279606c473892af116ef7d37340f3ac7098d0e8fc4126c4bbdb"
     },
     {
       "path": "app/requirements-vector60.txt",
@@ -207,68 +208,68 @@
     },
     {
       "path": "CONTRIBUTING.md",
-      "bytes": 1761,
-      "sha256": "e7f2656236a294022118ec5f17e1f11dd79eeeb3a38b07b6004f8a9fe6a1eaed"
+      "bytes": 2128,
+      "sha256": "3917c1a3c263e4ef101ba930dfd6e36cf7fed97be23c5d38a98616d4cbaab573"
     },
     {
       "path": "docs/AI_HANDOFF.md",
-      "bytes": 7472,
-      "sha256": "51f4eec9d41e22551da745b8e5a762e232ecfb61a64fdfe733d12caffbbc8561"
+      "bytes": 8387,
+      "sha256": "3185d15f1ce814e50da5c87ded70e2338aa15b7ad48b3ed6b1e7fc0fb49dd4e4"
     },
     {
       "path": "docs/architecture.md",
-      "bytes": 2809,
-      "sha256": "3ab0a0edd95df602e47cad7c52a976741a8c5b47d5b11303ddfb4408415d4305"
+      "bytes": 2863,
+      "sha256": "7b4f1ecdb585d548c05971dbe2b14c6a00bf24c766b46d27ae94e35c8696875b"
     },
     {
       "path": "docs/build-verification.md",
-      "bytes": 4273,
-      "sha256": "927638e47b3f33b6babd7c20f973f04191283edbf83f094bcf661eaf4cabaa69"
+      "bytes": 4333,
+      "sha256": "c3f03f22c3c996104e8f9e2f47a2ed0050b8c398882d928f1dc8fff20cdc8ab1"
     },
     {
       "path": "docs/experiments.md",
-      "bytes": 7811,
-      "sha256": "b7af8422dc29ea95ec064cf4d2a439d46168606b3001ebbd043e9e185a8bb6c5"
+      "bytes": 7862,
+      "sha256": "fa08acd27bb3a09a3db6971f7e305c493a0e823acda097aaa1d2cc254ab4e127"
     },
     {
       "path": "docs/known-limitations.md",
-      "bytes": 2803,
-      "sha256": "5207a012b783be5a01374b2bc1d3ee959ff814c39a41f37eb9c263f4df375a1b"
+      "bytes": 2862,
+      "sha256": "7e808f2a8377545ae36b7e2caf053d94083f7ba5a57e8c9f256fd4aed5e6fabc"
     },
     {
       "path": "docs/license-sources.md",
-      "bytes": 2059,
-      "sha256": "3869fbf97f9ed1adda5259b8198cbfa1a34fb3334fe082b631f693404313427a"
+      "bytes": 2114,
+      "sha256": "58080f6cca390b36362f9f68ff6050a984eb19d7382d5fd243543a207d2bc4d4"
     },
     {
       "path": "docs/project-story.md",
-      "bytes": 7239,
-      "sha256": "9f3eaf6f83240538a91de9028e1fb02bd6f5ba397c7787fef13a606b31a25b50"
+      "bytes": 7292,
+      "sha256": "45aa717694f819b81981888eb982ec0ef67ce2a0b5fd1a7bb63810df1a34a268"
     },
     {
       "path": "docs/PROJECT_LOG.md",
-      "bytes": 6943,
-      "sha256": "4c94663d01f99d6268897e0d9cb5b64785a335f32a74cb6f5a5da41b61417707"
+      "bytes": 9980,
+      "sha256": "912369931db25ec552c8ec80e35a6cbe5cc3987858d92dd11074ecda61a14c3d"
     },
     {
       "path": "docs/protocol-v2-fields.md",
-      "bytes": 4751,
-      "sha256": "3cb9d8612f453120002392b9706bf17861f37743d053a76633a8c02de42f03ce"
+      "bytes": 4811,
+      "sha256": "4a4a45e099406ce57dabe952b5f5c631a654e0b841db2221e280ecf1c2fc70ee"
     },
     {
       "path": "docs/protocol-v3.md",
-      "bytes": 18318,
-      "sha256": "ee949efd018e13b3d52688fd4b2dfb408525a09c5df395ba8425fe4491f75ef7"
+      "bytes": 18371,
+      "sha256": "1529d782be85d567ba4aa2722ad4532f84eb7aaf0d7c677cff29ac6f1a756e59"
     },
     {
       "path": "docs/stand.md",
-      "bytes": 7874,
-      "sha256": "4b2148f615b4502dd406214c782f48dd2cd3190b8fabfdcd15616b3248e81e5d"
+      "bytes": 7919,
+      "sha256": "5c1fd3d4e146d601316be3fab4a8290f6569253b4f80fe0856b3d419c2f42857"
     },
     {
       "path": "docs/START_WITH_AI.md",
-      "bytes": 7714,
-      "sha256": "9e022565d2c4a9400f9d0819aaabbf2097d481ab6cac2b31da6740c646a5d1ef"
+      "bytes": 7767,
+      "sha256": "79ff468d3eea1e5faf77e02546185f2dde08959e81c30935dbff329b14a65a50"
     },
     {
       "path": "docs/verification/app-tests.txt",
@@ -367,8 +368,8 @@
     },
     {
       "path": "docs/website-links.md",
-      "bytes": 3458,
-      "sha256": "d9e334327b05fb80910c52bb524f92e8ffb4375504218972b88206804947675b"
+      "bytes": 3513,
+      "sha256": "9a6becf9a995c65250564acdab777d76050899039fc434a6e12909d20b9d3828"
     },
     {
       "path": "fpga/ads8681_bank.sv",
@@ -462,8 +463,8 @@
     },
     {
       "path": "fpga/README.md",
-      "bytes": 5341,
-      "sha256": "e4262bef66cb57c8f313399ca589c9c7025aeb6f03ba137d6bdc7f03e0ad7476"
+      "bytes": 5389,
+      "sha256": "2dc33d6e5d38dd85cdd7474d3d0c57ac41acfec7dec27547bd6f0ef705afe50f"
     },
     {
       "path": "fpga/releases/2026-11-03/DistanceSensorFpga_v0.pof",
@@ -587,13 +588,13 @@
     },
     {
       "path": "hardware/photos/README.md",
-      "bytes": 1770,
-      "sha256": "bbb7d72852c54aae56bca683926fd1aab7035e39e58d9250af0b7916ce9401f3"
+      "bytes": 1816,
+      "sha256": "ad2889ac8118452a8566439be5bdd04320da042853e4fbb316d8277690ca50f5"
     },
     {
       "path": "hardware/README.md",
-      "bytes": 2751,
-      "sha256": "761cc043b8a2cce46be328122d4e1b1b5a351daa1621d5721d0170aabd68c384"
+      "bytes": 2931,
+      "sha256": "02f62ef05ec1fe1820c5e3df599483ff1c549b50f3eb4c3c8ec87bb266dabad3"
     },
     {
       "path": "hardware/schematics/bom.xlsx",
@@ -617,8 +618,8 @@
     },
     {
       "path": "LICENSE_STATUS.md",
-      "bytes": 994,
-      "sha256": "546dc5d35c78f53c29e4c6a1fbc279c189041ec4f2560c81d111ad5cee146980"
+      "bytes": 1050,
+      "sha256": "8f21262dc62eaaadb24b6fed3e0517c988afd8f62a417168af583e6e4d90846b"
     },
     {
       "path": "LICENSES/CERN-OHL-P-2.0.txt",
@@ -922,18 +923,18 @@
     },
     {
       "path": "measurements/README.md",
-      "bytes": 764,
-      "sha256": "c988d34cb52e685ddd052dd908aa9f305bbca846196a2350e00b322584f7010f"
+      "bytes": 1641,
+      "sha256": "302104d32af917c74d867c4fae027801be8967cc95f58a18463a560481274e6b"
     },
     {
       "path": "NOTICE.md",
-      "bytes": 4795,
-      "sha256": "d6c85cb871f8d5061f9fd740cd0e913718c1fc35e923225b9175ffe6eb46d82b"
+      "bytes": 4843,
+      "sha256": "66815874bceace6665ad05c1c0fdffeba81d912218ea77dd2ce8369e2628be6d"
     },
     {
       "path": "README.md",
-      "bytes": 14190,
-      "sha256": "b9f361afe2200e3da0174d8f1fe8855ed0ca3a2bdf9f5a80ffb22cc3b5f58819"
+      "bytes": 14490,
+      "sha256": "bd148321525b479a868be57699b9b04ce600cd3517ab9851009cdb004135014e"
     },
     {
       "path": "site-links.json",
@@ -944,6 +945,278 @@
       "path": "tools/verify_bundle.py",
       "bytes": 982,
       "sha256": "384e41d0d13488893d7ffb7c7ad37be196529b229f6f727ac78c09880694b1df"
+    },
+    {
+      "path": "AGENTS.en.md",
+      "bytes": 5996,
+      "sha256": "8a9982db72dd16842e8274affe9b4487c40d5c61c309a6b91f8f900f61ac0f08"
+    },
+    {
+      "path": "CONTRIBUTING.en.md",
+      "bytes": 1274,
+      "sha256": "002787fdbba8e2e4dec55666b37a2d7f23ea31e389596f9802e40e16b4954636"
+    },
+    {
+      "path": "LICENSE_STATUS.en.md",
+      "bytes": 672,
+      "sha256": "7679c926353fbdd986f0b6821ce7270e1af09609e91cf3e982a4a2ffffb33765"
+    },
+    {
+      "path": "NOTICE.en.md",
+      "bytes": 2747,
+      "sha256": "dd0bc54fe432caafb5d4b580364b7d2197b1dc63d0630d0aea9c4fd438ae094e"
+    },
+    {
+      "path": "README.en.md",
+      "bytes": 9371,
+      "sha256": "da9733fe9e2445cfdf9a9ba55cbd4021600eb084163aefa47b74ef32ed5671a8"
+    },
+    {
+      "path": "app/README.en.md",
+      "bytes": 5563,
+      "sha256": "ed90396cfe5252a6b374354727ad651a9570bca551ae8aa03e469db746c358fb"
+    },
+    {
+      "path": "docs/AI_HANDOFF.en.md",
+      "bytes": 5698,
+      "sha256": "904f30fff795746890305f6f664d8a830d93e459d34fd7dbc07363b7161e22b3"
+    },
+    {
+      "path": "docs/PROJECT_LOG.en.md",
+      "bytes": 6442,
+      "sha256": "3c312cc2abaaaa9b91958691ece6e0b699522ba271a3e3a835c7449a4fef0ec4"
+    },
+    {
+      "path": "docs/START_WITH_AI.en.md",
+      "bytes": 4958,
+      "sha256": "344052710fc8a68abe1363f37cdc5f9af2feaecb1733aa7ad7805101b079189d"
+    },
+    {
+      "path": "docs/TRANSLATIONS.en.md",
+      "bytes": 3015,
+      "sha256": "cc2bf11ce40ae267d133d3ca5b8ce6085860ebc7cba5dc6792d20e467504fd97"
+    },
+    {
+      "path": "docs/TRANSLATIONS.md",
+      "bytes": 5054,
+      "sha256": "772001fe5a17e25f41a2da1768dbfb378e65590fc14057cce9f5cc3af7261230"
+    },
+    {
+      "path": "docs/architecture.en.md",
+      "bytes": 1961,
+      "sha256": "1023182554b7f43aaa3d45f61330d01fc997414af0ef98e2b32282274298bbac"
+    },
+    {
+      "path": "docs/build-verification.en.md",
+      "bytes": 2863,
+      "sha256": "c4f1ddaf3b505e5d4472a74d62c85bc272d375ac850b24b7969d41013d7c1be5"
+    },
+    {
+      "path": "docs/experiments.en.md",
+      "bytes": 5071,
+      "sha256": "00df05a42485cc29291e7f953212d22ed841b210441f2c10b62d9c1670e9e8fe"
+    },
+    {
+      "path": "docs/known-limitations.en.md",
+      "bytes": 1749,
+      "sha256": "8430302ddd72b87cfdbcfc433605a3c2f8a6bd3ab8c4a14b6123d83bb70d607c"
+    },
+    {
+      "path": "docs/license-sources.en.md",
+      "bytes": 1531,
+      "sha256": "f0a9c4de3067f6f4c009bad064882a7f484a7f6989d73a20f713ba580d8fdfc1"
+    },
+    {
+      "path": "docs/manifests/pre-english-2026-11-07.json",
+      "bytes": 34438,
+      "sha256": "a71c552b40e1a5bb3b159ed23de5005b781a5a8f5c1bae148a7a498fcc3c709d"
+    },
+    {
+      "path": "docs/project-story.en.md",
+      "bytes": 4422,
+      "sha256": "fb0b4a026de57afe5b4eb34dce999f53e3e86b45def4cb4dc98698e4e96464c2"
+    },
+    {
+      "path": "docs/protocol-v2-fields.en.md",
+      "bytes": 3093,
+      "sha256": "4070bcbb2b2f75c7e5c83f8d798ffbc6ccc3d2fb6669f976f0ff2031382a9ae3"
+    },
+    {
+      "path": "docs/protocol-v3.en.md",
+      "bytes": 11716,
+      "sha256": "4d40e56b5d766216c1a864d977cd034812db9ca3008fe2f144eae8a5f06a1b5b"
+    },
+    {
+      "path": "docs/stand.en.md",
+      "bytes": 4961,
+      "sha256": "5a5718c55d37d574c79f72f418fb863cf1e6662ddecda1db074b24cae1ee376e"
+    },
+    {
+      "path": "docs/website-links.en.md",
+      "bytes": 2600,
+      "sha256": "d30ce66e4cd8d9906cad618bf1768ec00cea9bb960e4793c5a98b91cdd7f5463"
+    },
+    {
+      "path": "fpga/README.en.md",
+      "bytes": 3729,
+      "sha256": "1e322d98d2248bcae6918007c4abfeb94b16a8fc355ce98d6171041df6af3cd4"
+    },
+    {
+      "path": "hardware/README.en.md",
+      "bytes": 1998,
+      "sha256": "09fc3ea562c48b60c253d368223607620f86297e51267f9d44b61f63a273388c"
+    },
+    {
+      "path": "hardware/photos/README.en.md",
+      "bytes": 1264,
+      "sha256": "552f069dab0ae5f258f5d8375065909e0f366f8caf8a1878710225711a9c6108"
+    },
+    {
+      "path": "hardware/schematics/labels.en.md",
+      "bytes": 3562,
+      "sha256": "f37234cd9603925c996f5f02a030a611f328bb00ea77c831d8f6141ae42ba02b"
+    },
+    {
+      "path": "hardware/schematics/labels.md",
+      "bytes": 5621,
+      "sha256": "7e8294efdd3c39850f75adb1c2e6431b81ddeef1d2acffdfe7af2b3bdec9e368"
+    },
+    {
+      "path": "measurements/2026-11-03/Bench measurements.en.xlsx",
+      "bytes": 23143,
+      "sha256": "e3ea929171281c2d810c67009f29709cdd98603c6124bb0720e318f4d0b917fd"
+    },
+    {
+      "path": "measurements/2026-11-03/README.en.md",
+      "bytes": 8519,
+      "sha256": "fa5b037254025561d72c9a00a4fff5be8c265b6ab52759ab6e8eb9eee25c8c4b"
+    },
+    {
+      "path": "measurements/2026-11-03/Осциллограммы/README.en.md",
+      "bytes": 2535,
+      "sha256": "6d87558b7f0d45773413b39f1a16b7db02a9460ec38f6ff6c691bf2eb3fc1f65"
+    },
+    {
+      "path": "measurements/2026-11-03/Осциллограммы/point-01_00762.0mm_ch1-ch3.en.svg",
+      "bytes": 66506,
+      "sha256": "c6a665697c674124f0310cfc073fac4f45ae2c958b01ce46534291dc88b5ca5b"
+    },
+    {
+      "path": "measurements/2026-11-03/Осциллограммы/point-01_00762.0mm_ch2-ch4.en.svg",
+      "bytes": 62826,
+      "sha256": "cd16ff44b6a1b5726c8a4bc4eb7314c68fba0a8693f15cdbc5b368a528e05225"
+    },
+    {
+      "path": "measurements/2026-11-03/Осциллограммы/point-02_01091.0mm_ch1-ch3.en.svg",
+      "bytes": 65895,
+      "sha256": "33862594bcf91b2d21a49e664d46087395f38b990aa37f7c1b04d543d799f405"
+    },
+    {
+      "path": "measurements/2026-11-03/Осциллограммы/point-02_01091.0mm_ch2-ch4.en.svg",
+      "bytes": 62675,
+      "sha256": "1d443f04c4e3d619abe88e58be75fd20db901fba88cca588acb2bef12232e6e4"
+    },
+    {
+      "path": "measurements/2026-11-03/Осциллограммы/point-03_01480.0mm_ch1-ch3.en.svg",
+      "bytes": 66383,
+      "sha256": "d7e5f6161956147b267978f3d1d39c7ddc7a797119a48cd5d273c76a7dcf4bb4"
+    },
+    {
+      "path": "measurements/2026-11-03/Осциллограммы/point-03_01480.0mm_ch2-ch4.en.svg",
+      "bytes": 63239,
+      "sha256": "41da91132d179d09e2b5912790cd4571096f6ae8f00d1bd1eb715da961ba807e"
+    },
+    {
+      "path": "measurements/2026-11-03/Осциллограммы/point-04_01958.0mm_ch1-ch3.en.svg",
+      "bytes": 66319,
+      "sha256": "35fcedf75b747249f5b247c530381a0d9f81a103d0d3a83a2a812f812a89bf3f"
+    },
+    {
+      "path": "measurements/2026-11-03/Осциллограммы/point-04_01958.0mm_ch2-ch4.en.svg",
+      "bytes": 63403,
+      "sha256": "663d106b5f847dca127535ce9c7ea8bebeefdfde1bff7e0aa4a8d86f401aa869"
+    },
+    {
+      "path": "measurements/2026-11-03/Осциллограммы/point-05_02398.0mm_ch1-ch3.en.svg",
+      "bytes": 66559,
+      "sha256": "1240356fdda7fa7c335d03b78e4080819948fe49fd8e363994ccfe4050da633a"
+    },
+    {
+      "path": "measurements/2026-11-03/Осциллограммы/point-05_02398.0mm_ch2-ch4.en.svg",
+      "bytes": 64927,
+      "sha256": "4c37cd9a19320f37033c4c084c337734c697284f5af7be7d720a0bed59a47a49"
+    },
+    {
+      "path": "measurements/2026-11-03/Осциллограммы/point-06_02876.0mm_ch1-ch3.en.svg",
+      "bytes": 65963,
+      "sha256": "93cb7b252471b3a1b7c55bd3c39a4a6af6e609de86abd3377acfc132aa30e5c7"
+    },
+    {
+      "path": "measurements/2026-11-03/Осциллограммы/point-06_02876.0mm_ch2-ch4.en.svg",
+      "bytes": 62779,
+      "sha256": "fa665c29dc42735ae0f146c98225e17d9be5ab996054ea5647efef0669929499"
+    },
+    {
+      "path": "measurements/2026-11-03/Осциллограммы/point-07_03425.0mm_ch1-ch3.en.svg",
+      "bytes": 66315,
+      "sha256": "8292a35bfa2e2e20dae4ad318fa840692489cb055f83cead730280903574b101"
+    },
+    {
+      "path": "measurements/2026-11-03/Осциллограммы/point-07_03425.0mm_ch2-ch4.en.svg",
+      "bytes": 59847,
+      "sha256": "6d511758d00b6f3a669342642f6d91046774a0b278d70fb06ea0a4ffff0e6b41"
+    },
+    {
+      "path": "measurements/2026-11-03/Осциллограммы/point-08_04198.0mm_ch1-ch3.en.svg",
+      "bytes": 67483,
+      "sha256": "d790d6cc68b566e907338c98263ebcf7b6a4025001944bae65502b037ea2dc0d"
+    },
+    {
+      "path": "measurements/2026-11-03/Осциллограммы/point-08_04198.0mm_ch2-ch4.en.svg",
+      "bytes": 59467,
+      "sha256": "24876d7b5b79039fee278aeaf84608bf8ca0258f02b3fd9afe21fc11d812be88"
+    },
+    {
+      "path": "measurements/2026-11-03/Осциллограммы/point-09_04814.0mm_ch1-ch3.en.svg",
+      "bytes": 66731,
+      "sha256": "b6667a42a8802e76284ec1b6c59b96e7b01b89131b603f4e8f562b34c2d9a915"
+    },
+    {
+      "path": "measurements/2026-11-03/Осциллограммы/point-09_04814.0mm_ch2-ch4.en.svg",
+      "bytes": 59803,
+      "sha256": "ef1771c1ab689bf0ae8e477a8db8323d53d0b09d61d1a48631e9a6ab43ddbaeb"
+    },
+    {
+      "path": "measurements/2026-11-03/Осциллограммы/point-10_05635.0mm_ch1-ch3.en.svg",
+      "bytes": 65587,
+      "sha256": "73ac551f798626f02cb17a48fda9b26713f789de46e7bc4ac6ef48258c77b14b"
+    },
+    {
+      "path": "measurements/2026-11-03/Осциллограммы/point-10_05635.0mm_ch2-ch4.en.svg",
+      "bytes": 64443,
+      "sha256": "7ecefc014440c0772a44cc660e07aba6574fc910f62ca83d6d2c88519751cb3e"
+    },
+    {
+      "path": "measurements/README.en.md",
+      "bytes": 1087,
+      "sha256": "26a85a8025119741c73f67420a9860857886ae1565640f03ebacf60c8f32636d"
+    },
+    {
+      "path": "site-links.en.json",
+      "bytes": 2552,
+      "sha256": "b41e00147d07b505e3e58a59febebe41fac743066da2b8cb50c0e222b181a1f9"
+    },
+    {
+      "path": "tools/translations.mjs",
+      "bytes": 3675,
+      "sha256": "4f05ae6ee14c457e98d57c2fa1f1e4bdc4ef4a7231811d9bb324a69a3e9ba69d"
+    },
+    {
+      "path": "translations.json",
+      "bytes": 16116,
+      "sha256": "37a8cf726184c37e5da9bb4a19994ac51076074be5f363207865d82fa73c8d0c"
     }
-  ]
+  ],
+  "documentation_release": "2026-11-07; full English documentation and labelled derivatives; no hardware/software revision",
+  "previous_manifest": "docs/manifests/pre-english-2026-11-07.json"
 }
